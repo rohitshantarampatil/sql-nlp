@@ -1,0 +1,504 @@
+,Natural,SQL
+0,What is the Name of the Author with ID A-2392 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-2392';
+1,What is the Name of the Author with ID A-220 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-220';
+2,What is the Name of the Author with ID A-3208 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-3208';
+3,What is the Name of the Author with ID A-10787 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-10787';
+4,What is the Name of the Author with ID A-12662 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-12662';
+5,What is the Name of the Author with ID A-8747 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-8747';
+6,What is the Name of the Author with ID A-5900 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-5900';
+7,What is the Name of the Author with ID A-13371 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-13371';
+8,What is the Name of the Author with ID A-14043 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-14043';
+9,What is the Name of the Author with ID A-897 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-897';
+10,What is the Name of the Author with ID A-18390 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-18390';
+11,What is the Name of the Author with ID A-8714 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-8714';
+12,What is the Name of the Author with ID A-9471 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-9471';
+13,What is the Name of the Author with ID A-7355 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-7355';
+14,What is the Name of the Author with ID A-7125 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-7125';
+15,What is the Name of the Author with ID A-16135 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-16135';
+16,What is the Name of the Author with ID A-3135 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-3135';
+17,What is the Name of the Author with ID A-9066 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-9066';
+18,What is the Name of the Author with ID A-7134 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-7134';
+19,What is the Name of the Author with ID A-4403 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-4403';
+20,What is the Name of the Author with ID A-16367 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-16367';
+21,What is the Name of the Author with ID A-13577 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-13577';
+22,What is the Name of the Author with ID A-10616 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-10616';
+23,What is the Name of the Author with ID A-14432 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-14432';
+24,What is the Name of the Author with ID A-1174 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-1174';
+25,What is the Name of the Author with ID A-6525 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-6525';
+26,What is the Name of the Author with ID A-4245 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-4245';
+27,What is the Name of the Author with ID A-505 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-505';
+28,What is the Name of the Author with ID A-15517 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-15517';
+29,What is the Name of the Author with ID A-6815 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-6815';
+30,What is the Name of the Author with ID A-4985 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-4985';
+31,What is the Name of the Author with ID A-18286 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-18286';
+32,What is the Name of the Author with ID A-13261 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-13261';
+33,What is the Name of the Author with ID A-2051 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-2051';
+34,What is the Name of the Author with ID A-4295 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-4295';
+35,What is the Name of the Author with ID A-17049 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-17049';
+36,What is the Name of the Author with ID A-650 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-650';
+37,Name the author whose ID is A-13335,SELECT Name FROM AuthID_Name WHERE AuthID='A-13335';
+38,Name the author whose ID is A-11581,SELECT Name FROM AuthID_Name WHERE AuthID='A-11581';
+39,Name the author whose ID is A-17801,SELECT Name FROM AuthID_Name WHERE AuthID='A-17801';
+40,Name the author whose ID is A-17355,SELECT Name FROM AuthID_Name WHERE AuthID='A-17355';
+41,Name the author whose ID is A-2959,SELECT Name FROM AuthID_Name WHERE AuthID='A-2959';
+42,Name the author whose ID is A-7802,SELECT Name FROM AuthID_Name WHERE AuthID='A-7802';
+43,Name the author whose ID is A-18534,SELECT Name FROM AuthID_Name WHERE AuthID='A-18534';
+44,Name the author whose ID is A-17116,SELECT Name FROM AuthID_Name WHERE AuthID='A-17116';
+45,Name the author whose ID is A-8048,SELECT Name FROM AuthID_Name WHERE AuthID='A-8048';
+46,Name the author whose ID is A-3799,SELECT Name FROM AuthID_Name WHERE AuthID='A-3799';
+47,Name the author whose ID is A-8969,SELECT Name FROM AuthID_Name WHERE AuthID='A-8969';
+48,Name the author whose ID is A-7078,SELECT Name FROM AuthID_Name WHERE AuthID='A-7078';
+49,Name the author whose ID is A-12256,SELECT Name FROM AuthID_Name WHERE AuthID='A-12256';
+50,Name the author whose ID is A-738,SELECT Name FROM AuthID_Name WHERE AuthID='A-738';
+51,Name the author whose ID is A-5821,SELECT Name FROM AuthID_Name WHERE AuthID='A-5821';
+52,Name the author whose ID is A-9220,SELECT Name FROM AuthID_Name WHERE AuthID='A-9220';
+53,Name the author whose ID is A-4447,SELECT Name FROM AuthID_Name WHERE AuthID='A-4447';
+54,Name the author whose ID is A-10739,SELECT Name FROM AuthID_Name WHERE AuthID='A-10739';
+55,Name the author whose ID is A-87,SELECT Name FROM AuthID_Name WHERE AuthID='A-87';
+56,Name the author whose ID is A-9668,SELECT Name FROM AuthID_Name WHERE AuthID='A-9668';
+57,Name the author whose ID is A-5814,SELECT Name FROM AuthID_Name WHERE AuthID='A-5814';
+58,Name the author whose ID is A-211,SELECT Name FROM AuthID_Name WHERE AuthID='A-211';
+59,Name the author whose ID is A-2166,SELECT Name FROM AuthID_Name WHERE AuthID='A-2166';
+60,Name the author whose ID is A-661,SELECT Name FROM AuthID_Name WHERE AuthID='A-661';
+61,Name the author whose ID is A-11690,SELECT Name FROM AuthID_Name WHERE AuthID='A-11690';
+62,Name the author whose ID is A-5873,SELECT Name FROM AuthID_Name WHERE AuthID='A-5873';
+63,Name the author whose ID is A-17507,SELECT Name FROM AuthID_Name WHERE AuthID='A-17507';
+64,Name the author whose ID is A-17631,SELECT Name FROM AuthID_Name WHERE AuthID='A-17631';
+65,Name the author whose ID is A-17600,SELECT Name FROM AuthID_Name WHERE AuthID='A-17600';
+66,Name the author whose ID is A-4391,SELECT Name FROM AuthID_Name WHERE AuthID='A-4391';
+67,Name the author whose ID is A-11523,SELECT Name FROM AuthID_Name WHERE AuthID='A-11523';
+68,Name the author whose ID is A-7769,SELECT Name FROM AuthID_Name WHERE AuthID='A-7769';
+69,Name the author whose ID is A-16540,SELECT Name FROM AuthID_Name WHERE AuthID='A-16540';
+70,Name the author whose ID is A-11264,SELECT Name FROM AuthID_Name WHERE AuthID='A-11264';
+71,Name the author whose ID is A-6370,SELECT Name FROM AuthID_Name WHERE AuthID='A-6370';
+72,Name the author whose ID is A-11843,SELECT Name FROM AuthID_Name WHERE AuthID='A-11843';
+73,Name the author whose ID is A-17430,SELECT Name FROM AuthID_Name WHERE AuthID='A-17430';
+74,"What is the ID of the Author whose name is Federico, Marcello ?","SELECT AuthID FROM AuthID_Name WHERE Name='Federico, Marcello';"
+75,"What is the ID of the Author whose name is Chen, Yin ?","SELECT AuthID FROM AuthID_Name WHERE Name='Chen, Yin';"
+76,"What is the ID of the Author whose name is Quan, Li ?","SELECT AuthID FROM AuthID_Name WHERE Name='Quan, Li';"
+77,"What is the ID of the Author whose name is Lozano, Carmen ?","SELECT AuthID FROM AuthID_Name WHERE Name='Lozano, Carmen';"
+78,"What is the ID of the Author whose name is Ljunglof, Peter ?","SELECT AuthID FROM AuthID_Name WHERE Name='Ljunglof, Peter';"
+79,"What is the ID of the Author whose name is Abrusci, V Michele ?","SELECT AuthID FROM AuthID_Name WHERE Name='Abrusci, V Michele';"
+80,"What is the ID of the Author whose name is Klein, Judith ?","SELECT AuthID FROM AuthID_Name WHERE Name='Klein, Judith';"
+81,"What is the ID of the Author whose name is Elhadad, NoAAcmie ?","SELECT AuthID FROM AuthID_Name WHERE Name='Elhadad, NoAAcmie';"
+82,"What is the ID of the Author whose name is Wang, Anruo ?","SELECT AuthID FROM AuthID_Name WHERE Name='Wang, Anruo';"
+83,"What is the ID of the Author whose name is Tinkham, Nancy L ?","SELECT AuthID FROM AuthID_Name WHERE Name='Tinkham, Nancy L';"
+84,"What is the ID of the Author whose name is Luo, Airong ?","SELECT AuthID FROM AuthID_Name WHERE Name='Luo, Airong';"
+85,"What is the ID of the Author whose name is Issac, Fabrice ?","SELECT AuthID FROM AuthID_Name WHERE Name='Issac, Fabrice';"
+86,What is the ID of the Author whose name is Stckel Andreas ?,SELECT AuthID FROM AuthID_Name WHERE Name='Stckel Andreas';
+87,"What is the ID of the Author whose name is Yamashina, Masaki ?","SELECT AuthID FROM AuthID_Name WHERE Name='Yamashina, Masaki';"
+88,"What is the ID of the Author whose name is Hernaacutendez H, Adolfo ?","SELECT AuthID FROM AuthID_Name WHERE Name='Hernaacutendez H, Adolfo';"
+89,"What is the ID of the Author whose name is Kim, Myunghee ?","SELECT AuthID FROM AuthID_Name WHERE Name='Kim, Myunghee';"
+90,"What is the ID of the Author whose name is Howlett, Susan ?","SELECT AuthID FROM AuthID_Name WHERE Name='Howlett, Susan';"
+91,"What is the ID of the Author whose name is Zhou, Deyu ?","SELECT AuthID FROM AuthID_Name WHERE Name='Zhou, Deyu';"
+92,"What is the ID of the Author whose name is Adams, Jeff ?","SELECT AuthID FROM AuthID_Name WHERE Name='Adams, Jeff';"
+93,"What is the ID of the Author whose name is Maji, Hemanta K ?","SELECT AuthID FROM AuthID_Name WHERE Name='Maji, Hemanta K';"
+94,"What is the ID of the Author whose name is Monteil, MarieGaelle ?","SELECT AuthID FROM AuthID_Name WHERE Name='Monteil, MarieGaelle';"
+95,"What is the ID of the Author whose name is Entwisle, J ?","SELECT AuthID FROM AuthID_Name WHERE Name='Entwisle, J';"
+96,"What is the ID of the Author whose name is Balfourier, JeanMarie ?","SELECT AuthID FROM AuthID_Name WHERE Name='Balfourier, JeanMarie';"
+97,"What is the ID of the Author whose name is Hwang, Seungwon ?","SELECT AuthID FROM AuthID_Name WHERE Name='Hwang, Seungwon';"
+98,"What is the ID of the Author whose name is Macks, Aaron ?","SELECT AuthID FROM AuthID_Name WHERE Name='Macks, Aaron';"
+99,"What is the ID of the Author whose name is MariAo, JosAc ?","SELECT AuthID FROM AuthID_Name WHERE Name='MariAo, JosAc';"
+100,"What is the ID of the Author whose name is Tong, Richard M ?","SELECT AuthID FROM AuthID_Name WHERE Name='Tong, Richard M';"
+101,"What is the ID of the Author whose name is Coppen, PeterArno ?","SELECT AuthID FROM AuthID_Name WHERE Name='Coppen, PeterArno';"
+102,"What is the ID of the Author whose name is Wang, Adrienne ?","SELECT AuthID FROM AuthID_Name WHERE Name='Wang, Adrienne';"
+103,"What is the ID of the Author whose name is Kurella, Svitlana ?","SELECT AuthID FROM AuthID_Name WHERE Name='Kurella, Svitlana';"
+104,"What is the ID of the Author whose name is Currier, Patricia A ?","SELECT AuthID FROM AuthID_Name WHERE Name='Currier, Patricia A';"
+105,"What is the ID of the Author whose name is Dost, Ascander ?","SELECT AuthID FROM AuthID_Name WHERE Name='Dost, Ascander';"
+106,"What is the ID of the Author whose name is Podvesky, Petr ?","SELECT AuthID FROM AuthID_Name WHERE Name='Podvesky, Petr';"
+107,"What is the ID of the Author whose name is Riccardi, Giuseppe ?","SELECT AuthID FROM AuthID_Name WHERE Name='Riccardi, Giuseppe';"
+108,"What is the ID of the Author whose name is Matveeva, Irina ?","SELECT AuthID FROM AuthID_Name WHERE Name='Matveeva, Irina';"
+109,"What is the ID of the Author whose name is Correa, Nelson ?","SELECT AuthID FROM AuthID_Name WHERE Name='Correa, Nelson';"
+110,"What is the ID of the Author whose name is Chen, Yan ?","SELECT AuthID FROM AuthID_Name WHERE Name='Chen, Yan';"
+111,"List the Authors whose name begin with Delhay, Arna ?","SELECT AuthID FROM AuthID_Name WHERE Name='Delhay, Arna';"
+112,"List the Authors whose name begin with Itoh,  ?","SELECT AuthID FROM AuthID_Name WHERE Name='Itoh, ';"
+113,List the Authors whose name begin with Slavche ?,SELECT AuthID FROM AuthID_Name WHERE Name='Slavche';
+114,"List the Authors whose name begin with Xi, ?","SELECT AuthID FROM AuthID_Name WHERE Name='Xi,';"
+115,List the Authors whose name begin with Ga ?,SELECT AuthID FROM AuthID_Name WHERE Name='Ga';
+116,List the Authors whose name begin with S ?,SELECT AuthID FROM AuthID_Name WHERE Name='S';
+117,"List the Authors whose name begin with Weber, Nicol ?","SELECT AuthID FROM AuthID_Name WHERE Name='Weber, Nicol';"
+118,"List the Authors whose name begin with Wu, Xi ?","SELECT AuthID FROM AuthID_Name WHERE Name='Wu, Xi';"
+119,"List the Authors whose name begin with Levy, O ?","SELECT AuthID FROM AuthID_Name WHERE Name='Levy, O';"
+120,List the Authors whose name begin with Kim ?,SELECT AuthID FROM AuthID_Name WHERE Name='Kim';
+121,List the Authors whose name begin with M ?,SELECT AuthID FROM AuthID_Name WHERE Name='M';
+122,List the Authors whose name begin with Wad ?,SELECT AuthID FROM AuthID_Name WHERE Name='Wad';
+123,"List the Authors whose name begin with Dudik, Miro ?","SELECT AuthID FROM AuthID_Name WHERE Name='Dudik, Miro';"
+124,"List the Authors whose name begin with Cabaleiro, Be ?","SELECT AuthID FROM AuthID_Name WHERE Name='Cabaleiro, Be';"
+125,"List the Authors whose name begin with Lin,  ?","SELECT AuthID FROM AuthID_Name WHERE Name='Lin, ';"
+126,"List the Authors whose name begin with Gupta, Sa ?","SELECT AuthID FROM AuthID_Name WHERE Name='Gupta, Sa';"
+127,"List the Authors whose name begin with Ge, T ?","SELECT AuthID FROM AuthID_Name WHERE Name='Ge, T';"
+128,List the Authors whose name begin with Jayarajan ?,SELECT AuthID FROM AuthID_Name WHERE Name='Jayarajan';
+129,"List the Authors whose name begin with Zafiu, ?","SELECT AuthID FROM AuthID_Name WHERE Name='Zafiu,';"
+130,List the Authors whose name begin with Li ?,SELECT AuthID FROM AuthID_Name WHERE Name='Li';
+131,"List the Authors whose name begin with He, Zh ?","SELECT AuthID FROM AuthID_Name WHERE Name='He, Zh';"
+132,"List the Authors whose name begin with Duan,  ?","SELECT AuthID FROM AuthID_Name WHERE Name='Duan, ';"
+133,"List the Authors whose name begin with Li, Xi ?","SELECT AuthID FROM AuthID_Name WHERE Name='Li, Xi';"
+134,List the Authors whose name begin with Leong ?,SELECT AuthID FROM AuthID_Name WHERE Name='Leong';
+135,List the Authors whose name begin with Ya ?,SELECT AuthID FROM AuthID_Name WHERE Name='Ya';
+136,"List the Authors whose name begin with Garera, ?","SELECT AuthID FROM AuthID_Name WHERE Name='Garera,';"
+137,"List the Authors whose name begin with Tachibana,  ?","SELECT AuthID FROM AuthID_Name WHERE Name='Tachibana, ';"
+138,List the Authors whose name begin with Alme ?,SELECT AuthID FROM AuthID_Name WHERE Name='Alme';
+139,List the Authors whose name begin with Jameson ?,SELECT AuthID FROM AuthID_Name WHERE Name='Jameson';
+140,List the Authors whose name begin with H ?,SELECT AuthID FROM AuthID_Name WHERE Name='H';
+141,"List the Authors whose name begin with Schwartz, Han ?","SELECT AuthID FROM AuthID_Name WHERE Name='Schwartz, Han';"
+142,List the Authors whose name begin with Dam ?,SELECT AuthID FROM AuthID_Name WHERE Name='Dam';
+143,List the Authors whose name begin with Bli ?,SELECT AuthID FROM AuthID_Name WHERE Name='Bli';
+144,"List the Authors whose name begin with Cole,  ?","SELECT AuthID FROM AuthID_Name WHERE Name='Cole, ';"
+145,"List the Authors whose name begin with Kartsaklis, D ?","SELECT AuthID FROM AuthID_Name WHERE Name='Kartsaklis, D';"
+146,"List the Authors whose name begin with L Homme, Marie ?","SELECT AuthID FROM AuthID_Name WHERE Name='L Homme, Marie';"
+147,"List the Authors whose name begin with Nagao, Kyo ?","SELECT AuthID FROM AuthID_Name WHERE Name='Nagao, Kyo';"
+148,"What are the IDs of the Authors whose name begin with Liu, ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Liu,%';"
+149,"What are the IDs of the Authors whose name begin with Baroni, Pao ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Baroni, Pao%';"
+150,"What are the IDs of the Authors whose name begin with Chiu, A ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Chiu, A%';"
+151,"What are the IDs of the Authors whose name begin with EyigAAPz, El ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'EyigAAPz, El%';"
+152,"What are the IDs of the Authors whose name begin with Kehler, A ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Kehler, A%';"
+153,"What are the IDs of the Authors whose name begin with Mao, Want ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Mao, Want%';"
+154,What are the IDs of the Authors whose name begin with O ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'O%';
+155,"What are the IDs of the Authors whose name begin with Tamura, Noriyu ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Tamura, Noriyu%';"
+156,"What are the IDs of the Authors whose name begin with Garcia, O ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Garcia, O%';"
+157,What are the IDs of the Authors whose name begin with Olari ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Olari%';
+158,What are the IDs of the Authors whose name begin with W ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'W%';
+159,"What are the IDs of the Authors whose name begin with Thomas, Chis ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Thomas, Chis%';"
+160,What are the IDs of the Authors whose name begin with Grover ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Grover%';
+161,What are the IDs of the Authors whose name begin with P ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'P%';
+162,"What are the IDs of the Authors whose name begin with Allen, Ba ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Allen, Ba%';"
+163,"What are the IDs of the Authors whose name begin with Murata, ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Murata,%';"
+164,What are the IDs of the Authors whose name begin with Jongta ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Jongta%';
+165,"What are the IDs of the Authors whose name begin with Feng,  ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Feng, %';"
+166,What are the IDs of the Authors whose name begin with Cu ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Cu%';
+167,What are the IDs of the Authors whose name begin with Tan ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Tan%';
+168,What are the IDs of the Authors whose name begin with Farka ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Farka%';
+169,"What are the IDs of the Authors whose name begin with Grosjean, Fran ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Grosjean, Fran%';"
+170,What are the IDs of the Authors whose name begin with Verdej ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Verdej%';
+171,What are the IDs of the Authors whose name begin with Ha ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Ha%';
+172,"What are the IDs of the Authors whose name begin with Moumlhrs, Chri ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Moumlhrs, Chri%';"
+173,"What are the IDs of the Authors whose name begin with Meya,  ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Meya, %';"
+174,"What are the IDs of the Authors whose name begin with Sakai, ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Sakai,%';"
+175,What are the IDs of the Authors whose name begin with Howar ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Howar%';
+176,"What are the IDs of the Authors whose name begin with Krupavicius, Al ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Krupavicius, Al%';"
+177,What are the IDs of the Authors whose name begin with Shige ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Shige%';
+178,"What are the IDs of the Authors whose name begin with Li,  ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Li, %';"
+179,What are the IDs of the Authors whose name begin with Costel ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Costel%';
+180,"What are the IDs of the Authors whose name begin with Chang, ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Chang,%';"
+181,"What are the IDs of the Authors whose name begin with Leser, ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Leser,%';"
+182,What are the IDs of the Authors whose name begin with Z ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Z%';
+183,What are the IDs of the Authors whose name begin with Liu ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Liu%';
+184,What are the IDs of the Authors whose name begin with S ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'S%';
+185,How many author have name which begins with Gonz ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Gonz%';
+186,How many author have name which begins with Qiu ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Qiu%';
+187,"How many author have name which begins with Dermatas, Ev ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Dermatas, Ev%';"
+188,How many author have name which begins with Svobodo ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Svobodo%';
+189,How many author have name which begins with N ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'N%';
+190,How many author have name which begins with Ni ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Ni%';
+191,How many author have name which begins with Ju ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Ju%';
+192,"How many author have name which begins with Berglund, Mar ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Berglund, Mar%';"
+193,How many author have name which begins with Koirala ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Koirala%';
+194,How many author have name which begins with Ferre ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Ferre%';
+195,How many author have name which begins with Ghasem ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Ghasem%';
+196,"How many author have name which begins with Kashani, Me ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Kashani, Me%';"
+197,How many author have name which begins with Sik ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Sik%';
+198,How many author have name which begins with Hir ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Hir%';
+199,"How many author have name which begins with Molina, ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Molina,%';"
+200,How many author have name which begins with Tamburin ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Tamburin%';
+201,How many author have name which begins with Lue ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Lue%';
+202,"How many author have name which begins with Materna, Ji ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Materna, Ji%';"
+203,How many author have name which begins with Ga ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Ga%';
+204,"How many author have name which begins with Obradovicacute,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Obradovicacute, %';"
+205,How many author have name which begins with Vishwan ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Vishwan%';
+206,"How many author have name which begins with Nagata, Ju ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Nagata, Ju%';"
+207,How many author have name which begins with Poesi ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Poesi%';
+208,How many author have name which begins with Grana ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Grana%';
+209,How many author have name which begins with Amir ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Amir%';
+210,"How many author have name which begins with Kongyoung, Sarawo ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Kongyoung, Sarawo%';"
+211,"How many author have name which begins with Hwa, Rebe ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Hwa, Rebe%';"
+212,"How many author have name which begins with Nasir, Jam ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Nasir, Jam%';"
+213,How many author have name which begins with B ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'B%';
+214,How many author have name which begins with Hayw ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Hayw%';
+215,"How many author have name which begins with Shein,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Shein, %';"
+216,"How many author have name which begins with Liu, FuH ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Liu, FuH%';"
+217,How many author have name which begins with K ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'K%';
+218,How many author have name which begins with Me ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Me%';
+219,"How many author have name which begins with Garrido,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Garrido, %';"
+220,How many author have name which begins with Jos ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Jos%';
+221,How many author have name which begins with Q ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Q%';
+222,"How many author have name which contains with , Minh ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%, Minh%';"
+223,"How many author have name which contains with , Hartm ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%, Hartm%';"
+224,"How many author have name which contains with r, Ma ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%r, Ma%';"
+225,"How many author have name which contains with ukhin, Mik ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%ukhin, Mik%';"
+226,"How many author have name which contains with ins, C ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%ins, C%';"
+227,"How many author have name which contains with , J ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%, J%';"
+228,"How many author have name which contains with iu, H ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%iu, H%';"
+229,How many author have name which contains with mad ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%mad%';
+230,"How many author have name which contains with uang,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%uang, %';"
+231,"How many author have name which contains with and, Dav ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%and, Dav%';"
+232,"How many author have name which contains with i, N ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%i, N%';"
+233,How many author have name which contains with er ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%er%';
+234,"How many author have name which contains with lenius,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%lenius, %';"
+235,"How many author have name which contains with , Zh ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%, Zh%';"
+236,"How many author have name which contains with ne,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%ne, %';"
+237,"How many author have name which contains with oni, A ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%oni, A%';"
+238,How many author have name which contains with   ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '% %';
+239,"How many author have name which contains with re, Ship ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%re, Ship%';"
+240,"How many author have name which contains with ooseph, Sh ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%ooseph, Sh%';"
+241,"How many author have name which contains with z, Um ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%z, Um%';"
+242,"How many author have name which contains with coda, Kri ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%coda, Kri%';"
+243,"How many author have name which contains with elken, Henr ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%elken, Henr%';"
+244,How many author have name which contains with lo Oliveira  ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%lo Oliveira %';
+245,"How many author have name which contains with lesKemp, Liz ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%lesKemp, Liz%';"
+246,"How many author have name which contains with orkmaz, Emi ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%orkmaz, Emi%';"
+247,How many author have name which contains with hilipsenbu ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%hilipsenbu%';
+248,How many author have name which contains with obichaud ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%obichaud%';
+249,"How many author have name which contains with awker, To ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%awker, To%';"
+250,How many author have name which contains with  Prak ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '% Prak%';
+251,"How many author have name which contains with rin,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%rin, %';"
+252,"How many author have name which contains with rg, J ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%rg, J%';"
+253,"How many author have name which contains with e, Ye ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%e, Ye%';"
+254,"How many author have name which contains with ter, D ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%ter, D%';"
+255,"How many author have name which contains with ,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%, %';"
+256,How many author have name which contains with uye ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%uye%';
+257,"How many author have name which contains with hi, Tak ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%hi, Tak%';"
+258,How many author have name which contains with  Hele ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '% Hele%';
+259,How many number of papers have been published in the conference C-525?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-525' ;
+260,How many number of papers have been published in the conference C-49?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-49' ;
+261,How many number of papers have been published in the conference C-29?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-29' ;
+262,How many number of papers have been published in the conference C-70?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-70' ;
+263,How many number of papers have been published in the conference C-423?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-423' ;
+264,How many number of papers have been published in the conference C-408?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-408' ;
+265,How many number of papers have been published in the conference C-442?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-442' ;
+266,How many number of papers have been published in the conference C-154?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-154' ;
+267,How many number of papers have been published in the conference C-107?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-107' ;
+268,How many number of papers have been published in the conference C-289?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-289' ;
+269,How many number of papers have been published in the conference C-415?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-415' ;
+270,How many number of papers have been published in the conference C-592?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-592' ;
+271,How many number of papers have been published in the conference C-382?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-382' ;
+272,How many number of papers have been published in the conference C-123?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-123' ;
+273,How many number of papers have been published in the conference C-578?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-578' ;
+274,How many number of papers have been published in the conference C-241?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-241' ;
+275,How many number of papers have been published in the conference C-235?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-235' ;
+276,How many number of papers have been published in the conference C-550?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-550' ;
+277,How many number of papers have been published in the conference C-234?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-234' ;
+278,How many number of papers have been published in the conference C-211?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-211' ;
+279,How many number of papers have been published in the conference C-410?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-410' ;
+280,How many number of papers have been published in the conference C-81?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-81' ;
+281,How many number of papers have been published in the conference C-670?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-670' ;
+282,How many number of papers have been published in the conference C-547?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-547' ;
+283,How many number of papers have been published in the conference C-427?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-427' ;
+284,How many number of papers have been published in the conference C-213?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-213' ;
+285,How many number of papers have been published in the conference C-531?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-531' ;
+286,How many number of papers have been published in the conference C-229?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-229' ;
+287,How many number of papers have been published in the conference C-474?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-474' ;
+288,How many number of papers have been published in the conference C-135?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-135' ;
+289,How many number of papers have been published in the conference C-670?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-670' ;
+290,How many number of papers have been published in the conference C-519?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-519' ;
+291,How many number of papers have been published in the conference C-643?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-643' ;
+292,How many number of papers have been published in the conference C-29?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-29' ;
+293,How many number of papers have been published in the conference C-235?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-235' ;
+294,How many number of papers have been published in the conference C-586?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-586' ;
+295,How many number of papers have been published in the conference C-50?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-50' ;
+296,How many number of papers have been published in the conference C-108?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-108' ;
+297,How many number of papers have been published in the conference C-412?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-412' ;
+298,How many number of papers have been published in the conference C-136?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-136' ;
+299,How many number of papers have been published in the conference C-325?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-325' ;
+300,List all the Conference ID with more than 222 Papers,"SELECT COUNT(*),ConfID FROM ConfID_PaperID GROUP BY ConfID HAVING COUNT(*)>222;"
+301,List all the Conference ID with more than 305 Papers,"SELECT COUNT(*),ConfID FROM ConfID_PaperID GROUP BY ConfID HAVING COUNT(*)>305;"
+302,List all the Conference ID with more than 173 Papers,"SELECT COUNT(*),ConfID FROM ConfID_PaperID GROUP BY ConfID HAVING COUNT(*)>173;"
+303,List all the Conference ID with more than 247 Papers,"SELECT COUNT(*),ConfID FROM ConfID_PaperID GROUP BY ConfID HAVING COUNT(*)>247;"
+304,List all the Conference ID with more than 324 Papers,"SELECT COUNT(*),ConfID FROM ConfID_PaperID GROUP BY ConfID HAVING COUNT(*)>324;"
+305,What is the Conference ID of the conference in which paper of the id P99-1041 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P99-1041';
+306,What is the Conference ID of the conference in which paper of the id W04-2301 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W04-2301';
+307,What is the Conference ID of the conference in which paper of the id P09-1037 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P09-1037';
+308,What is the Conference ID of the conference in which paper of the id N13-1032 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='N13-1032';
+309,What is the Conference ID of the conference in which paper of the id L08-1296 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='L08-1296';
+310,What is the Conference ID of the conference in which paper of the id C92-3156 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='C92-3156';
+311,What is the Conference ID of the conference in which paper of the id W99-0104 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W99-0104';
+312,What is the Conference ID of the conference in which paper of the id C80-1034 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='C80-1034';
+313,What is the Conference ID of the conference in which paper of the id H05-1122 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='H05-1122';
+314,What is the Conference ID of the conference in which paper of the id N10-1145 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='N10-1145';
+315,What is the Conference ID of the conference in which paper of the id W08-0329 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W08-0329';
+316,What is the Conference ID of the conference in which paper of the id W01-1004 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W01-1004';
+317,What is the Conference ID of the conference in which paper of the id W04-1904 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W04-1904';
+318,What is the Conference ID of the conference in which paper of the id W97-0216 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W97-0216';
+319,What is the Conference ID of the conference in which paper of the id P80-1001 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P80-1001';
+320,What is the Conference ID of the conference in which paper of the id P81-1013 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P81-1013';
+321,What is the Conference ID of the conference in which paper of the id P08-2064 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P08-2064';
+322,What is the Conference ID of the conference in which paper of the id W07-1702 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W07-1702';
+323,What is the Conference ID of the conference in which paper of the id P15-1018 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P15-1018';
+324,What is the Conference ID of the conference in which paper of the id P14-1100 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P14-1100';
+325,What is the Conference ID of the conference in which paper of the id W11-2130 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W11-2130';
+326,What is the Conference ID of the conference in which paper of the id H01-1045 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='H01-1045';
+327,What is the Conference ID of the conference in which paper of the id L08-1438 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='L08-1438';
+328,What is the Conference ID of the conference in which paper of the id C14-2004 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='C14-2004';
+329,What is the Conference ID of the conference in which paper of the id N04-4035 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='N04-4035';
+330,What is the Conference ID of the conference in which paper of the id W11-1414 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W11-1414';
+331,What is the Conference ID of the conference in which paper of the id D09-1162 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='D09-1162';
+332,What is the Conference ID of the conference in which paper of the id D14-1082 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='D14-1082';
+333,What is the Conference ID of the conference in which paper of the id D09-1092 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='D09-1092';
+334,What is the Conference ID of the conference in which paper of the id D14-1019 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='D14-1019';
+335,What is the Conference ID of the conference in which paper of the id W09-1707 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W09-1707';
+336,What is the Conference ID of the conference in which paper of the id C10-2060 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='C10-2060';
+337,What is the Conference ID of the conference in which paper of the id W06-1671 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W06-1671';
+338,What is the Conference ID of the conference in which paper of the id N09-2047 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='N09-2047';
+339,What is the Conference ID of the conference in which paper of the id P09-1060 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P09-1060';
+340,What is the Conference ID of the conference in which paper of the id E12-3007 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='E12-3007';
+341,What is the Conference ID of the conference in which paper of the id W10-0733 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W10-0733';
+342,What is the Conference ID of the conference in which paper of the id E87-1044 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='E87-1044';
+343,What is the Conference ID of the conference in which paper of the id D13-1001 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='D13-1001';
+344,What is the Conference ID of the conference in which paper of the id P04-1041 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P04-1041';
+345,What is the Conference ID of the conference in which paper of the id W11-0816 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W11-0816';
+346,What is the Conference ID of the conference in which paper of the id P93-1013 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P93-1013';
+347,What is the Conference ID of the conference in which paper of the id N03-4005 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='N03-4005';
+348,What is the Conference ID of the conference in which paper of the id E12-1083 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='E12-1083';
+349,What is the Conference ID of the conference in which paper of the id W03-0302 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W03-0302';
+350,What is the Conference ID of the conference in which paper of the id P93-1002 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P93-1002';
+351,List the paper ID of the all the paper which in the conference with ID C-31,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-31
+352,List the paper ID of the all the paper which in the conference with ID C-274,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-274
+353,List the paper ID of the all the paper which in the conference with ID C-53,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-53
+354,List the paper ID of the all the paper which in the conference with ID C-459,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-459
+355,List the paper ID of the all the paper which in the conference with ID C-581,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-581
+356,List the paper ID of the all the paper which in the conference with ID C-342,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-342
+357,List the paper ID of the all the paper which in the conference with ID C-647,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-647
+358,List the paper ID of the all the paper which in the conference with ID C-310,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-310
+359,List the paper ID of the all the paper which in the conference with ID C-84,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-84
+360,List the paper ID of the all the paper which in the conference with ID C-53,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-53
+361,List the paper ID of the all the paper which in the conference with ID C-314,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-314
+362,List the paper ID of the all the paper which in the conference with ID C-528,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-528
+363,List the paper ID of the all the paper which in the conference with ID C-422,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-422
+364,List the paper ID of the all the paper which in the conference with ID C-99,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-99
+365,List the paper ID of the all the paper which in the conference with ID C-445,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-445
+366,List the paper ID of the all the paper which in the conference with ID C-612,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-612
+367,List the paper ID of the all the paper which in the conference with ID C-539,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-539
+368,List the paper ID of the all the paper which in the conference with ID C-314,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-314
+369,List the paper ID of the all the paper which in the conference with ID C-589,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-589
+370,List the paper ID of the all the paper which in the conference with ID C-358,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-358
+371,List the paper ID of the all the paper which in the conference with ID C-318,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-318
+372,List the paper ID of the all the paper which in the conference with ID C-320,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-320
+373,List the paper ID of the all the paper which in the conference with ID C-519,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-519
+374,List the paper ID of the all the paper which in the conference with ID C-41,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-41
+375,List the paper ID of the all the paper which in the conference with ID C-651,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-651
+376,List the paper ID of the all the paper which in the conference with ID C-418,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-418
+377,List the paper ID of the all the paper which in the conference with ID C-424,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-424
+378,List the paper ID of the all the paper which in the conference with ID C-306,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-306
+379,List the paper ID of the all the paper which in the conference with ID C-329,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-329
+380,List the paper ID of the all the paper which in the conference with ID C-463,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-463
+381,List the paper ID of the all the paper which in the conference with ID C-52,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-52
+382,List the paper ID of the all the paper which in the conference with ID C-185,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-185
+383,List the paper ID of the all the paper which in the conference with ID C-529,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-529
+384,List the paper ID of the all the paper which in the conference with ID C-438,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-438
+385,List the paper ID of the all the paper which in the conference with ID C-520,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-520
+386,List the paper ID of the all the paper which in the conference with ID C-195,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-195
+387,List the paper ID of the all the paper which in the conference with ID C-358,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-358
+388,List the paper ID of the all the paper which in the conference with ID C-665,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-665
+389,List the paper ID of the all the paper which in the conference with ID C-210,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-210
+390,List the paper ID of the all the paper which in the conference with ID C-166,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-166
+391,List the paper ID of the all the paper which in the conference with ID C-534,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-534
+392,How many number of papers have been published with the ID that starts with S10-10?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'S10-10%' ;
+393,How many number of papers have been published with the ID that starts with W12-33?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W12-33%' ;
+394,How many number of papers have been published with the ID that starts with C90-?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'C90-%' ;
+395,How many number of papers have been published with the ID that starts with W9?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W9%' ;
+396,How many number of papers have been published with the ID that starts with N09-50?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'N09-50%' ;
+397,How many number of papers have been published with the ID that starts with D10-?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D10-%' ;
+398,How many number of papers have been published with the ID that starts with W99-02?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W99-02%' ;
+399,How many number of papers have been published with the ID that starts with W0?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W0%' ;
+400,How many number of papers have been published with the ID that starts with W13-19?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W13-19%' ;
+401,How many number of papers have been published with the ID that starts with H91-10?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'H91-10%' ;
+402,How many number of papers have been published with the ID that starts with C?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'C%' ;
+403,How many number of papers have been published with the ID that starts with C9?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'C9%' ;
+404,How many number of papers have been published with the ID that starts with C94-2?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'C94-2%' ;
+405,How many number of papers have been published with the ID that starts with W04?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W04%' ;
+406,How many number of papers have been published with the ID that starts with W07-10?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W07-10%' ;
+407,How many number of papers have been published with the ID that starts with L?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'L%' ;
+408,How many number of papers have been published with the ID that starts with W97-0?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W97-0%' ;
+409,How many number of papers have been published with the ID that starts with I?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'I%' ;
+410,How many number of papers have been published with the ID that starts with D08-?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D08-%' ;
+411,How many number of papers have been published with the ID that starts with W12-?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W12-%' ;
+412,How many number of papers have been published with the ID that starts with D0?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D0%' ;
+413,How many number of papers have been published with the ID that starts with N06-10?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'N06-10%' ;
+414,How many number of papers have been published with the ID that starts with P06?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'P06%' ;
+415,How many number of papers have been published with the ID that starts with W13?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W13%' ;
+416,How many number of papers have been published with the ID that starts with W05-?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W05-%' ;
+417,How many number of papers have been published with the ID that starts with H?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'H%' ;
+418,How many number of papers have been published with the ID that starts with L08-1?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'L08-1%' ;
+419,How many number of papers have been published with the ID that starts with D1?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D1%' ;
+420,How many number of papers have been published with the ID that starts with N15-11?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'N15-11%' ;
+421,How many number of papers have been published with the ID that starts with P09?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'P09%' ;
+422,How many number of papers have been published with the ID that starts with M91-10?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'M91-10%' ;
+423,How many number of papers have been published with the ID that starts with H94-10?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'H94-10%' ;
+424,How many number of papers have been published with the ID that starts with N04-1?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'N04-1%' ;
+425,How many number of papers have been published with the ID that starts with D12?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D12%' ;
+426,How many number of papers have been published with the ID that starts with N12-30?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'N12-30%' ;
+427,How many number of papers have been published with the ID that starts with P03-10?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'P03-10%' ;
+428,How many number of papers have been published with the ID that starts with P8?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'P8%' ;
+429,How many number of papers have been published with the ID that starts with P09-2?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'P09-2%' ;
+430,How many number of papers have been published with the ID that starts with I?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'I%' ;
+431,How many number of papers have been published with the ID that starts with W02?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W02%' ;
+432,How many number of papers have been published with the ID that starts with P06-11?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'P06-11%' ;
+433,How many number of papers have been published with the ID that starts with D0?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D0%' ;
+434,How many number of papers have been published with the ID that starts with C82-10?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'C82-10%' ;
+435,How many number of papers have been published with the ID that starts with D13-?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D13-%' ;
+436,How many number of papers have been published with the ID that starts with A0?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'A0%' ;
+437,How many number of papers have been published with the ID that starts with P09-?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'P09-%' ;
+438,How many number of conference have been conducted in the field F-7?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-7' ;
+439,How many number of conference have been conducted in the field F-6?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-6' ;
+440,How many number of conference have been conducted in the field F-14?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-14' ;
+441,How many number of conference have been conducted in the field F-13?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-13' ;
+442,How many number of conference have been conducted in the field F-6?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-6' ;
+443,How many number of conference have been conducted in the field F-8?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-8' ;
+444,How many number of conference have been conducted in the field F-8?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-8' ;
+445,List all the conference which has beeen conducted in the field with ID F-9,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-9' ;
+446,List all the conference which has beeen conducted in the field with ID F-1,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-1' ;
+447,List all the conference which has beeen conducted in the field with ID F-0,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-0' ;
+448,List all the conference which has beeen conducted in the field with ID F-10,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-10' ;
+449,List all the conference which has beeen conducted in the field with ID F-8,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-8' ;
+450,List all the conference which has beeen conducted in the field with ID F-3,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-3' ;
+451,List all the conference which has beeen conducted in the field with ID F-10,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-10' ;
+452,List all the Field ID with more than 30 conferences,"SELECT COUNT(*),FieldID FROM ConfID_FieldID GROUP BY FieldID HAVING COUNT(*)>30;"
+453,List all the Field ID with more than 36 conferences,"SELECT COUNT(*),FieldID FROM ConfID_FieldID GROUP BY FieldID HAVING COUNT(*)>36;"
+454,List all the Field ID with more than 13 conferences,"SELECT COUNT(*),FieldID FROM ConfID_FieldID GROUP BY FieldID HAVING COUNT(*)>13;"
+455,List all the Field ID with more than 38 conferences,"SELECT COUNT(*),FieldID FROM ConfID_FieldID GROUP BY FieldID HAVING COUNT(*)>38;"
+456,List all the Field ID with more than 24 conferences,"SELECT COUNT(*),FieldID FROM ConfID_FieldID GROUP BY FieldID HAVING COUNT(*)>24;"
+457,What is the Field ID in which the conference with ID C-652 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-652' ;
+458,What is the Field ID in which the conference with ID C-466 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-466' ;
+459,What is the Field ID in which the conference with ID C-227 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-227' ;
+460,What is the Field ID in which the conference with ID C-496 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-496' ;
+461,What is the Field ID in which the conference with ID C-42 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-42' ;
+462,What is the Field ID in which the conference with ID C-500 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-500' ;
+463,What is the Field ID in which the conference with ID C-594 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-594' ;
+464,What is the Field ID in which the conference with ID C-205 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-205' ;
+465,What is the Field ID in which the conference with ID C-310 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-310' ;
+466,What is the Field ID in which the conference with ID C-219 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-219' ;
+467,What is the Field ID in which the conference with ID C-418 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-418' ;
+468,What is the Field ID in which the conference with ID C-82 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-82' ;
+469,What is the Field ID in which the conference with ID C-607 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-607' ;
+470,What is the Field ID in which the conference with ID C-574 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-574' ;
+471,What is the Field ID in which the conference with ID C-424 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-424' ;
+472,What is the Field ID in which the conference with ID C-396 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-396' ;
+473,What is the Field ID in which the conference with ID C-483 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-483' ;
+474,What is the Field ID in which the conference with ID C-621 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-621' ;
+475,What is the Field ID in which the conference with ID C-633 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-633' ;
+476,What is the Field ID in which the conference with ID C-124 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-124' ;
+477,What is the Field ID in which the conference with ID C-432 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-432' ;
+478,What is the Field ID in which the conference with ID C-485 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-485' ;
+479,What is the Field ID in which the conference with ID C-600 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-600' ;
+480,What is the Field ID in which the conference with ID C-622 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-622' ;
+481,What is the Field ID in which the conference with ID C-652 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-652' ;
+482,What is the Field ID in which the conference with ID C-633 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-633' ;
+483,What is the Field ID in which the conference with ID C-437 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-437' ;
+484,What is the Field ID in which the conference with ID C-248 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-248' ;
+485,What is the Field ID in which the conference with ID C-460 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-460' ;
+486,What is the Field ID in which the conference with ID C-327 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-327' ;
+487,What is the Field ID in which the conference with ID C-557 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-557' ;
+488,What is the Field ID in which the conference with ID C-43 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-43' ;
+489,What is the Field ID in which the conference with ID C-388 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-388' ;
+490,What is the Field ID in which the conference with ID C-108 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-108' ;
+491,What is the Field ID in which the conference with ID C-387 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-387' ;
+492,What is the Field ID in which the conference with ID C-461 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-461' ;
+493,What is the Field ID in which the conference with ID C-494 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-494' ;
+494,What is the Field ID in which the conference with ID C-368 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-368' ;
+495,What is the Field ID in which the conference with ID C-535 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-535' ;
+496,What is the Field ID in which the conference with ID C-283 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-283' ;
+497,What is the Field ID in which the conference with ID C-27 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-27' ;
+498,How many number of conference have ID that starts with C-3?,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-3%' ;
+499,How many number of conference have ID that starts with C-5?,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-5%' ;
+500,How many number of conference have ID that starts with C-2?,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-2%' ;
+501,How many number of conference have ID that starts with C-4?,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-4%' ;
+502,How many number of conference have ID that starts with C-1?,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-1%' ;
