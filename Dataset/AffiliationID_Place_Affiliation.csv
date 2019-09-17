@@ -1,0 +1,1964 @@
+Place,Affiliate,AffiliationID
+Zadar Croatia,University of Zadar,AF-0
+Bloomington IN,Indiana University,AF-1
+Hanoi Vietnam,Vietnam National University,AF-2
+Warsaw Poland,Polish Scientific Publishers PWN,AF-3
+Warsaw Poland,Warsaw University,AF-4
+Prague Czech Republic,Charles University,AF-5
+Donostia Spain,University of the Basque Country,AF-6
+Pittsburgh PA,University of Pittsburgh,AF-7
+Cambridge UK,Cambridge University,AF-8
+Goteborg Sweden,Goteborg University,AF-9
+Potsdam Germany,University of Potsdam,AF-10
+Tartu Estonia,University of Tartu,AF-11
+Ann Arbor MI,University of Michigan,AF-12
+Poznan Poland,Adam Mickiewicz University,AF-13
+Brno Czech Republic,Masaryk University,AF-14
+Zagreb Croatia,University of Zagreb,AF-15
+Pilsen Czech Republic,University of West Bohemia,AF-16
+Bucharest Romania,Romanian Academy,AF-17
+Indonesia,BPPT,AF-18
+Fairfax VA,IsoQuest Inc,AF-19
+Seattle WA,University of Washington,AF-20
+Vietnam,National University of Vietnam,AF-21
+Moscow Russia,Russian Academy of Sciences,AF-22
+Fairfax VA,SRA International,AF-23
+Hyderabad India,International Institute of Information Technology,AF-24
+TIPSTER SE/CM,TIPSTER SECM,AF-25
+Cambridge MA,BBN Technologies,AF-26
+Durham UK,University of Durham,AF-27
+Hanoi Vietnam,Vietlex,AF-28
+Vietnam,Vietnam Lexicography Centre,AF-29
+Penang Malaysia,University of Science Malaysia,AF-30
+Richardson TX,Language Computer Corporation,AF-31
+Utrecht The Netherlands,Utrecht University,AF-32
+Deusto Spain,University of Deusto,AF-33
+Hamburg Germany,University of Hamburg,AF-34
+Lyon France,University of Lyon,AF-35
+France,ENSSB,AF-36
+Giza Egypt,Cairo University,AF-37
+Las Cruces NM,New Mexico State University,AF-38
+Greenville NC,East Carolina University,AF-39
+Le Mans France,University of Le Mans,AF-40
+Kyoto Japan,ATR Knowledge Science Laboratories,AF-41
+Kyoto Japan,ATR Intelligent Robotics and Communcations Labs,AF-42
+Tokyo Japan,Hitachi Ltd,AF-43
+Philadelphia PA,University of Pennsylvania,AF-44
+Kawasaki Japan,Real World Computing Partnership,AF-45
+Kanagawa Japan,NEC Corporation,AF-46
+Osaka Japan,Osaka University,AF-47
+Nara Japan,Nara Institute of Science and Technology,AF-48
+Japan,Japan Airlines Co,AF-49
+Saarbrucken Germany,German Research Center for Artificial Intelligence,AF-50
+Japan,Mitsubishi Electric Corp,AF-51
+Japan,Telecommunications Advancement Organization of Japan,AF-52
+Paris France,University of Paris,AF-53
+Saint Denis France,University of Paris,AF-54
+Tokyo Japan,Tokyo Institute of Technology,AF-55
+Tokyo Japan,National Institute of Informatics NII,AF-56
+Tokyo Japan,University of Tokyo,AF-57
+Florham Park NJ,ATT LabsResearch,AF-58
+New Haven CT,Yale University,AF-59
+Jerusalem Israel,Hebrew University of Jerusalem,AF-60
+McLean VA,The MITRE Corporation,AF-61
+Bedford MA,The MITRE Corporation,AF-62
+London UK,Middlesex University,AF-63
+Yorktown Heights NY,IBM TJ Watson Research Center,AF-64
+Morristown NJ,Bellcore,AF-65
+Tehran Iran,Research Center of Samt,AF-66
+Tehran Iran,Sharif University of Technology,AF-67
+Rabat Morocco,Med Vth University,AF-68
+Agdal Morocco,Mohammed V University at Agdal,AF-69
+Sheffield UK,University of Sheffield,AF-70
+Lisbon Portugal,New University of Lisbon,AF-71
+France,CNRS,AF-72
+Brest France,Telecom Bretagne,AF-73
+Romanian Mathematical Society,Romanian Mathematical Society,AF-74
+Budapest Hungary,Hungarian Academy of Sciences,AF-75
+Poznan Poland,Poznan University of Economics,AF-76
+Menlo Park CA,SRI International,AF-77
+Bari Italy,University of Bari,AF-78
+Chicago IL,DePaul University,AF-79
+Montclair NJ,Montclair State University,AF-80
+Inc.,Onyx Consulting,AF-81
+Chicago IL,Illinois Institute of Technology,AF-82
+Pittsburgh PA,Carnegie Mellon University,AF-83
+Redmond WA,Microsoft Research,AF-84
+Tunis,ISGIRMC,AF-85
+New York NY,SpeechCycle,AF-86
+El Paso TX,University of Texas at El Paso,AF-87
+Denver CO,University of Colorado at Denver,AF-88
+Kyoto Japan,Kyoto University,AF-89
+Utsunomiya Japan,Utsunomiya University,AF-90
+Tokyo Japan,Sunflare Company,AF-91
+Istanbul Turkey,Istanbul Technical University,AF-92
+Burlington MA,Sun Microsystems Laboratories,AF-93
+Burlington MA,Nuance Communications,AF-94
+Detroit MI,Wayne State University,AF-95
+Richardson TX,University of Texas at Dallas,AF-96
+Providence RI,Brown University,AF-97
+Worcestershire UK,AE Solutions,AF-98
+Baltimore MD,Synchronetics,AF-99
+Ibadan Nigeria,African Languages Technology Initiative,AF-100
+Barcelona Spain,Technical University of Catalonia,AF-101
+Amsterdam The Netherlands,University of Amsterdam,AF-102
+Be'er Sheva Israel,Ben Gurion University of the Negev,AF-103
+Nottingham UK,University of Nottingham,AF-104
+Genoa Italy,University of Genoa,AF-105
+Amersfoot The Netherlands,Syllogic,AF-106
+Leuven Belgium,Catholic University of Leuven,AF-107
+Liege Belgium,SiemensNixdorf Software Liege,AF-108
+Siemens NLP Research,Siemens NLP Research,AF-109
+Barcelona Spain,University of Barcelona,AF-110
+Donostia Spain,UZEI,AF-111
+Nantes France,University of Nantes,AF-112
+Cairo Egypt,Orange Labs,AF-113
+New York NY,Columbia University,AF-114
+Starkville MS,Mississippi State University,AF-115
+Dallas TX,Texas Instruments Inc,AF-116
+Gatineau QU,National Research Council Gatineau,AF-117
+Birmingham UK,University of Birmingham,AF-118
+Kurukshetra India,National Institute of Technology,AF-119
+Atlanta GA,Emory University,AF-120
+New York NY,New York University,AF-121
+Italy,DrWolf srl,AF-122
+Kharagpur India,Indian Institute of Technology,AF-123
+Sweden,Lund University,AF-124
+Madrid Spain,Technical University of Madrid,AF-125
+Porto Alegre Brazil,Pontifical Catholic University of Rio Grande do Sul,AF-126
+Grenoble France,Xerox Research Centre Europe,AF-127
+Mt. Pleasant MI,Central Michigan University,AF-128
+Boulder CO,University of Colorado at Boulder,AF-129
+Edmonton AB,University of Alberta,AF-130
+Dublin Ireland,Trinity College Dublin,AF-131
+Surrey UK,University of Surrey,AF-132
+Tempe AZ,Arizona State University,AF-133
+Palo Alto CA,FX Palo Alto Laboratory,AF-134
+Seoul Korea,Yonsei University,AF-135
+Edinburgh UK,University of Edinburgh,AF-136
+Helsinki Finland,Helsinki University,AF-137
+Linkoping Sweden,Linkoping University,AF-138
+Taipei Taiwan,National Taiwan University,AF-139
+Ithaca NY,Cornell University,AF-140
+Tokyo Japan,Tokyo University of Technology,AF-141
+Japan,NTT Basic Research Laboratories,AF-142
+Kyoto Japan,NTT Communication Science Laboratories,AF-143
+Zurich Switzerland,University of Zurich,AF-144
+Fribourg Switzerland,University of Fribourg,AF-145
+Lausanne Switzerland,Ecole Polytechnique Federale de Lausanne,AF-146
+Kuala Lumpur Malaysia,University of Malaya,AF-147
+Turku Finland,University of Turku,AF-148
+Tokyo Japan,Keio University,AF-149
+Moffett Field CA,NASA Ames Research Center,AF-150
+Rochester NY,University of Rochester,AF-151
+Tokyo Japan,NHK STRL,AF-152
+Hiroshima Japan,Hiroshima City University,AF-153
+Osaka Japan,ATR Interpreting Telephony Research Laboratories,AF-154
+Turin Italy,University of Turin,AF-155
+Yokohama Japan,Fujitsu Ltd,AF-156
+Chiba Japan,Teikyo University of Technology,AF-157
+Kyoto Japan,ATR Interpreting Telecommunications Research Laboratories,AF-158
+Kyoto Japan,National Institute of Information and Communications Technology,AF-159
+Institute of Information and Applied Mathematics Grenoble,Institute of Information and Applied Mathematics Grenoble,AF-160
+Grenoble France,University of Grenoble,AF-161
+Sydney Australia,Macquarie University,AF-162
+Dublin Ireland,University College Dublin,AF-163
+Toyohashi Japan,Toyohashi University of Technology,AF-164
+Kyoto Japan,ATR Spoken Language Translation Research Laboratories,AF-165
+Ramat Gan Israel,Bar Ilan University,AF-166
+Kawasaki Japan,Fujitsu Laboratories,AF-167
+Enschede The Netherlands,Roessingh Research and Development,AF-168
+Faisal Town Pakistan,National University of Computer and Emerging Sciences,AF-169
+Ankara Turkey,Middle East Technical University,AF-170
+Riyadh Saudi Arabia,King Abdulaziz City for Science and Technology,AF-171
+Vandoeuvre-les-Nancy France,LORIA,AF-172
+Egypt,Engineering Company for the Development of Computer Systems,AF-173
+Hawaly Kuwait,College of Business Studies,AF-174
+Marina del Rey CA,University of Southern California,AF-175
+Dublin Ireland,Dublin City University,AF-176
+Valencia Spain,Technical University of Valencia,AF-177
+Santa Clara CA,BCL Technologies Inc,AF-178
+Toulouse France,University of Toulouse,AF-179
+Los Angeles CA,University of California at Los Angeles,AF-180
+Malaga Spain,University of Malaga,AF-181
+Madrid Spain,Autonomous University of Madrid,AF-182
+Austin TX,Cycorp Inc,AF-183
+Perth Australia,University of Western Australia,AF-184
+Eleka S.L.,Eleka SL,AF-185
+Stockholm Sweden,Stockholm University,AF-186
+Stockholm Sweden,Royal Institute of Technology,AF-187
+Baltimore MD,Johns Hopkins University,AF-188
+Beaverton OR,Tektronix,AF-189
+Bremen Germany,Bremen University,AF-190
+Essex UK,University of Essex,AF-191
+Szeged Hungary,University of Szeged,AF-192
+Mountain View CA,Google Inc,AF-193
+Zurich Switzerland,Google Inc,AF-194
+Peshawar Pakistan,University of Peshawar,AF-195
+Milwaukee WI,University of Wisconsin at Milwaukee,AF-196
+Saarbrucken Germany,Saarland University,AF-197
+Raleigh NC,North Carolina State University,AF-198
+Raleigh NC,Applied Research Associates,AF-199
+Toronto ON,University of Toronto,AF-200
+Amherst MA,University of Massachusetts,AF-201
+Geneva Switzerland,University of Geneva,AF-202
+Pisa Italy,CNRInstitute of Computational Linguistics,AF-203
+Syracuse NY,Syracuse University,AF-204
+Pensacola FL,Florida Institute for Human and Machine Cognition,AF-205
+Cambridge MA,Massachusetts Institute of Technology,AF-206
+Dhahran Saudi Arabia,King Fahd University of Petroleum and Minerals,AF-207
+East Sussex UK,University of Sussex,AF-208
+Urbana IL,University of Illinois at UrbanaChampaign,AF-209
+Dundee UK,University of Dundee,AF-210
+Trondheim Norway,Norwegian University of Science and Technology,AF-211
+Pisa Italy,University of Pisa,AF-212
+Perugia Italy,University of Perugia,AF-213
+A Coruna Spain,University of A Coruna,AF-214
+Spain,Siemens CDS,AF-215
+Villetaneuse France,University of Paris,AF-216
+Chicago IL,Chicago State University,AF-217
+Murray Hill NJ,ATT Bell Labs,AF-218
+Cambridge UK,SRI International,AF-219
+Washington D.C.,Department of Defense,AF-220
+Chicago IL,Toyota Technological Institute,AF-221
+Sao Paulo Brazil,University of Sao Paulo,AF-222
+Tallinn Estonia,Tallinn University of Technology,AF-223
+Greensboro NC,General Dynamics,AF-224
+Nancy France,CELTA,AF-225
+Tokyo Japan,University of ElectroCommunications,AF-226
+Malakoff France,INSSEE,AF-227
+Ottawa ON,University of Ottawa,AF-228
+Kawasaki Japan,Toshiba Corporate RD Center,AF-229
+Sorbonne France,Ecole Nationale des Chartes,AF-230
+Columbus OH,Ohio State University,AF-231
+Trondheim Norway,University of Trondheim,AF-232
+Castellon de la Plana Spain,James  University,AF-233
+Ciudad Universitaria Spain,National University of Distance Education,AF-234
+Sohar Oman,Sohar University,AF-235
+Madrid Spain,University of Alcala,AF-236
+Sevilla Spain,University of Sevilla,AF-237
+Toulouse France,Institute of Research in Informatics Toulouse,AF-238
+Austin TX,University of Texas at Austin,AF-239
+San Diego CA,Kofax Image Products,AF-240
+Pohang Korea,Pohang University of Science and Technology,AF-241
+Cambridge MA,Harvard University,AF-242
+Manchester UK,University of Manchester,AF-243
+UK,National Center for Text Mining,AF-244
+Salford UK,University of Salford,AF-245
+Manchester UK,Manchester Metropolitan University,AF-246
+Boston MA,Northeastern University,AF-247
+Cuba,University of Oriente,AF-248
+Ethiopia,Addis Ababa University,AF-249
+Pittsburgh PA,Carnegie Group Inc,AF-250
+Glasgow UK,University of Glasgow,AF-251
+Fredericton NB,University of New Brunswick,AF-252
+Washington D.C.,Ecological Linguistics,AF-253
+Montreal QU,Concordia University,AF-254
+Stanford CA,Stanford University,AF-255
+Richland WA,Pacific Northwest National Laboratory,AF-256
+York UK,University of York,AF-257
+Moscow Russia,Moscow State University,AF-258
+Princeton NJ,Educational Testing Service,AF-259
+St. Petersburg USSR,Hertzen Pedagogical University,AF-260
+Athens Greece,Athens University of Economics and Business,AF-261
+Athens Greece,Institute of Informatics and Telecommunications,AF-262
+Athens Greece,Research Centre Athena,AF-263
+Paris France,Cap Gemini Innovation,AF-264
+Madison WI,University of WisconsinMadison,AF-265
+Berkeley CA,University of California at Berkeley,AF-266
+Goteborg Sweden,Chalmers University of Technology,AF-267
+Bulgaria,Bulgarian Academy of Sciences,AF-268
+Brussels Belgium,Attentio SA,AF-269
+Waltham MA,Brandeis University,AF-270
+Cambridge MA,Digital Equipment Corporation,AF-271
+Santa Clara CA,Yahoo Inc,AF-272
+Tarzana CA,Speech Systems Inc,AF-273
+Stony Brook NY,Stony Brook University,AF-274
+Bethesda MD,National Institute of Health,AF-275
+Sydney Australia,University of Sydney,AF-276
+Tours France,University of Tours,AF-277
+Grenoble France,Institute of Information and Applied Mathematics Grenoble,AF-278
+Athens Greece,Institute for Language and Speech Processing,AF-279
+Tokushima Japan,University of Tokushima,AF-280
+Karlsruhe Germany,University of Karlsruhe,AF-281
+Austin TX,MCC,AF-282
+Mountain View CA,Advanced Decision Systems,AF-283
+Eindhoven The Netherlands,Philips Research Laboratories,AF-284
+St. Augustine Trinidad,University of the West Indies,AF-285
+Shiraz Iran,Shiraz University,AF-286
+Sapporo Japan,Hokkaido University,AF-287
+Tokyo Japan,Japan Information Center of Science and Technology,AF-288
+Sapporo Japan,HokkaiGakuen University,AF-289
+Kyoto Japan,Kyoto Institute of Technology,AF-290
+Japan,Kyushu Institute of Technology,AF-291
+Fukui Japan,Fukui University,AF-292
+Lancaster UK,Lancaster University,AF-293
+Iowa City IA,University of Iowa,AF-294
+Basque Country,Elhuyar RD,AF-295
+Erlangen Germany,University of ErlangenNuremberg,AF-296
+Lisbon Portugal,Technical University of Lisbon,AF-297
+Munich Germany,Infineon Technologies,AF-298
+Slovenia,Amebis doo,AF-299
+Tokyo Japan,Japan Electronic Dictionary Research Institute,AF-300
+Istanbul Turkey,Bogazici University,AF-301
+Research Triangle Park NC,RTI International,AF-302
+Woodland Hills CA,Language Systems Inc,AF-303
+Plovdiv Bulgaria,Plovdiv University,AF-304
+Helsinki Finland,Helsinki University of Technology,AF-305
+Salt Lake City UT,University of Utah,AF-306
+Bethesda MD,National Library of Medicine,AF-307
+Thailand,Chulalongkorn University,AF-308
+Tubingen Germany,University of Tubingen,AF-309
+Paris France,Evaluations and Language Resources Distribution Agency ELDA,AF-310
+Cambridge UK,European Bioinformatics Institute,AF-311
+Atlanta GA,Nexidia Inc,AF-312
+Cincinnati OH,Cincinnati Childrens Hospital Medical Center,AF-313
+Trento Italy,Center for Scientific and Technological Research,AF-314
+Tokyo Japan,CatenaResource Laboratories Inc,AF-315
+Eagan MN,Thomson Corp,AF-316
+Yokohama Japan,Yokohama National University,AF-317
+Bangalore India,Microsoft Research India,AF-318
+Stockholm Sweden,Virtual Genetics Laboratory AB,AF-319
+Lannion France,Centre National dEtudes des Telecommunications,AF-320
+West Lafayette IN,Purdue University,AF-321
+Arlington TX,University of Texas at Arlington,AF-322
+Oxford UK,Oxford University Press,AF-323
+Ispra Italy,Joint Research Center,AF-324
+Barcelona Spain,Pompeu Fabra University,AF-325
+Barcelona Spain,Yahoo Barcelona,AF-326
+Stuttgart Germany,University of Stuttgart,AF-327
+College Park MD,University of Maryland,AF-328
+Leeds UK,University of Leeds,AF-329
+Rome Italy,University of Rome Tor Vergata,AF-330
+Aix-en Provence France,University of Provence,AF-331
+Malibu CA,Hughes Research Laboratories,AF-332
+Cluj-Napoca Romania,BabesBolyai University,AF-333
+Singapore,Institute for Infocomm Research,AF-334
+Cambridge MA,MetaCarta Inc,AF-335
+Baton Rouge LA,Louisiana State University,AF-336
+Bangi Malaysia,National University of Malaysia,AF-337
+Paris France,CAMS,AF-338
+Newton MA,Dragon Systems Inc,AF-339
+Leiden The Netherlands,Leiden University,AF-340
+Nijmegen The Netherlands,Max Planck Institute for Psycholinguistics,AF-341
+Burlington MA,BAE Systems,AF-342
+Venice Italy,University of Venice,AF-343
+Oxford NJ,Deception Discovery Technologies,AF-344
+NJ,Linguistech Consortium,AF-345
+Washington D.C.,Naval Research Laboratory,AF-346
+Bry-sur-Marne France,Institut National de lAudiovisuel,AF-347
+Villejuif France,INSERM,AF-348
+Grenoble France,IFCI,AF-349
+Maisons-Alfort France,SITE,AF-350
+Munich Germany,University of Munich,AF-351
+Pretoria South Africa,Meraka Institute,AF-352
+Albuquerque NM,Sandia National Laboratories,AF-353
+Korea,Korea Advanced Institute of Science and Technology,AF-354
+Ghent Belgium,Ghent University,AF-355
+Schenectady NY,GE Corporate Research  Development,AF-356
+Durham NC,Duke University,AF-357
+Turin Italy,CSELTCentro Studi e Laboratori Telecomunicazioni,AF-358
+Montreal QU,University of Montreal,AF-359
+Shatin Hong Kong,The Chinese University of Hong Kong,AF-360
+Taiwan,Academia Sinica,AF-361
+Hsinchu Taiwan,National Tsinghua University,AF-362
+Singapore,Kent Ridge Digital Labs,AF-363
+St. Lucia Australia,University of Queensland,AF-364
+Middlesbrough UK,Teesside Polytechnic,AF-365
+Philadelphia PA,Lockheed Martin Corp,AF-366
+Evanston IL,Northwestern University,AF-367
+Nepal,Madan Puraskar Pustakalaya MPP,AF-368
+Iasi Romania,University AI Cuza,AF-369
+Alicante Spain,University of Alicante,AF-370
+Ispra Italy,Institute for the Protection and Security of the Citizen,AF-371
+Palo Alto CA,IBM Palo Alto Scientific Center,AF-372
+New Delhi India,IBM Research India,AF-373
+Eurotra,Eurotra,AF-374
+Palo Alto CA,Palo Alto Research Center,AF-375
+Ancona Italy,AETHRA,AF-376
+Brooklyn NY,Alias I,AF-377
+Melbourne Australia,University of Melbourne,AF-378
+East Lansing MI,Michigan State University,AF-379
+Paoli PA,Unisys Corporation,AF-380
+Mesa AZ,Air Force Research Laboratory,AF-381
+Southampton UK,University of Southampton,AF-382
+Lille France,University of Lille,AF-383
+Medford MA,Tufts University,AF-384
+Calcutta India,Jadavpur University,AF-385
+Chicago IL,University of Chicago,AF-386
+Denton TX,University of North Texas,AF-387
+Philadelphia PA,Drexel University,AF-388
+Vigo Spain,University of Vigo,AF-389
+Milton Keynes UK,The Open University,AF-390
+Uppsala Sweden,UPMAIL,AF-391
+Stockholm Sweden,Swedish Institute of Computer Science,AF-392
+Leipzig Germany,Max Planck Institute for Evolutionary Anthropology,AF-393
+Kanpur India,Indian Institute of Technology,AF-394
+Beijing China,Beijing University of Posts and Telecommunications,AF-395
+Shanghai China,Shanghai Jiaotong University,AF-396
+Hung Hom Hong Kong,Hong Kong Polytechnic University,AF-397
+Faro Portugal,University of the Algarve,AF-398
+Lisbon Portugal,INESC,AF-399
+Haifa Israel,University of Haifa,AF-400
+Rennes France,IRISA,AF-401
+Rennes France,University of Rennes,AF-402
+Wolverhampton UK,University of Wolverhampton,AF-403
+Trento Italy,Graphitech,AF-404
+Dusseldorf Germany,University of Dusseldorf,AF-405
+Auckland New Zealand,University of Auckland,AF-406
+Tucson AZ,University of Arizona,AF-407
+Heidelberg Germany,IBM Scientific Center,AF-408
+Bologna Italy,University of Bologna,AF-409
+Trento Italy,University of Trento,AF-410
+Vienna Austria,Austrian Research Institute for Artificial Intelligence,AF-411
+Sunnyvale CA,Yahoo Research,AF-412
+Hempstead NY,Hofstra University,AF-413
+Burnaby BC,Simon Fraser University,AF-414
+Mondragon Spain,University of Mondragon,AF-415
+Paris France,CEDRIC Laboratory,AF-416
+Le Chesnay France,INRIA,AF-417
+Istanbul Turkey,Galatasaray University,AF-418
+Clermont-Ferrand France,University of ClermontFerrand,AF-419
+Mountain View CA,Monster Worldwide Inc,AF-420
+Adelaide Australia,Flinders University of South Australia,AF-421
+Ljubljana Slovenia,University of Ljubljana,AF-422
+Cambridge UK,Royal Society of Chemistry,AF-423
+Darmstadt Germany,German National Research Center for Information Technology,AF-424
+Stirling UK,University of Stirling,AF-425
+Boston MA,Boston University,AF-426
+Lisbon Portugal,Higher Institute of Labor Science and Enterprise,AF-427
+Koblenz Germany,University of Koblenz and Landau,AF-428
+Heidelberg Germany,EML Research GmbH,AF-429
+Victoria BC,University of Victoria,AF-430
+Giessen Germany,University of Giessen,AF-431
+Le Mans France,University of Maine,AF-432
+Buffalo NY,University of Buffalo,AF-433
+Baltimore MD,University of Maryland Baltimore County,AF-434
+Salt Lake City UT,Attensity Corporation,AF-435
+Brussels Belgium,Voice Insight,AF-436
+Oxford UK,Sharp Laboratories,AF-437
+Mexico City Mexico,College of Mexico,AF-438
+Copenhagen Denmark,University of Copenhagen,AF-439
+Hannover Germany,University of Applied Sciences and Arts,AF-440
+Avignon France,University of Avignon,AF-441
+St. Paul MN,University of St Thomas,AF-442
+Nancy France,University of Nancy,AF-443
+Clayton Australia,Monash University,AF-444
+Provo UT,Automated Language Processing Systems,AF-445
+Poznan Poland,Poznan University of Technology,AF-446
+Palo Alto CA,Robert Bosch LLC,AF-447
+Stuttgart Germany,IBM Germany GmbH,AF-448
+St. Louis MO,Washington University,AF-449
+Jena Germany,University of Jena,AF-450
+Palo Alto CA,Hewlett Packard Company,AF-451
+San Diego CA,University of California,AF-452
+London ON,University of Western Ontario,AF-453
+Camden NJ,Lockheed Martin Corp,AF-454
+Farsta Sweden,TeliaSoneraResearch and Development,AF-455
+Paris France,Institut de Recherche et Coordination Acoustique Musique IRCAM,AF-456
+Madrid Spain,Complutense University of Madrid,AF-457
+Malibu CA,HRL Laboratories,AF-458
+Brighton UK,University of Brighton,AF-459
+Aachen Germany,RWTH Aachen University,AF-460
+Hyderabad India,University of Hyderabad,AF-461
+Antwerp Belgium,University of Antwerp,AF-462
+Austin TX,Siemens Information Systems,AF-463
+Ifrane Morocco,Alakhawayn University,AF-464
+Pullman WA,Washington State University,AF-465
+San Diego CA,San Diego State University,AF-466
+Edinburgh UK,HeriotWatt University,AF-467
+Edinburgh UK,University of Napier,AF-468
+Tel Aviv Israel,Tel Aviv University,AF-469
+Sao Paulo Brazil,Catholic University of Sao Paulo,AF-470
+Mannheim Germany,Institute for German Language,AF-471
+Potchefstroom South Africa,NorthWest University,AF-472
+Palo Alto CA,Volkswagen of America,AF-473
+Bielefeld Germany,University of Bielefeld,AF-474
+France,ATILF,AF-475
+Bolzano Bozen Italy,Free University of Bolzano Bozen,AF-476
+Darmstadt Germany,Darmstadt University of Technology,AF-477
+La Tronche France,Institute of Information and Applied Mathematics GrenobleTIMCIMAG,AF-478
+Denmark,NISLab,AF-479
+Odense Denmark,Odense University,AF-480
+Odense Denmark,University of Southern Denmark,AF-481
+Roskilde Denmark,Roskilde University,AF-482
+Palo Alto CA,Pearson Knowledge Technologies,AF-483
+Palo Alto CA,Telesensory Speech Systems,AF-484
+Aberdeen UK,Robert Gordon University,AF-485
+Philadelphia PA,Temple University,AF-486
+Pisa Italy,Pisa Research Consortium,AF-487
+Trento Italy,Fondazione Bruno Kessler,AF-488
+Berlin Germany,Center for General Linguistics,AF-489
+Fontenay-aux-Roses France,Atomic Energy Commission,AF-490
+Glendale CA,ATT Interactive Research,AF-491
+Domaine de Vilvert France,French National Institute for Agricultural Research,AF-492
+Louvain-la-Neuve Belgium,Catholic University of Louvain,AF-493
+New York NY,Google Inc,AF-494
+Andhra India,Andhra University,AF-495
+Calcutta India,ABP Pvt Ltd,AF-496
+Delhi India,Delhi University,AF-497
+Bombay India,Indian Institute of Technology,AF-498
+Siemens Medical Solutions,Siemens Medical Solutions,AF-499
+Shihding Taiwan,Huafan University,AF-500
+Flagstaff AZ,Northern Arizona University,AF-501
+Vienna Austria,Austrian Academy of Sciences,AF-502
+Istanbul Turkey,Koc University,AF-503
+Berlin Germany,Humboldt University of Berlin,AF-504
+Leipzig Germany,University of Leipzig,AF-505
+San Francisco CA,Powerset,AF-506
+Lannion France,IRISALannion,AF-507
+Caen France,University of Caen,AF-508
+Provo UT,Brigham Young University,AF-509
+Orleans France,University of Orleans,AF-510
+Everberg Belgium,BIM,AF-511
+Liege Belgium,University of Liege,AF-512
+Yaounde Cameroon,SIL Cameroon,AF-513
+CIIL-Mysore India,LDCIL,AF-514
+Brazil,University of Joinville,AF-515
+White Plains NY,NYNEX Science and Technology,AF-516
+Neuchatel Switzerland,University of Neuchatel,AF-517
+Marseille France,University of the Mediterranean,AF-518
+France,LPL,AF-519
+Santa Cruz,University of California,AF-520
+Cepstral LLC,Cepstral LLC,AF-521
+Kyoto Japan,ATR Spoken Language Communication Research Laboratories,AF-522
+New York NY,Epimenides Corp,AF-523
+Newark DE,University of Delaware,AF-524
+Inc.,WL Gore  Associates,AF-525
+Chapel Hill NC,University of North Carolina,AF-526
+Marne la Vallee France,University of Marne la Vallee,AF-527
+Madrid Spain,National Center of Biotechnology,AF-528
+Princeton NJ,Princeton University,AF-529
+Beijing China,Microsoft Research Asia,AF-530
+Munich Germany,Siemens AG,AF-531
+Reston VA,The MITRE Corporation,AF-532
+Nijmegen The Netherlands,University of Nijmegen,AF-533
+San Francisco CA,University of California at San Francisco,AF-534
+Halifax NS,Dalhousie University,AF-535
+Columbus OH,Chemical Abstracts Service,AF-536
+San Diego CA,Fair Isaac Corporation,AF-537
+San Diego CA,HNC Software,AF-538
+London UK,Vox Generation Limited,AF-539
+Chisinau Moldova,Technical University of Moldova,AF-540
+Timisoara Romania,University of Timisoara,AF-541
+St. Andrews UK,University of St Andrews,AF-542
+Helsinki Finland,Nokia Research Center,AF-543
+Cambridge MA,Lotus Development Corporation,AF-544
+Tilburg The Netherlands,Tilburg University,AF-545
+Cupertino CA,Apple Computer,AF-546
+Montreal QU,Centre de recerche Informatique de Montreal CRIM,AF-547
+Grenoble France,Scientific and Medical University of Grenoble,AF-548
+Prague Czech Republic,Institute of Formal and Applied Linguistics,AF-549
+Louisiana LA,University of Louisiana,AF-550
+Turin Italy,Dima Logic,AF-551
+Mexico City Mexico,National Polytechnic Institute,AF-552
+Turin Italy,Cluster Reply,AF-553
+Germany,Fraunhofer Institute for Intelligent Analysis and Information Systems IAIS,AF-554
+Amsterdam The Netherlands,Textkernel BV,AF-555
+Berlin Germany,Frei University,AF-556
+Pathumthani Thailand,National Electronic and Computer Technology Center,AF-557
+Bangkok Thailand,Kasetsart University,AF-558
+Norfolk VA,Old Dominion University,AF-559
+Amsterdam The Netherlands,Vrije University,AF-560
+Magdeburg Germany,University of Magdeburg,AF-561
+Genova Italy,Elettronica San GiorgioELSAG SpA,AF-562
+Rome Italy,CNRInstitute of Cognitive Sciences and Technology,AF-563
+University of Gothenburg,University of Gothenburg,AF-564
+Uppsala Sweden,Uppsala University,AF-565
+Heidelberg Germany,European Molecular Biology Laboratory,AF-566
+Verity Inc.,Verity Inc,AF-567
+Burlingame CA,Yandex Labs,AF-568
+Manila Philippines,De La Salle University,AF-569
+Madrid Spain,Charles  University of Madrid,AF-570
+Rome Italy,University of Rome La Sapienza,AF-571
+Groningen The Netherlands,University of Groningen,AF-572
+Kobe Japan,Kobe University,AF-573
+Nijmegen The Netherlands,Radboud University Nijmegen,AF-574
+Osnabruck Germany,University of Osnabruck,AF-575
+South Africa,University of South Africa,AF-576
+Enschede The Netherlands,University of Twente,AF-577
+Storrs CT,University of Connecticut,AF-578
+Montreal QU,University of Quebec at Montreal,AF-579
+Namur Belgium,University of Namur,AF-580
+Amsterdam The Netherlands,National Research Institute for Mathematics and Computer Science,AF-581
+Montreal QU,INRSTelecommunications,AF-582
+The Netherlands,Research Institute for Knowledge Systems,AF-583
+Montreal QU,Les Logiciels Machina Sapiens Inc,AF-584
+Paris France,School for Advanced Studies in the Social Sciences,AF-585
+France,Electricity of France EDF Research Center,AF-586
+Kalamazoo MI,Kalamazoo College,AF-587
+Houston TX,University of HoustonDowntown,AF-588
+Farsta Sweden,Telia Research,AF-589
+Montreal QU,Logical Properties Inc,AF-590
+Sofia Bulgaria,Sofia University,AF-591
+Reston VA,Butler Hill Group,AF-592
+Wolfville NS,Acadia University,AF-593
+Lisbon Portugal,University of Lisbon,AF-594
+Hanover MD,The MITRE Corporation,AF-595
+Zurich Switzerland,Zurich University of Applied Sciences,AF-596
+Haifa Israel,TechnionIsrael Institute of Technology,AF-597
+Munich Germany,Technical University of Munich,AF-598
+Woburn MA,Virage Advanced Technology Group,AF-599
+Porto Portugal,University of Porto,AF-600
+Rotterdam The Netherlands,Erasmus University,AF-601
+Seattle WA,The Boeing Company,AF-602
+Haninge Sweden,Telia Research AB,AF-603
+Santa Barbara CA,Speech Communications Research Laboratory,AF-604
+Wroclaw Poland,Wroclaw University of Technology,AF-605
+Stockholm Sweden,KVAL Research Institute for Information Science,AF-606
+Germany,Eschenweg,AF-607
+Freiburg Germany,Freiburg University,AF-608
+Gaithersburg MD,National Institute of Standards and Technology,AF-609
+Buffalo NY,Roswell Park Memorial Institute,AF-610
+Edinburgh Australia,Defense Science and Technology Organisation,AF-611
+Xerox Webster Research Center,Xerox Webster Research Center,AF-612
+Bryn Mawr PA,Bryn Mawr College,AF-613
+Cambridge MA,Computer Corporation of America,AF-614
+Dallas TX,Southern Methodist University,AF-615
+Asheville NC,University of North Carolina at Asheville,AF-616
+Dunedin New Zealand,University of Otago,AF-617
+US West Advanced Technologies,US West Advanced Technologies,AF-618
+Birmingham AL,University of Alabama at Birmingham,AF-619
+Hangzhou China,Zhejiang University,AF-620
+Copenhagen Denmark,Copenhagen Business School,AF-621
+Vienna Austria,University of Vienna,AF-622
+Cambridge UK,Toshiba Research Europe,AF-623
+Limerick Ireland,University of Limerick,AF-624
+Gaithersburg MD,Sabir Research,AF-625
+Warsaw Poland,Polish Academy of Sciences,AF-626
+Galway Ireland,Digital Enterprise Research Institute DERIGalway,AF-627
+Zagreb Yugoslavia,Zagreb University,AF-628
+Corvallis OR,Oregon State University,AF-629
+Athens OH,Ohio University,AF-630
+Wilmington DE,AI DuPont Hospital for Children,AF-631
+Bonn Germany,University of Bonn,AF-632
+Rochester MN,Mayo Clinic,AF-633
+Santa Monica CA,System Development Corporation,AF-634
+Dublin Ireland,IBM Dublin Center for Advanced Studies,AF-635
+OR,Oregon Health  Science University,AF-636
+Milan Italy,Catholic University of the Sacred Heart,AF-637
+Berlin Germany,Academy of Sciences of the DDR,AF-638
+Berlin Germany,Technical University of Berlin,AF-639
+Lisbon Portugal,New Univesity of Lisbon,AF-640
+St. John's NL,Memorial University of Newfoundland,AF-641
+Shenyang China,Shenyang Institute of Aeronautical Engineering,AF-642
+Singapore,National University of Singapore,AF-643
+Beijing China,Tsinghua University,AF-644
+Anhui China,University of Science and Technology of China,AF-645
+Memphis TN,University of Memphis,AF-646
+Ivry-sur-Seine France,Sinequa,AF-647
+Pisa Italy,Scuola Normale Superiore di Pisa,AF-648
+Ithaca NY,CoGenTex,AF-649
+Granada Spain,University of Granada,AF-650
+Mountain View CA,YY Technologies,AF-651
+Germany,acrolinx GmbH,AF-652
+Madrid Spain,Multilinguism  Speech Technology Group,AF-653
+Nagoya Japan,Nagoya University,AF-654
+Winchester UK,IBM Research UK,AF-655
+Orbassano Italy,Centro Ricerche Fiat,AF-656
+Beijing China,Chinese Academy of Sciences,AF-657
+Colombes France,Thales,AF-658
+France,LTCI,AF-659
+Paris France,Telecom ParisTech,AF-660
+Trento Italy,Center for the Evaluation of Language and Communication Technologies,AF-661
+Vancouver BC,University of British Columbia,AF-662
+Marcoussis France,CGEMarcoussis,AF-663
+Besancon France,University of FrancheComte,AF-664
+Calgary AB,University of Calgary,AF-665
+Clear Water Bay Hong Kong,University of Science and Technology,AF-666
+Barcelona Spain,Open University of Catalonia,AF-667
+Philadelphia PA,Childrens Hospital of Philadelphia,AF-668
+Lingway,Lingway,AF-669
+Msida Malta,University of Malta,AF-670
+Hayward CA,California State University East Bay,AF-671
+Madrid Spain,IBM Madrid Scientific Center,AF-672
+Brazil,Federal University of Sao Carlos,AF-673
+Trieste Italy,University of Trieste,AF-674
+Rome Italy,CNRInstitute of Psychology,AF-675
+Vietnam,MICA,AF-676
+Hanoi Vietnam,CNRS,AF-677
+Barcelona Spain,Autonomous University of Barcelona,AF-678
+Surrey UK,Canon Research Centre Europe Ltd,AF-679
+Paris France,DIAMINSERM,AF-680
+Middlesbrough UK,University of Teeside,AF-681
+Lafayette LA,University of Louisiana at Lafayette,AF-682
+Istanbul Turkey,Fatih University,AF-683
+Luxembourg,European Commission,AF-684
+St. Cloud France,Dassault Aviation,AF-685
+Waterloo ON,University of Waterloo,AF-686
+Florence Italy,University of Florence,AF-687
+Istanbul Turkey,Sabanci University,AF-688
+Arlington VA,Logicon,AF-689
+Changwon Korea,Changwon University,AF-690
+Bangkok Thailand,National Statistical Office,AF-691
+Bangalore India,IBM India Research Lab,AF-692
+Fontenay-aux-Roses France,CEALISTLICM,AF-693
+Lethbridge AB,University of Lethbridge,AF-694
+Brisbane Australia,Queensland University of Technology,AF-695
+Taoyuan Taiwan,Yuan Ze University,AF-696
+Pokfulam Hong Kong,University of Hong Kong,AF-697
+PST Research Group,PST Research Group,AF-698
+Kowloon Hong Kong,City University of Hong Kong,AF-699
+Panama City Panama,University of Panama,AF-700
+Singapore,Nanyang Technical University,AF-701
+Hsinchu Taiwan,Deuchemie Industries Inc,AF-702
+Beijing China,Peking University,AF-703
+Hsinchu Taiwan,Industrial Technology Research Institute,AF-704
+Seoul Korea,Seoul National University,AF-705
+Hsinchu Taiwan,BTC RD Center,AF-706
+Puli Taiwan,National ChiNan University,AF-707
+Seoul Korea,Seokyeong University,AF-708
+Tainan Taiwan,National Cheng Kung University,AF-709
+Paris France,IBM Paris Scientific Center,AF-710
+Brighton UK,Lexical Computing Ltd,AF-711
+Changsha China,National Laboratory for Parallel and Distributed Processing,AF-712
+Washington D.C.,National Science Foundation,AF-713
+San Francisco CA,Arris Pharmaceutical Corporation,AF-714
+Lugano Switzerland,Dalle Mole Institute for Artificial Intelligence,AF-715
+Pathumthani Thailand,National Institute of Information and Communications Technology Asia Research Center,AF-716
+Thai Computational Linguistics Laboratory,Thai Computational Linguistics Laboratory,AF-717
+New Delhi India,Indian Institute of Technology,AF-718
+Montpellier France,University of Montpellier,AF-719
+France,LIRMM,AF-720
+Le Havre France,University of Le Havre,AF-721
+Calcutta India,Indian Statistical Institute,AF-722
+New Brunswick NJ,Rutgers University,AF-723
+Harbin China,Harbin Institute of Technology,AF-724
+Hefei China,University of Science and Technology,AF-725
+China,Department of Foreign Trade  Economics,AF-726
+Changsha China,National University of Defense Technology,AF-727
+Taoyuan Taiwan,Ming Chuan University,AF-728
+Nanjing China,Nanjing University,AF-729
+Amherst NY,Janya Inc,AF-730
+Prince George BC,University of Northern British Columbia,AF-731
+China,Northeastern University,AF-732
+Honolulu HI,University of Hawaii,AF-733
+Nanjing China,Nanjing Normal University,AF-734
+Guiyang China,Guizhou University,AF-735
+Chongqing China,Chongqing University,AF-736
+Taipei Taiwan,Tatung University,AF-737
+Beijing China,Communication University of China,AF-738
+New York NY,City University of New YorkGraduate Center,AF-739
+Pittsburgh PA,Clairvoyance Corporation,AF-740
+Thomas,Lavergne,AF-741
+Geneva Switzerland,Geneva Bioinformatics,AF-742
+McLean VA,PRC Inc,AF-743
+Singapore,DSO National Laboratories,AF-744
+Gainesville FL,University of Florida,AF-745
+GE Aerospace,GE Aerospace,AF-746
+Ulaanbaatar Mongolia,National University of Mongolia,AF-747
+Nancy A.,Chinchor,AF-748
+San Diego CA,Science Applications International Corporation,AF-749
+Varese Italy,Insubria University,AF-750
+Bolzano Italy,EURAC Research,AF-751
+Keelung Taiwan,National Taiwan Ocean University,AF-752
+Seoul Korea,Korea University,AF-753
+Seoul Korea,Sogang University,AF-754
+Chonan Korea,Sangmyung University,AF-755
+New York NY,City University of New YorkHunter College,AF-756
+Hwaseong Korea,University of Suwon,AF-757
+Gwangju Korea,Chonnam National University,AF-758
+Taejon Korea,Machine Translation LabSERI,AF-759
+Amsteradam The Netherlands,Cognitive Science Center Amsterdam,AF-760
+Hamilton New Zealand,University of Waikato,AF-761
+Taipei Taiwan,Jin Wen Institute of Technology,AF-762
+Paris France,Laboratoire dInformatique Pour les Sciences de lHomme,AF-763
+Santa Cruz CA,University of California,AF-764
+Patras Greece,University of Patras,AF-765
+Cyprus,Frederick Institute of Technology,AF-766
+Prague Czechoslovakia,FSO Prague,AF-767
+Irvine CA,University of California at Irvine,AF-768
+Taiwan,Van Nung Institute of Technology,AF-769
+Taipei Taiwan,National Chengchi University,AF-770
+Japan,Matsushita Electric Industrial Co Ltd,AF-771
+Japan,Research Organization of Information and System,AF-772
+Japan,Japan Biological Informatics Consortium,AF-773
+Tokyo Japan,National Institute of Advanced Industrial Science and Technology,AF-774
+Daejeon Korea,ETRI,AF-775
+Sydney Australia,University of New South Wales,AF-776
+Pyrmont Australia,Google Inc,AF-777
+Reston VA,Corporation for National Research Initiatives,AF-778
+Seoul Korea,Korea Academy of Industrial Technology,AF-779
+Tokyo Japan,CSK Research Institute,AF-780
+Prague Czechoslovakia,Czechoslovak Academy of Sciences,AF-781
+Ankara Turkey,Bilkent University,AF-782
+Delft The Netherlands,Delft University of Technology,AF-783
+Iasi Romania,University of Iasi,AF-784
+Arlington VA,Advanced Research Projects Agency,AF-785
+Egham UK,University of LondonRoyal Holloway,AF-786
+Oxford UK,Oxford University,AF-787
+Philadelphia PA,Medical College of Pennsylvania,AF-788
+London UK,Birkbeck College,AF-789
+Aberdeen UK,University of Aberdeen,AF-790
+Berlin Germany,Deutsche Telekom Laboratories,AF-791
+Nomi Japan,Japan Advanced Institute of Science and Technology,AF-792
+Chihuahua Mexico,Institute of Technology Chihuahua,AF-793
+Atlanta GA,Georgia Institute of Technology,AF-794
+Blacksburg VA,Virginia Polytechnic University,AF-795
+Cambridge MA,Teleos,AF-796
+South Africa,University of Stellenbosch,AF-797
+France,ERLI,AF-798
+Martigny Switzerland,IDIAP Research Institute,AF-799
+Lisbon Portugal,National Civil Engineering Laboratory LNEC,AF-800
+Sao Leopoldo Brazil,University of the Sinos Valley,AF-801
+Reading UK,University of Reading,AF-802
+Princeton NJ,Institute for Defense Analyses,AF-803
+Palo Alto CA,Fairchild Camera and Instrument Corporation,AF-804
+Oslo Norway,University of Oslo,AF-805
+San Jose CA,IBM Almaden Research Center,AF-806
+Saskatoon SK,University of Saskatchewan,AF-807
+Sydney Australia,CSIRO,AF-808
+Liverpool UK,University of Liverpool,AF-809
+Saitama Japan,CREST Japan Science and Technology Corporation,AF-810
+Eindhoven The Netherlands,Institute for Perception Research,AF-811
+Princeton NJ,NEC Research Institute,AF-812
+London UK,University of LondonQueen Mary,AF-813
+Dolores CO,Clark Training  Consulting,AF-814
+Madrid Spain,Telefonica ID Madrid,AF-815
+Aalborg Denmark,Aalborg University,AF-816
+Leipzig Germany,Karl Marx University,AF-817
+Bowie MD,IDA Center for Computing Sciences,AF-818
+Government of India,Ministry of Communications  Information Technology,AF-819
+Williamstown MA,Williams College,AF-820
+Brussels Belgium,Free University Brussels,AF-821
+Dublin Ireland,Hitachi Dublin Laboratory,AF-822
+London UK,University College London,AF-823
+Belgium,Language and Computing NV,AF-824
+Naples Italy,University of Naples Frederico II,AF-825
+McLean VA,Litton PRC,AF-826
+Covilha Portugal,University of Beira Interior,AF-827
+Marcoussis France,Laboratoires de Marcoussis,AF-828
+Williamsville NY,Cymfony Inc,AF-829
+Bogota Colombia,University of the Andes,AF-830
+Ottawa ON,Carleton University,AF-831
+Redmond WA,Butler Hill Group,AF-832
+Oslo Norway,SINTEF,AF-833
+Udine Italy,University of Udine,AF-834
+Ames IA,Iowa State University,AF-835
+State College PA,Pennsylvania State University,AF-836
+TX,Daxtron Laboratories,AF-837
+Montevideo Uruguay,University of The Republic,AF-838
+Athens GA,University of Georgia,AF-839
+In.,CACI International,AF-840
+Glasgow UK,University of Strathclyde,AF-841
+Norwich UK,University of East Anglia,AF-842
+Dortmund Germany,Dortmund University,AF-843
+Northern Ireland,University of Ulster,AF-844
+Iasi Romania,Romanian Academy,AF-845
+Bristol UK,University of Bristol,AF-846
+Nottingham UK,Nottingham University,AF-847
+Newton Centre MA,Artificial Intelligence Corporation,AF-848
+Chicago IL,University of Illinois at Chicago,AF-849
+Ancona Italy,Marche Polytechnic University,AF-850
+The Netherlands,Nederlandse Taalunie Lange Voorhout,AF-851
+Bucharest Romania,Research Institute for Computer Techniques and Informatics,AF-852
+Manchester NH,St Anselm College,AF-853
+Screamware,Screamware,AF-854
+Munster Germany,University of Munster,AF-855
+Ghent Belgium,Nuance Communications,AF-856
+Ottawa ON,National Research Council Ottawa,AF-857
+Madrid Spain,Celer Soluciones,AF-858
+New Rochelle NY,Iona College,AF-859
+Rome Italy,IBM Research Rome,AF-860
+Gdansk Poland,Technical University of Gdansk,AF-861
+St. Gallen Switzerland,SAP Research CEC,AF-862
+Haifa Israel,IBM Israel Scientific Center,AF-863
+Paoli PA,Burroughs Corporation,AF-864
+Swarthmore PA,Swarthmore College,AF-865
+Buenos Aires Argentina,University of Buenos Aires,AF-866
+Santa Monica CA,Intelligent Text Processing,AF-867
+Santa Monica CA,InQuizit Technologies Inc,AF-868
+Los Angeles CA,IBM Los Angeles Scientific Center,AF-869
+Beijing China,NetEase Information Technology Beijing Co Ltd,AF-870
+Fairbanks AK,University of Alaska,AF-871
+Stockholm,Royal Institute of Technology,AF-872
+Stockholm Sweden,Euroling AB,AF-873
+Aethys,Aethys,AF-874
+Mountain View CA,El Camino Hospital,AF-875
+Lannion France,Orange Labs,AF-876
+Lannion France,French Telecom RD,AF-877
+Birmingham UK,Birmingham University,AF-878
+France,LADL,AF-879
+Lexis-Nexis,LexisNexis,AF-880
+Boras Sweden,University of Boras,AF-881
+Cairo Egypt,German University in Cairo,AF-882
+Giza Egypt,IBM Cairo Technology Development Center,AF-883
+Sao Carlos Brazil,Nucleo Interinstitucional de Linguistica Computational NILC,AF-884
+Tezpur India,Tezpur University,AF-885
+Serdang Malaysia,Putra University Malaysia,AF-886
+Kaunas Lithuania,Vytautas Magnus University,AF-887
+France,AerospatialeCCR,AF-888
+Toulouse France,National Institute for Applied Sciences,AF-889
+Nanterre France,University of Paris,AF-890
+Edinburgh UK,Western General Hospital,AF-891
+Galway Ireland,National University of Ireland Galway,AF-892
+Aberdeenshire UK,Aerospace and Marine International,AF-893
+Guangdong China,Shantou University,AF-894
+Brussels Belgium,University of Brussels,AF-895
+Leeds UK,Leeds Metropolitan University,AF-896
+Bedford UK,Unilever Corporate Research,AF-897
+Santa Ana CA,McDonnell Douglas Electronics Systems Company,AF-898
+Messina Italy,University of Messina,AF-899
+Spokane WA,Gonzaga University,AF-900
+Kenya,University of Nairobi,AF-901
+Eindhoven The Netherlands,Eindhoven University of Technology,AF-902
+Tokushima Japan,Tokushima University,AF-903
+Rio de Janeiro Brazil,Pontifical Catholic University of Rio de Janeiro,AF-904
+Princeton NJ,David Sarnoff Research Center,AF-905
+Dallas TX,SIL International,AF-906
+Tunis,CELLMAIRMC,AF-907
+Paris France,idl,AF-908
+Pisa Italy,CNRInstitute of Information Science and Technology,AF-909
+Paris France,CAP SOGETI Innovation,AF-910
+Copenhagen Denmark,Center for Sprogteknologi,AF-911
+Adelphi MD,Army Research Laboratory,AF-912
+Israel National Security Council,Israel National Security Council,AF-913
+Riga Latvia,Tilde,AF-914
+Madrid Spain,University of Madrid,AF-915
+Madrid Spain,Royal Spanish Academy,AF-916
+Canada,RES International,AF-917
+Trois-Rivieres QU,University of Quebec at TroisRivieres,AF-918
+Stony Brook NY,Renaissance Technologies,AF-919
+Chiba Japan,Chiba University,AF-920
+Kyoto Japan,Ritsumeikan University,AF-921
+Flushing NY,City University of New YorkQueens College,AF-922
+Bangalore India,Defense RD,AF-923
+Lincoln NE,University of Nebraska,AF-924
+Wemmel Belgium,Lernout Lernout  Hauspie,AF-925
+Munich Germany,Langenscheidt KG,AF-926
+Bangalore India,Indian Statistical Institute,AF-927
+Milwaukee WI,Marquette University,AF-928
+Syracuse NY,TextWise LLC,AF-929
+Sao Paulo Brazil,Sao Paulo State University UNESP,AF-930
+Hatfield UK,University of Hertfordshire,AF-931
+Washington D.C.,Georgetown University,AF-932
+HCM City Vietnam,Vietnam National University of HCMC,AF-933
+Mountain View CA,GTE Government Systems,AF-934
+Kaiserslautern Germany,University of Kaiserslautern,AF-935
+Arcueil France,InformatiqueCDC,AF-936
+Berkeley CA,Spoken Translation,AF-937
+Novosibirsk USSR,USSR Academy of SciencesSiberian Division,AF-938
+Boston MA,University of Massachusetts,AF-939
+Dalian China,Dalian University of Technology,AF-940
+Australia,osTechnology Pty Ltd,AF-941
+Hanoi Vietnam,Hanoi University of Technology,AF-942
+Turin Italy,CELI,AF-943
+Bucharest Romania,University of Bucharest,AF-944
+Bochum Germany,Ruhr University Bochum,AF-945
+Darmstadt Germany,Fraunhofer Institute for Computer Graphics IGD,AF-946
+Suratkal India,National Institute of Technology,AF-947
+Nashville TN,Vanderbilt University,AF-948
+Beirut Lebanon,International Language Centre,AF-949
+Stirling Scotland,University of Stirling,AF-950
+Sakai Japan,Osaka Prefecture University,AF-951
+Washington D.C.,Library of Congress,AF-952
+Basel Switzerland,University of Basel,AF-953
+Mountain View CA,Sehda,AF-954
+Rochester NY,Rochester Institute of Technology,AF-955
+Toronto ON,Mount Sinai Hospital,AF-956
+Villanova PA,Villanova University,AF-957
+China,China Software Technique Corp,AF-958
+Taipa Macau,University of Macau,AF-959
+Beijing China,France Telecom RD Center Beijing,AF-960
+Wuhan China,Wuhan University,AF-961
+HumanLanguage Technology Center for Excellence,HumanLanguage Technology Center for Excellence,AF-962
+Eagan MN,West Group,AF-963
+Concord MA,Arity Corporation,AF-964
+Shanghai China,Fudan University,AF-965
+San Jose CA,SONY US Research Labs,AF-966
+Tianjin China,Tianjin University,AF-967
+Rio de Janeiro Brazil,Centro Tecnologico do Exercito,AF-968
+Torun Poland,Nicolaus Copernicus University,AF-969
+Nuremberg Germany,TA TriumphAdler AG,AF-970
+Palo Alto CA,Ikuni Inc,AF-971
+Paris France,SYSTRAN SA,AF-972
+Bucharest Romania,Research Institute for Informatics,AF-973
+Paris France,Laboratory of Cognitive Science and Psycholinguistics,AF-974
+Goteborg Sweden,Lexware Labs,AF-975
+Cambridge UK,The Sanger Centre,AF-976
+Caen France,Memodata,AF-977
+Ostrava Czech Republic,Technical University of Ostrava,AF-978
+Woodland Hills CA,Operating Systems,AF-979
+Laval QU,CCRIT Communications Canada,AF-980
+Bergen Norway,University of Bergen,AF-981
+Muscat Oman,Sultan Qaboos University,AF-982
+Cupertino CA,DeAnza College,AF-983
+Tallahassee Florida,Florida State University,AF-984
+Heidelberg Germany,University of Heidelberg,AF-985
+London UK,Kings College London,AF-986
+Marina del Rey CA,Language Weaver Inc,AF-987
+Rehovot Israel,The Weizmann Institute of Science,AF-988
+Tokyo Japan,Tokyo University of Science,AF-989
+Umea Sweden,University of Umea,AF-990
+Dundee UK,University of Abertay Dundee,AF-991
+New York NY,City University of New YorkCity College,AF-992
+Salerno Italy,University of Salerno,AF-993
+Palo Alto CA,Facebook,AF-994
+Ashington UK,MARI Computer Systems Ltd,AF-995
+Newcastle upon Tyne UK,Northumbria University,AF-996
+Copenhagen Denmark,Languagelens,AF-997
+Millersville PA,Millersville University,AF-998
+Cambridge MA,Basis Technology Corp,AF-999
+Monterey CA,DLI Foreign Language Center,AF-1000
+Oita Japan,Oita University,AF-1001
+St. Louis MO,Central Institute for the Deaf,AF-1002
+Stuttgart Germany,Fraunhofer Institute for Industrial Engineering,AF-1003
+Compiegne France,University of Technology of Compiegne,AF-1004
+Marseille France,URA,AF-1005
+Tokyo Japan,Tokyo University of Agriculture and Technology,AF-1006
+Strasbourg France,University of Strasbourg,AF-1007
+Gregor,Erbach,AF-1008
+Shizuoka Japan,University of Shizuoka,AF-1009
+Kawasaki Japan,NTT Data Corporation,AF-1010
+Ljubljana Slovenia,Jozef Stefan Institute,AF-1011
+North York ON,IBM Toronto,AF-1012
+Madrid Spain,Atos Origin,AF-1013
+Redondo Beach CA,TRW Systems Development Division,AF-1014
+Nottingham UK,Nottingham Trent University,AF-1015
+Ethiopia,Addis Abada University,AF-1016
+Saint Etienne France,University of Saint Etienne,AF-1017
+Budapest Hungary,Budapest University of Technology,AF-1018
+Pretoria South Africa,University of Pretoria,AF-1019
+France,ERSS,AF-1020
+Pisa Italy,CNRCNUCE Institute,AF-1021
+Tehran Iran,Shahid Beheshti University,AF-1022
+Harrisonburg VA,James Madison University,AF-1023
+Greenvale NY,Long Island University,AF-1024
+Krakow Poland,Jagiellonian University,AF-1025
+Beijing China,Beijing Institute of Technology,AF-1026
+Beijing China,State Intellectual Property Office of PR,AF-1027
+France,Institute of Biological Structures,AF-1028
+Beijing China,Fujitsu RD Center Co,AF-1029
+Paris France,INALCO,AF-1030
+San Diego CA,SYSTRAN Software Inc,AF-1031
+Nice France,University of Nice Sophia Antipolis,AF-1032
+Padua Italy,CERVED SpA,AF-1033
+Vancouver BC,gavagai Technology Inc,AF-1034
+Belem Brazil,Federal University of Para,AF-1035
+Cardiff UK,University of Wales,AF-1036
+France,CRIN,AF-1037
+Pisa Italy,ParOLa sas,AF-1038
+Cincinnati OH,University of Cincinnati,AF-1039
+Lawrenceville NJ,Rider University,AF-1040
+Berlin Germany,BerlinBrandenburg Academy of Sciences and Humanities,AF-1041
+Cluj-Napoca Romania,Software ITC,AF-1042
+Amsterdam The Netherlands,Centrum Wiskunde en Informatica,AF-1043
+College Station TX,Texas AM University,AF-1044
+Italy,University of Eastern Piedmont,AF-1045
+Padua Italy,University of Padua,AF-1046
+Bronx NY,Fordham University,AF-1047
+Cambridge MA,InforSense LLC,AF-1048
+Porto Alegre Brazil,Federal University of Rio Grande do Sul,AF-1049
+Rockville MD,Thomson Technical Labs,AF-1050
+San Antonio TX,Southwest Research Institute,AF-1051
+Lexington KY,University of Kentucky,AF-1052
+Knoxville TN,University of Tennessee,AF-1053
+Vienna VA,eMotion Inc,AF-1054
+United States Naval Academy,United States Naval Academy,AF-1055
+Milwaukee WI,Medical College of Wisconsin,AF-1056
+Bowling Green OH,Bowling Green State University,AF-1057
+Towswon MD,Prism Associates,AF-1058
+Cameron,Fordyce,AF-1059
+Cambridge MA,Mitsubishi Electric Research Labs,AF-1060
+France,INIST,AF-1061
+Washington D.C.,Howard University,AF-1062
+Washington D.C.,Software Troubleshooters,AF-1063
+Laval QU,Centre for Information Technology Innovation,AF-1064
+Gatineau QU,Language Technologies Research Centre,AF-1065
+Jakarta Indonesia,Agency for Assessment and Application of Technology,AF-1066
+Hamburg Germany,smartSpeed GmbH  Co KG,AF-1067
+Arlington VA,Lockheed Martin Corp,AF-1068
+Thessaloniki Greece,Aristotle University of Thessaloniki,AF-1069
+Tsukuba Japan,Electrotechnical Laboratory,AF-1070
+Tokyo Japan,Sony Computer Science Labs,AF-1071
+Pittsburgh PA,Language Technologies Institute,AF-1072
+DeKalb IL,Northern Illinois University,AF-1073
+San Diego CA,SRI International,AF-1074
+Lisbon Portugal,ILTEC,AF-1075
+Madrid Spain,King John Charles University,AF-1076
+Windsor ON,University of Windsor,AF-1077
+World Wide Web Consortium,World Wide Web Consortium,AF-1078
+Harbin China,Heilongjiang University,AF-1079
+Yokosuka Japan,NTT Information and Communication Systems Laboratories,AF-1080
+Girona Spain,University of Girona,AF-1081
+Tsukuba Japan,University of Library and Information Science,AF-1082
+Tsukuba Japan,University of Tsukuba,AF-1083
+Tokyo Japan,IBM Research Tokyo,AF-1084
+Kawasaki Japan,Canon Inc,AF-1085
+Tokushima Japan,Justsystem Corporation,AF-1086
+Salem OR,Willamette University,AF-1087
+Ibaraki Japan,Ibaraki University,AF-1088
+Tokyo Japan,Waseda University,AF-1089
+Japan,SONYKihara Research Center Inc,AF-1090
+Kawasaki Japan,NSIS Corporation,AF-1091
+Nara Japan,Sharp Corporation,AF-1092
+Osaka Japan,Oki Electric Industry Co,AF-1093
+Yamanashi Japan,Yamanashi University,AF-1094
+Osaka Japan,Otemon Gakuin University,AF-1095
+Loughborough UK,Loughborough University,AF-1096
+Fresno CA,California State University Fresno,AF-1097
+Saitama Japan,Honda Research Institute Japan Co,AF-1098
+Hong Kong,Intendi Inc,AF-1099
+Yokosuka Japan,NTT Human Interface Laboratories,AF-1100
+Kanagawa Japan,NTT Cyber Solutions Laboratory,AF-1101
+Kyoto Japan,Cyber Solutions Laboratories,AF-1102
+Tokyo Japan,Tokyo Metropolitan University,AF-1103
+Waco TX,Baylor University,AF-1104
+Montreal QU,Machina Sapiens,AF-1105
+Athens Greece,National Hellenic Research Foundation,AF-1106
+Metz France,University of Metz,AF-1107
+Colombo Sri Lanka,University of Colombo School of Computing,AF-1108
+Santiago de Compostela Spain,University of Santiago de Compostela,AF-1109
+Albacete Spain,University of CastillaLa Mancha,AF-1110
+Sofia Bulgaria,Ontotext AD,AF-1111
+Hildesheim Germany,University of Hildesheim,AF-1112
+Jaen Spain,University of Jaen,AF-1113
+Jaipur India,Malaviya National Institute of Technology,AF-1114
+Sfax Tunisia,University of Sfax,AF-1115
+Orlando FL,University of Central Florida,AF-1116
+Montreal QU,Nstein Technologies,AF-1117
+France,Vecsys,AF-1118
+Canoga Park CA,BunkerRamo Corporation,AF-1119
+Mexico City Mexico,National Autonomous University of Mexico,AF-1120
+Cuernavaca Mexico,Institute for Electrical Research,AF-1121
+Pittsburgh PA,Interactive Systems,AF-1122
+Enschede The Netherlands,Telematica Instituut,AF-1123
+Washington D.C.,Office of Research and Development,AF-1124
+Washington D.C.,Office of Advanced Analytic Tools,AF-1125
+Louveciennes France,CEDIAGBULL AI Corporate Center,AF-1126
+Lubbock TX,Texas Tech University,AF-1127
+Arcueil France,Delegation Generale pour lArmement DGA,AF-1128
+Bordeaux France,University of Bordeaux,AF-1129
+Budapest Hungary,Research Institute for Applied Computer Science,AF-1130
+Durham NH,University of New Hampshire,AF-1131
+Milan Italy,Quinary SpA,AF-1132
+Auburn AL,Auburn University,AF-1133
+Patiala India,Punjabi University,AF-1134
+Australia,Appen,AF-1135
+Montreal QU,McGill University,AF-1136
+Pavia Italy,University of Pavia,AF-1137
+Hagen Germany,Distance Distance University of Hagen,AF-1138
+Valparaiso IN,Valparaiso University,AF-1139
+Zurich Switzerland,Swiss Federal Institute of Technology ETH,AF-1140
+Ware UK,Cambridge Language Services Ltd,AF-1141
+Rome Italy,CNRLaboratory for Applied Ontology,AF-1142
+Bombay India,Tata Institute for Fundamental Research,AF-1143
+Ottawa ON,Secretary of State,AF-1144
+Uxbridge UK,Brunel University,AF-1145
+Warren MI,General Motors Research Laboratories,AF-1146
+Lisbon Portugal,INOV,AF-1147
+Salzburg Austria,Salzburg University,AF-1148
+Rockville MD,Novamente LLC,AF-1149
+Ulm Germany,University of Ulm,AF-1150
+Japan,National Institute of Genetics,AF-1151
+Toronto ON,Environment Canada,AF-1152
+Budapest Hungary,Budapest University,AF-1153
+Madrid Spain,European University of Madrid,AF-1154
+Coimbra Portugal,University of Coimbra,AF-1155
+Cupertino CA,NEC Laboratories America,AF-1156
+Phoenix AZ,Arizona State University,AF-1157
+Baltimore MD,Loyola College in Maryland,AF-1158
+Cambridge UK,Netdecisions,AF-1159
+Toyama Japan,University of Toyama,AF-1160
+Quebec City QU,Laval University,AF-1161
+Mannheim Germany,University of Mannheim,AF-1162
+Newark DE,AgoraNet,AF-1163
+Greensboro NC,University of North Carolina at Greensboro,AF-1164
+Washington D.C.,ATG,AF-1165
+Santa Monica CA,Los Angeles Software Inc,AF-1166
+SIL International,SIL International,AF-1167
+Luxembourg,Anite Systems,AF-1168
+Mountain View CA,BeVocal,AF-1169
+Padua Italy,CNRInstitute for Systems Science and Biomedical Engineering,AF-1170
+Warsaw Poland,PolishJapanese Institute of Information Technology,AF-1171
+Canberra Australia,Australian National University,AF-1172
+Locked Bag Australia,National ICT Australia,AF-1173
+Germany,FriedrichNaumannStiftung FNS,AF-1174
+China Lake CA,Naval Weapons Center,AF-1175
+Milan Italy,Technical University of Milan,AF-1176
+Paris France,Temis,AF-1177
+Research Triangle Park NC,Research Triangle Institute,AF-1178
+Minneapolis MN,University of Minnesota Twin Cities,AF-1179
+Beijing China,IBM China,AF-1180
+Singapore,SingaporeMIT Alliance,AF-1181
+Beijing China,Toshiba China Research and Development Center,AF-1182
+Allahabad India,Indian Institute of Information Technology,AF-1183
+Calgary AB,Alberta Research Council,AF-1184
+Hungary,KPRO Ltd,AF-1185
+Belfast Northern Ireland,Queens University of Belfast,AF-1186
+Jerusalem Israel,Jerusalem College of Technology,AF-1187
+Albany NY,State University of New York at Albany,AF-1188
+New York NY,New York Presbyterian Hospital,AF-1189
+Lyon France,cole Normale Suprieure Lettres et Sciences Humaines,AF-1190
+Fontena-aux-Roses France,Ecole Normale Superieure de FontenaySt Cloud,AF-1191
+Sydney Australia,Capital Markets CRC Limited,AF-1192
+Rosetta Stone Labs,Rosetta Stone Labs,AF-1193
+Bristol UK,Hewlett Packard Laboratories,AF-1194
+Lodz Poland,Technical University of Lodz,AF-1195
+Munich Germany,BMW Group Research Technology,AF-1196
+Darmstadt Germany,Deutsche Telekom,AF-1197
+Konstanz Germany,University of Konstanz,AF-1198
+Prague Czechoslovakia,Research Institute of Mathematical Machines,AF-1199
+Dresden Germany,Technical University of Dresden,AF-1200
+Tampere Finland,University of Tampere,AF-1201
+Budapest Hungary,Media Research and Education Center,AF-1202
+Orsay France,ThomsonCSF,AF-1203
+Vaxjo Sweden,Vaxjo University,AF-1204
+Los Alamos NM,Los Alamos National Laboratory,AF-1205
+Orono ME,University of Maine,AF-1206
+Reykjavik Iceland,University of Iceland,AF-1207
+Rekjavik Iceland,Iceland Genomics Corp,AF-1208
+Kenosha WI,University of WisconsinParkside,AF-1209
+Saitama Japan,CJK Dictionary Institute,AF-1210
+Norway,Norwegian Resarch Council,AF-1211
+Tunisia,Ministry of Higher Education Scientific Research and Technology,AF-1212
+Fairfax VA,George Mason University,AF-1213
+Ulm Germany,Speech Services,AF-1214
+Ulm Germany,TEMIC Speech Dialog Systems,AF-1215
+Edinburgh UK,Rhetorical Systems Ltd,AF-1216
+Kyungki Korea,Suwon University,AF-1217
+Seoul Korea,Korea Institute of Science and Technology,AF-1218
+Glasgow UK,Collins Publishers,AF-1219
+Kyoto Japan,Doshisha University,AF-1220
+AMITIES Consortium,AMITIES Consortium,AF-1221
+Orin,Hargraves,AF-1222
+Santa Monica CA,RAND Corporation,AF-1223
+Austin TX,Language Technology,AF-1224
+Carbondale IL,Southern Illinois UniversityCarbondale,AF-1225
+Hagen Germany,University of Hagen,AF-1226
+Hagen Germany,Distance University of Hagen,AF-1227
+Kyoto Japan,ATR Human Information Processing Research Laboratories,AF-1228
+Kanagawa Japan,NTT Cyber Space Laboratories,AF-1229
+Exeter UK,University of Exeter,AF-1230
+Bridgewater VA,Bridgewater College,AF-1231
+Kobe Japan,Kobe Shoin Womens University,AF-1232
+Yamagata Japan,Yamagata University,AF-1233
+Nagoya Japan,Nagoya Institute of Technology,AF-1234
+Tokyo Japan,Tokyo University of Foreign Studies,AF-1235
+Cairo Egypt,American University in Cairo,AF-1236
+Tokyo Japan,Institute for New Generation Computer Technology,AF-1237
+Tokyo Japan,Obirin University,AF-1238
+Cologne Germany,University of Cologne,AF-1239
+Vandoeuvre-les-Nancy France,INaLF,AF-1240
+Imizu Japan,Toyama National College of Maritime Technology,AF-1241
+Yokosuka Japan,NTT Network Information Systems Laboratories,AF-1242
+AstraZeneca R&D,AstraZeneca RD,AF-1243
+New York NY,Metagram,AF-1244
+Wuhan China,Huazhong Normal University,AF-1245
+Wuhan China,Central China Normal University,AF-1246
+Mumbai India,CDAC Mumbai,AF-1247
+Burlington VT,University of Vermont,AF-1248
+San Diego CA,ALife Medical,AF-1249
+Germany,Daimler AG,AF-1250
+Cupertino CA,Symantec Corporation,AF-1251
+Dublin Ireland,Dublin Institute of Technology,AF-1252
+France,EUROCONTROL Experimental Centre,AF-1253
+Spain,Telecommunication University of Madrid,AF-1254
+Nijmegen The Netherlands,Speech Processing Expertise Center SPEX,AF-1255
+St. John's NF,Memorial University of Newfoundland,AF-1256
+Kawasaki Japan,Hitachi Ltd,AF-1257
+Kanagawa Japan,Keio Research Institute at SFC,AF-1258
+East Orange NJ,Upsala College,AF-1259
+Charlotte NC,Hipp,AF-1260
+Fukuoka Japan,Kyushu University,AF-1261
+Graz Austria,Graz University of Technology,AF-1262
+Herndon VA,TASC Inc,AF-1263
+St. Jean QU,College Militaire Royale,AF-1264
+Matsue City Japan,Shimane National University,AF-1265
+Toyama Japan,Toyama University,AF-1266
+Vienna Austria,Vienna University of Economics and Business Administration,AF-1267
+Montreal QU,BellNorthern Research,AF-1268
+Alexandria VA,US Army Research Institute,AF-1269
+Seoul Korea,LG Electronics Institute of Technology,AF-1270
+Bonn Germany,Forschungsgruppe LIMAS,AF-1271
+Tokyo Japan,National Institute of Japanese Literature,AF-1272
+Tsukuba Japan,Tokyo Kasei Gakuin Tsukuba Womens University,AF-1273
+Kanagawa Japan,RIKEN,AF-1274
+Ghent Belgium,University College Ghent,AF-1275
+Shu-Kai,Hsieh,AF-1276
+Ilan City Taiwan,National Ilan University,AF-1277
+Taipei Taiwan,National Taiwan Normal University,AF-1278
+Beijing China,NEC Laboratories,AF-1279
+Beijing China,Nokia China Research Center,AF-1280
+Yanji City China,Yanbian University of Science and Technology,AF-1281
+Chengdu China,University of Electronic Science and Technology,AF-1282
+Toronto ON,Techne Knowledge Systems,AF-1283
+Clayton Australia,Australia and Overseas Telecommunications Corporation,AF-1284
+Beijing China,Chinese Academy of Social Sciences,AF-1285
+China,Nankai University,AF-1286
+James,Hubbell,AF-1287
+Berlin Germany,SWPBerlin,AF-1288
+Tromso Norway,University of Tromso,AF-1289
+Guelph ON,University of Guelph,AF-1290
+Sunderland UK,University of Sunderland,AF-1291
+San Diego CA,Naval Command,AF-1292
+Pittsburgh PA,Intelliseek Inc,AF-1293
+Seoul Korea,Soongsil University,AF-1294
+Kanagawa Japan,Port and Airport Research Institute,AF-1295
+Hiroshima Japan,Hiroshima University,AF-1296
+Poughkeepsie NY,Vassar College,AF-1297
+Saarbrucken Germany,Max Planck Institute for Computer Science,AF-1298
+Musashino Japan,NTT Musashino Electrical Communication Laboratories,AF-1299
+Oulu Finland,University of Oulu,AF-1300
+Nagaoka City Japan,Nagaoka University of Technology,AF-1301
+Tottori Japan,Tottori University,AF-1302
+Sofia Bulgaria,Higher Institute of Engineering and Building,AF-1303
+Portugal,FCCN,AF-1304
+Aichi-Ken Japan,Aichi Prefectural University,AF-1305
+Argentina,National University of Cordoba,AF-1306
+Queensgate UK,University of Huddersfield,AF-1307
+Cluj-Napoca Romania,Technical University of ClujNapoca,AF-1308
+Saitama Japan,KDDI RD Labs,AF-1309
+Rome Italy,Ugo Bordoni Foundation,AF-1310
+Kyoto Japan,Communications Research Laboratory,AF-1311
+Saitama Japan,PRESTO Japan Science and Technology Corporation,AF-1312
+Japan,Japan Society for the Promotion of Science,AF-1313
+Laval QU,Canadian Workplace Automation Research Centre,AF-1314
+Tokyo Japan,Sophia University,AF-1315
+Tokyo Japan,National Center for University Entrance Examinations,AF-1316
+Mie Japan,Mie University,AF-1317
+Tokyo Japan,Ricoh Co,AF-1318
+Iwate Japan,Iwate Prefectural University,AF-1319
+Hamamatsu Japan,University of Hamamatsu,AF-1320
+Tokyo Japan,Hosei University,AF-1321
+Boulder CO,Umbria,AF-1322
+Americus GA,Georgia Southwestern State University,AF-1323
+Santa Barbara CA,University of California,AF-1324
+Morgantown WV,West Virginia University,AF-1325
+Morgantown WV,MedQuist Inc,AF-1326
+St. Petersburg Russia,St Petersburg State University,AF-1327
+Tainan Taiwan,ChiMei Medical Center,AF-1328
+Seoul Korea,Hankuk University of Foreign Studies,AF-1329
+Association for Computing Machinery (ACM),Association for Computing Machinery ACM,AF-1330
+Warsaw Poland,Sentivision Polska Sp z oo,AF-1331
+Helsinki Finland,SITRA Foundation,AF-1332
+France,CEASaclay,AF-1333
+Delhi India,Jawaharlal Nehru Unversity,AF-1334
+Philadelphia PA,The Boeing Company,AF-1335
+Singapore,Singapore Management University,AF-1336
+Wuhan China,Huazhong Normal University of Science and Technology,AF-1337
+Guangzhou China,South China University of Technology,AF-1338
+Cuajimalpa Mexico,Autonomous Metropolitan University,AF-1339
+China,Ministry of Education,AF-1340
+Daejeon Korea,Chungnam National University,AF-1341
+South Hadley MA,Mount Holyoke College,AF-1342
+Pathumthani Thailand,Sirindhorn International Institute of Technology,AF-1343
+Helsinki Finland,University of Art and Design Helsinki,AF-1344
+Bangor UK,Bangor University,AF-1345
+Vienna VA,Financial Crimes Enforcement Network,AF-1346
+Serbia and Montenegro,University of Belgrade,AF-1347
+Union City CA,BravoBrava LLC,AF-1348
+Meylan France,CAP SESA Innovation,AF-1349
+Ankara Turkey,AppTek Inc,AF-1350
+Duisburg and Essen Germany,University of DuisburgEssen,AF-1351
+Tirupati India,SVU College of Engineering,AF-1352
+Chennai India,AUKBC Research Center,AF-1353
+Maribor Slovenia,University of Maribor,AF-1354
+Tokyo Japan,National Center for Science Information Systems,AF-1355
+Princeton NJ,ESpeech Corporation,AF-1356
+Japan,Japan Research Group for Medical Ontology,AF-1357
+Hyogo Japan,Hyogo University of Teacher Education,AF-1358
+Joensuu Finland,University of Joensuu,AF-1359
+Colorado Spring CO,University of Colorado at Colorado Springs,AF-1360
+Tel Aviv Israel,Melingo Ltd,AF-1361
+Darmstadt Germany,Intelligent Views,AF-1362
+Kanagawa Japan,IBM Japan Ltd,AF-1363
+Otsu Japan,Ryukoku University,AF-1364
+Daegu Korea,Kyungpook National University,AF-1365
+Seoul Korea,Kookmin University,AF-1366
+Seoul Korea,Hansung University,AF-1367
+Pittsburgh PA,Just Research,AF-1368
+Paris France,SONY Computer Science Lab,AF-1369
+Philadelphia PA,PECO Energy,AF-1370
+Palo Alto CA,Teknowledge Inc,AF-1371
+Townsville Australia,James Cook University,AF-1372
+Melbourne Australia,RMIT University,AF-1373
+Rehovot Israel,Weizmann Institute of Science,AF-1374
+Athens Greece,University of Athens,AF-1375
+Hakodate Japan,Future University,AF-1376
+Japan,ATR Media Information Science Labs,AF-1377
+Rome Italy,Food and Agricultural Organization of the United Nations,AF-1378
+London UK,University of London,AF-1379
+Denton TX,Texas Womens University,AF-1380
+Bandung Indonesia,Telkom Indonesia,AF-1381
+West Point,United States Military Academy,AF-1382
+Washington D.C.,Center for Applied Linguistics,AF-1383
+Sampo Research Institute,Sampo Research Institute,AF-1384
+Taipei Taiwan,Soochow University,AF-1385
+Corfu Greece,Ionian University,AF-1386
+Hawthorne NY,Polytechnic Institute of New York University,AF-1387
+Bedford NS,Korlex Software,AF-1388
+Copenhagen Denmark,Danish Language and Literature Society,AF-1389
+DISTIL Interactive,DISTIL Interactive,AF-1390
+Tokyo Japan,Institute of Behavioral Sciences,AF-1391
+Japan,Microsoft Co,AF-1392
+Graz Austria,Joanneum Research,AF-1393
+Zurich Switzerland,Swiss Life,AF-1394
+Tokyo Japan,Mitsui Knowledge Industry Co,AF-1395
+Trier Germany,University of Trier,AF-1396
+Lexicography Master Class,Lexicography Master Class,AF-1397
+Harlow UK,Longman Dictionaries,AF-1398
+Kumi Korea,Kumoh National Institute of Technology,AF-1399
+Gyeongju Korea,Uiduk University,AF-1400
+Seoul Korea,Diquest Inc,AF-1401
+South Korea,National Institute for Korean Language,AF-1402
+Chuncheon Korea,Kangwon National University,AF-1403
+Kyungsan Korea,Taegu University,AF-1404
+Seoul Korea,Kyung Hee University,AF-1405
+Seoul Korea,SK Telecom,AF-1406
+Seoul Korea,Sungkyunkwan University,AF-1407
+Korea,Korea Telecom,AF-1408
+Seoul Korea,Ewha Womens University,AF-1409
+The Syriac Institute,The Syriac Institute,AF-1410
+Pearson Technologies,Pearson Technologies,AF-1411
+Sofia Bulgaria,Sirma AI Ltd,AF-1412
+Budapest Hungary,MorphoLogic,AF-1413
+Saitama Japan,Surugadai University,AF-1414
+Osaka Japan,Sumitomo Electric Information Systems Co,AF-1415
+Okinawa Japan,Okinawa Institute of Science and Technology,AF-1416
+Odense Denmark,University of Odense,AF-1417
+Patras Greece,LogicDIS Group,AF-1418
+Erlangen Germany,SOFT GmbH,AF-1419
+Santa Barbara CA,GE Company,AF-1420
+Potsdam Germany,Potsdam University,AF-1421
+Washington D.C.,Bureau of the Census,AF-1422
+Yangon Myanmar,AWZAR Co,AF-1423
+Busan Korea,DongA University,AF-1424
+Aichi Japan,Aichi University of Education,AF-1425
+Yonezawa Japan,University of Yamagata,AF-1426
+Japan,National Language Research Institute,AF-1427
+Helsinki Finland,MediCel Ltd,AF-1428
+Duluth MN,University of Minnesota Duluth,AF-1429
+Japan,The Toin Corporation,AF-1430
+Vienna Austria,Technical University of Vienna,AF-1431
+Yokohama Japan,Institute of Physical and Chemical Research,AF-1432
+Suzhou China,Soochow University,AF-1433
+Seattle WA,Insightful Corporation,AF-1434
+West Long Branch NJ,Monmouth University,AF-1435
+Athens Greece,National Technical University of Athens,AF-1436
+Kanagawa Japan,Fuji Xerox Co Ltd,AF-1437
+Fukuoka Japan,Fukuoka University,AF-1438
+Delft The Netherlands,TNO Information and Communication Technology,AF-1439
+Elkridge MD,Kathpol Technologies Inc,AF-1440
+Bad Oeynhausen Germany,University for Health Informatics and Technology Tyrol,AF-1441
+Prague Czech Republic,IBM Czech Republic,AF-1442
+Burlington MA,ReedElsevier Inc,AF-1443
+Hannover Germany,University of Hannover,AF-1444
+Karlsruhe Germany,Mentasys GmbH,AF-1445
+Berkeley CA,Natural Language Inc,AF-1446
+Hsinchu Taiwan,Behavior Design Corporation,AF-1447
+Burlington MA,Technical Operations Research,AF-1448
+Cambridge MA,Arthur D Little,AF-1449
+Allahabad India,National Institute of Technology,AF-1450
+Amsterdam The Netherlands,Meertens Institute,AF-1451
+Chungli Taiwan,Chunghwa Telecom Co,AF-1452
+Taiwan,National Taiwan University of Science and Technology,AF-1453
+Chennai India,Anna University,AF-1454
+Tallinn Estonia,Institute of the Estonian Language,AF-1455
+Tokyo Japan,Informationtechnology Promotion Agency,AF-1456
+Czech Republic,Academy of Sciences of the Czech Republic,AF-1457
+Pusan Korea,Pusan National University,AF-1458
+Middletown CT,Connecticut Valley Hospital,AF-1459
+Montpellier France,Montpellier Laboratory of Computer Science,AF-1460
+Rennes France,French National Institute for Agricultural Research Rennes,AF-1461
+Newport News VA,Christopher Newport University,AF-1462
+Boulder CO,Knowledge Analysis Technologies,AF-1463
+Integrated Knowledge Systems,Integrated Knowledge Systems,AF-1464
+Brooklyn NY,City University of New YorkBrooklyn College,AF-1465
+Irene,LangkildeGeary,AF-1466
+Wuppertal Germany,University of Wuppertal,AF-1467
+Alexandria VA,Advanced Resources Technology,AF-1468
+Alexandria VA,Advanced Resource Technology,AF-1469
+Western Union Telegraph Co.,Western Union Telegraph Co,AF-1470
+Luxembourg,Commission of the European Communities,AF-1471
+North Ryde Australia,Microsoft Institute,AF-1472
+Trelaze France,Specinov,AF-1473
+Toulouse France,Synapse Development,AF-1474
+Warsaw Poland,Institute for Scientific Technical and Economic Information,AF-1475
+Thierry,Moudenc,AF-1476
+Nancy France,National Polytechnic Institute of Lorraine,AF-1477
+Bloomington IN,Butler Hill Group,AF-1478
+Berlin Germany,Sietec Systemtechnik,AF-1479
+Cambridge UK,Microsoft Research Cambridge,AF-1480
+Grenoble France,Domaine Universitaire de St Martin dHeres,AF-1481
+Ulsan Korea,University of Ulsan,AF-1482
+Hsinchu Taiwan,National Chiao Tung University,AF-1483
+Seoul Korea,Daum Communications Corp,AF-1484
+Gyeonggi-do Korea,Samsung Advanced Institute of Technology,AF-1485
+McLean VA,Sterling Software,AF-1486
+Taoyuan Taiwan,National Central University,AF-1487
+Washington D.C.,Pan American Health Organization,AF-1488
+Moscow Russia,Vsesojuznyj Centr Perevodov,AF-1489
+Pathumthani Thailand,Thammasat University,AF-1490
+Pforzheim Germany,Standard Elektrik Lorenz AG,AF-1491
+Kingston ON,Queens University,AF-1492
+Danish Institute for Educational Research,Danish Institute for Educational Research,AF-1493
+Lodz Poland,University of Lodz,AF-1494
+Bern Switzerland,American Management Systems,AF-1495
+Paderborn Germany,University of Paderborn,AF-1496
+Stanislas,Lhomme,AF-1497
+Beijing China,University of Science and Technology,AF-1498
+Miami FL,Florida International University,AF-1499
+Beijing China,Beihang University,AF-1500
+Aberystwyth UK,University of Wales,AF-1501
+Chonan Korea,Chonan University,AF-1502
+Hamilton New Zealand,Waikato University,AF-1503
+Taiwan,Chung Yuan Christian University,AF-1504
+Winnipeg MB,University of Manitoba,AF-1505
+Winnipeg MB,Nalante Inc,AF-1506
+Palo Alto CA,Structural Semantics,AF-1507
+Geneva Switzerland,Swiss Institute of Bioinformatics,AF-1508
+Damascus MD,CL Research,AF-1509
+Schaumburg IL,Motorola Labs,AF-1510
+Tuscaloosa AL,University of Alabama,AF-1511
+Beijing China,Intel China Research Center,AF-1512
+Pittsburgh PA,Vivisimo,AF-1513
+Boulder CO,US WEST Advanced Technologies,AF-1514
+Reykjavik Iceland,Reykjavik University,AF-1515
+Frankfurt Germany,German National Library,AF-1516
+Monte de Caparica Portugal,Institute for the Development of New Technologies,AF-1517
+Puebla Mexico,National Institute of Astrophysics,AF-1518
+Daniel,Lopresti,AF-1519
+Richmond IN,Earlham College,AF-1520
+Madrid Spain,Bitextcom,AF-1521
+Helsinki Finland,Research Institute for the Languages of Finland,AF-1522
+Westminster Hebrew Institute,Westminster Hebrew Institute,AF-1523
+Pasadena CA,California Institute of Technology,AF-1524
+Munich Germany,Institute of Phonetics and Speech Processing,AF-1525
+Zagazig Egypt,Zagazig University,AF-1526
+Albuquerque NM,Electronic Data Systems Corp,AF-1527
+Japan,National Institute for Japanese Language,AF-1528
+Tilburg The Netherlands,Catholic University of Tilburg,AF-1529
+Hyderabad India,Bhrigus Software Pvt Ltd,AF-1530
+Stony Brook NY,Renaissance Technologies Corp,AF-1531
+Chennai India,Indus Research Center,AF-1532
+Fribourg Switzerland,Fribourg University,AF-1533
+Washington D.C.,Intellectual Property Association,AF-1534
+Washington D.C.,ATP,AF-1535
+Delhi India,Scientific Analysis Group,AF-1536
+Tokyo Japan,Yahoo Research Tokyo,AF-1537
+Japan,Brain Science Institute,AF-1538
+Leiden The Netherlands,Institute for Dutch Lexicology,AF-1539
+Paris France,STIMAPHP,AF-1540
+Tarragona Spain,Rovira i Virgili University,AF-1541
+Urumqi China,Xinjiang University,AF-1542
+New York NY,Shell Oil Company,AF-1543
+Pulau Pinang Malaysia,Universiti Sains Malaysia,AF-1544
+Lancaster SC,SIL International,AF-1545
+Samos Greece,University of the Aegean,AF-1546
+Pisa Italy,CNRInstitute for Informatics and Telematics,AF-1547
+Bucharest Romania,Institute of Mathematics,AF-1548
+Skovde Sweden,University of Skovde,AF-1549
+Oakbrook Terrace IL,Navistar International,AF-1550
+Laboratoire de Traduction Mecanique de l'institut des Langues Etrangeres,Laboratoire de Traduction Mecanique de linstitut des Langues Etrangeres,AF-1551
+Van Nuys CA,Intelligent Software,AF-1552
+Japan,Nitsuko Corporation,AF-1553
+Tokyo Japan,Tokyo Denki University,AF-1554
+Prague Czechoslovakia,PUDIS,AF-1555
+La Jolla CA,Britannicacom,AF-1556
+Paris France,LLF,AF-1557
+Tokyo Japan,International Christian University,AF-1558
+Tokyo Japan,Systems Biology Institute,AF-1559
+Montreal QU,Nuance Communications,AF-1560
+Milan Italy,University of Milan,AF-1561
+Halle Germany,University of HalleWittenberg,AF-1562
+Lawrence KS,University of Kansas,AF-1563
+Waxhaw NC,Summer Institute of Linguistics,AF-1564
+Rome NY,Intelligent Interface Group COES,AF-1565
+Morris MN,University of MinnesotaMorris,AF-1566
+Paris France,LACITO,AF-1567
+Catania Italy,University of Catania,AF-1568
+Teddington UK,National Physical Laboratory,AF-1569
+Cambridge UK,Gensym Corporation,AF-1570
+Arlington MA,Content Technologies Inc,AF-1571
+Boston MA,Brattle Research Corporation,AF-1572
+Cambridge UK,Cambridge University Press,AF-1573
+Rome NY,Air Force Research Laboratory,AF-1574
+Boca Raton FL,IBM Corp,AF-1575
+East Syracuse NY,Coherent Research,AF-1576
+Grenoble France,WinSoft SA,AF-1577
+Sunnyvale CA,Inxight Software Inc,AF-1578
+Saarbrucken Germany,Max Planck Institute for Informatics,AF-1579
+Valbonne France,Institut EURECOM,AF-1580
+Troy NY,Rensselaer Polytechnic Institute,AF-1581
+Gatineau QU,University of Quebec at Gatineau,AF-1582
+Beijing China,Beijing Normal University,AF-1583
+Perth Western Australia,University of Western Australia,AF-1584
+Cadiz Spain,University of Cadiz,AF-1585
+Belgium,Space Application Services,AF-1586
+Edinburgh UK,Harlequin Ltd,AF-1587
+McLean VA,Science Applications International Corporation,AF-1588
+France,MoDyCo,AF-1589
+Ipswich UK,BT Laboratories,AF-1590
+Skopje Yugoslavia,University Kiril and Metodij,AF-1591
+Rome Italy,CNRInstitute for System Analysis and Computer Science,AF-1592
+Brussels Belgium,Mission Critical,AF-1593
+Osaka Japan,University of Osaka,AF-1594
+Niger,National Ministry of Education,AF-1595
+Moncton NB,University of Moncton,AF-1596
+Newcastle UK,University of Newcastle,AF-1597
+Lebanon,University of Balamand,AF-1598
+Richardson TX,Lymba Corporation,AF-1599
+Szeged Hungary,Acheuron Hungary Ltd,AF-1600
+Culiacan Mexico,Autonomous University of Sinaloa,AF-1601
+Woodland Hills CA,Logicon,AF-1602
+Owego NY,Lockheed Martin Systems Integration,AF-1603
+Malvern UK,Speech Ltd,AF-1604
+Malvern UK,Speech Research UnitRSRE,AF-1605
+Aachen Germany,Nuance Communications GmbH,AF-1606
+Lorenzo,Moretti,AF-1607
+North York ON,York University,AF-1608
+Norwegian Sami Parliament,Norwegian Sami Parliament,AF-1609
+Cambridge MA,IBM Corporation,AF-1610
+Kampala Uganda,Makerere University,AF-1611
+Graz Austria,University of Graz,AF-1612
+Burlington MA,Divine Inc,AF-1613
+Lyngby Denmark,Technical University of Denmark,AF-1614
+Fredericton NB,National Research Council Fredericton,AF-1615
+Osaka Japan,Sanyo Electric Co,AF-1616
+Melbourne Australia,La Trobe University,AF-1617
+Tilburg The Netherlands,Institute for Language Technology and Artificial Intelligence ITK,AF-1618
+Daejeon Korea,Information and Communications University,AF-1619
+Miskolc-Egyetemvaros Hungary,University of Miskolc,AF-1620
+Kobe Japan,Konan University,AF-1621
+Budapest Hungary,Institute of Linguistics,AF-1622
+Saitama Japan,Toyo University,AF-1623
+Tokyo Japan,Toshiba Corporation,AF-1624
+Tokyo Japan,National Language Research Institute,AF-1625
+Tokyo Japan,Japan Science and Technology Agency,AF-1626
+Tokyo Japan,Research Institute of Science and Technology for Society,AF-1627
+Tokyo Japan,Nihon Unisys Ltd,AF-1628
+Nago Japan,Meio University,AF-1629
+Japan,The Japanese Discourse Research Initiative,AF-1630
+Hamilton NY,Colgate University,AF-1631
+Niamey Niger,Abdou Moumouni University,AF-1632
+Jakarta Indonesia,University of Indonesia,AF-1633
+Buffalo NY,Calspan Corporation,AF-1634
+Cleveland OH,Case Western Reserve University,AF-1635
+Pisa Italy,Synthema,AF-1636
+Dresden Germany,Dresden University of Technology,AF-1637
+Palmerston North New Zealand,Massey University,AF-1638
+Paula S. Newman,Paula S Newman,AF-1639
+Hong Kong,Weniwan Technologies,AF-1640
+Gatineau QU,University of Quebec,AF-1641
+Angers France,University of Angers,AF-1642
+Lille France,INRIA Futurs,AF-1643
+Boulder CO,Boulder Language Technologies,AF-1644
+Vienna Austria,Telecommunications Research Center Vienna,AF-1645
+Digital Pebble Ltd.,Digital Pebble Ltd,AF-1646
+Curitiba Brazil,Parana Catholic University,AF-1647
+Loudonville NY,Siena College,AF-1648
+Saitama Japan,Hitachi Ltd,AF-1649
+Norway,LingIT,AF-1650
+Patras Greece,Computer Technology Institute,AF-1651
+Yi,Zhang,AF-1652
+Hamburg Germany,Technical University of Hamburg,AF-1653
+San Francisco,Dolores Labs,AF-1654
+Budapest Hungary,Technical University of Budapest,AF-1655
+Yokohama Japan,NTT Intelligent Technology Co,AF-1656
+Yokosuka Japan,NTT Electrical Communication Laboratories,AF-1657
+Columbus OH,Battelles Columbus Laboratories,AF-1658
+Cork Ireland,University College Cork,AF-1659
+Yokohama Japan,Tsurumi University,AF-1660
+Japan,Apple Technology Inc,AF-1661
+Minneapolis MN,Honeywell International,AF-1662
+Spain,Oberta University of Catalonia,AF-1663
+Vandoeuvre-les-Nancy France,Institute of Science and Technical Information,AF-1664
+Toronto ON,Ontario Institute for Studies in Education,AF-1665
+Yokohama Japan,NTT Advanced Technology Corporation,AF-1666
+Berkeley CA,SPARTA,AF-1667
+Touche Ross Management Consultants,Touche Ross Management Consultants,AF-1668
+Moscow USSR,USSR Center for Translation of Scientific and Technical Literature and Documentation,AF-1669
+Cheonan Korea,Baekseok University,AF-1670
+Munich Germany,Microsoft Research,AF-1671
+Geneva Switzerland,Webster University,AF-1672
+Stockholm Sweden,Research Institute of National Defense Operations Research Center,AF-1673
+Chennai India,Institute of Mathematical Sciences,AF-1674
+Shenyang China,Shenyang Normal University,AF-1675
+New Roads LA,The Pangburn Company Inc,AF-1676
+Dublin Ireland,Media Lab Europe,AF-1677
+Utrecht The Netherlands,BSOResearch,AF-1678
+New York NY,Yahoo Research,AF-1679
+Debrecen Hungary,University L Kossuth,AF-1680
+Sydney Australia,Commonwealth Scientific and Industrial Research Organisation CSIRO,AF-1681
+Hunil,Park,AF-1682
+Tel Aviv Israel,The Marathon Group,AF-1683
+San Francisco CA,Rigel Pharmaceuticals Inc,AF-1684
+St. Hubert QU,Canadian Space Agency,AF-1685
+Eugene OR,University of Oregon,AF-1686
+Cambridge UK,Logica Cambridge Ltd,AF-1687
+Research Foundation-Flanders,Research FoundationFlanders,AF-1688
+Ufa Russia,Bashkir State University,AF-1689
+Athens Greece,Biovista,AF-1690
+Aachen Germany,Philips Research Laboratories Aachen,AF-1691
+Aalborg Denmark,University of Aalborg,AF-1692
+Mayaguez Puerto Rico,University of Puerto Rico at Mayaguez,AF-1693
+DaNang City Vietnam,DaNang University,AF-1694
+Santa Clara CA,Santa Clara University,AF-1695
+Sendai Japan,Tohoku University,AF-1696
+Yangon Myanmar,Myanmar Unicode and NLP Research Center,AF-1697
+Belem Brazil,Universidade Federal do Para,AF-1698
+Lausanne Switzerland,University of Lausanne,AF-1699
+New York NY,SpeechWorks International Ltd,AF-1700
+University MS,University of Mississippi,AF-1701
+Puebla Mexico,Autonomous University of Puebla,AF-1702
+Ancaster ON,Redeemer College,AF-1703
+Prague Czechoslovakia,Zavod vypocetni techniky CSAD Prague,AF-1704
+Montreal QU,Odyssey Research Associates,AF-1705
+Cambridge MA,Nokia Research Center,AF-1706
+Prague Czech Republic,Czech Technical University in Prague,AF-1707
+Crete Greece,Technological Institute of Crete,AF-1708
+Budapest Hungary,OPKM Computing Centre,AF-1709
+Budapest Hungary,National Educational Library and Museum,AF-1710
+South Africa,Mareka Institute,AF-1711
+PPrice Speech and Language,PPrice Speech and Language,AF-1712
+Thailand,SIL International,AF-1713
+Chicago IL,Accenture Technology Labs,AF-1714
+Tokyo Japan,Central Research Institute of Electric Power Industry,AF-1715
+HCM City Vietnam,HCM University of Industry,AF-1716
+Shanghai China,East China Normal University,AF-1717
+Evora Portugal,University of Evora,AF-1718
+Tirupati India,Rashtriya Sanskrit Vidyapeeth,AF-1719
+Jamaica NY,St Johns University,AF-1720
+Coimbatore India,Amrita Institute of Technology and Science,AF-1721
+Madras India,Indian Institute of Technology,AF-1722
+Brunswick ME,Bowdoin College,AF-1723
+Helsinki Finland,Academy of Finland,AF-1724
+Hyderabad India,Central University,AF-1725
+Fredonia NY,State University of New York at Fredonia,AF-1726
+Germersheim Germany,University of Mainz,AF-1727
+Stuttgart Germany,Sony International,AF-1728
+Clayton Australia,Telstra Research Laboratories,AF-1729
+Taiwan,Providence University,AF-1730
+Helsinki Finland,Index,AF-1731
+Mountain View CA,Honda Research Institute,AF-1732
+Dubai UAE,British University in Dubai,AF-1733
+Bari Italy,Polytechnic University of Bari,AF-1734
+Pasadena CA,Perfect Market,AF-1735
+Inc.,Mobile Technologies,AF-1736
+Dublin Ireland,St Patricks College,AF-1737
+Maynooth Ireland,National University of Ireland,AF-1738
+Houston TX,University of Houston,AF-1739
+Birmingham UK,Aston University,AF-1740
+Cambridge MA,Thinking Machines Corporation,AF-1741
+Recife Brazil,Federal University of Pernambuco,AF-1742
+Florianopolis Brazil,Federal University of Santa Catarina,AF-1743
+Braga Portugal,Minho University,AF-1744
+Italy,CSIPiemonte,AF-1745
+Max Planck Digital Library,Max Planck Digital Library,AF-1746
+Santa Clara CA,Intel Research,AF-1747
+Kingstowne VA,SAIC,AF-1748
+Grenoble France,BVITAL,AF-1749
+Strasbourg France,INSAStrasbourg,AF-1750
+Monterey CA,Naval Postgraduate School,AF-1751
+Central Institute of Indian Languages,Central Institute of Indian Languages,AF-1752
+Beijing China,Sohu Inc RD Center,AF-1753
+Washington D.C.,AnswerLogic,AF-1754
+Columbia MD,RABA Technologies,AF-1755
+Provo UT,Weidner Communications,AF-1756
+Rennes France,INSARennes,AF-1757
+Copenhagen Denmark,Center for Language Technology,AF-1758
+Thanjavur India,Tamil University,AF-1759
+Marseille France,Groupe Intelligence Artificielle,AF-1760
+Machine Intelligence Corporation,Machine Intelligence Corporation,AF-1761
+White Plains NY,IBM Data Systems Division,AF-1762
+Fukuoka Japan,Seinan Jo Gakuin Universiy,AF-1763
+Fukuoka Japan,Seinan Jo Gakuin University,AF-1764
+Osaka Japan,TIS Inc,AF-1765
+Luxembourg,LINGLINK,AF-1766
+Pune India,Centre for Development of Advanced Computing,AF-1767
+Kawasaki Japan,Senshu University,AF-1768
+Naperville IL,North Central College,AF-1769
+Hertfordshire UK,University of Hertfordshire,AF-1770
+Armidale Australia,University of New England,AF-1771
+Muenster Germany,University of Muenster,AF-1772
+Passau Germany,University of Passau,AF-1773
+Wurzburg Germany,University of Wurzburg,AF-1774
+Vienna Austria,ftw Telecommunications Research Center,AF-1775
+London UK,Imperial College London,AF-1776
+Minneapolis MN,Deception Discovery Technologies,AF-1777
+Munichi Germany,Software Design and Management GmbH  Co KG,AF-1778
+South Africa,University of Western Cape,AF-1779
+Washington D.C.,United States Secret Service,AF-1780
+Columbia MD,BBN Technologies,AF-1781
+Human Language Technology Center for Excellence,Human Language Technology Center for Excellence,AF-1782
+France,GRTC,AF-1783
+Laura,Scivetti,AF-1784
+Little Rock AR,University of Arkansas,AF-1785
+Miami Shores FL,Barry University,AF-1786
+Evry France,National Institute of Telecommunications,AF-1787
+Tokyo Japan,Aoyama Gakuin University,AF-1788
+Milan Italy,CEFRIEL,AF-1789
+Moscow Russia,Russian Research Institute for Artificial Intelligence,AF-1790
+Princeton NJ,Siemens Corporate Research,AF-1791
+Cupertino CA,Tandem Computers,AF-1792
+Xiamen China,Xiamen University,AF-1793
+Chilin,Shih,AF-1794
+Cambridge UK,Cambridge Language Research Unit,AF-1795
+Seoul Korea,Shungshin Womens University,AF-1796
+Japan,INTEC Web and General Semantics Co,AF-1797
+Washington D.C.,Entropic Research Laboratory,AF-1798
+Rourkela India,National Institute of Technology,AF-1799
+New Haven CT,Cognitive Systems Inc,AF-1800
+Stockholm Sweden,Karolinska Institute,AF-1801
+Meghalaya India,St Anthonys College,AF-1802
+Tamagawa Japan,Tamagawa University,AF-1803
+Nagoya Japan,Chukyo University,AF-1804
+Seattle WA,Google Inc,AF-1805
+Boca Raton FL,Siemens Corporation,AF-1806
+Haifa Israel,NetPatrol Consulting,AF-1807
+Waltham MA,GTE Laboratories,AF-1808
+Brno Czech Republic,Brno University of Technology,AF-1809
+Phitsanulok Thailand,Naresuan University,AF-1810
+Valladolid Spain,University of Valladolid,AF-1811
+Blue Bell PA,Sperry Univac,AF-1812
+Beijing China,Beijing Language and Culture University,AF-1813
+Beijing China,AIA Information Technology Co,AF-1814
+Bangkok Thailand,National Institute of Development Administration,AF-1815
+Rabat Morocco,Ecole Nationale de LIndustrie Minerale,AF-1816
+Velti S.A.,Velti SA,AF-1817
+Portsmouth UK,University of Portsmouth,AF-1818
+New York NY,IBM Systems Research Institute,AF-1819
+Antonella,Spiezio,AF-1820
+Leuven Belgium,University Hospital Gasthuisberg,AF-1821
+Brussels Belgium,Wetenschap en Innovatie,AF-1822
+Bangalore India,Satyam Computer Services Ltd,AF-1823
+Clamart France,EF,AF-1824
+Germany,Learning Lab Lower Saxony,AF-1825
+Kansas City MO,University of MissouriKansas City,AF-1826
+Regensburg Germany,University of Regensburg,AF-1827
+Saabrucken Germany,Consultants for Language Technology,AF-1828
+Orlando FL,Naval Air Warfare Training Systems Division,AF-1829
+Saarbrucken Germany,XtraMind Technologies GmbH,AF-1830
+London UK,Reuters Ltd,AF-1831
+Oakland CA,Askcom,AF-1832
+Columbus OH,ATT Bell Labs,AF-1833
+Kjeller Norway,Norwegian Defence Research Establishment,AF-1834
+Schenectady NY,Union College,AF-1835
+Jackson TN,Union University,AF-1836
+Paris France,Ecole de LInstitut Telecom,AF-1837
+Munich Germany,conject AG,AF-1838
+NorTel Networks,NorTel Networks,AF-1839
+Frankfurt Germany,Knowbotic Systems,AF-1840
+Franfurt Germany,Im Mellsig,AF-1841
+Singapore,Laboratories for Information Technology,AF-1842
+Tokyo Japan,Japan Institute for Educational Measurement Inc,AF-1843
+Osaka Japan,National Museum of Ethnology,AF-1844
+Moscow USSR,Institute of the Russian Language,AF-1845
+Beijing China,China Center for Information Industry Development,AF-1846
+Troyes France,University of Technology of Troyes,AF-1847
+San Diego CA,SPAWAR Systems Center,AF-1848
+St. Louis MO,Fujitsu Nexion,AF-1849
+Tokyo Japan,Tsuda College,AF-1850
+Moscow Russia,Nitol,AF-1851
+Cambridge UK,Acorn Computers Ltd,AF-1852
+Kurume Japan,Kurume Institute of Technology,AF-1853
+Okinawa Japan,University of the Ryukyus,AF-1854
+Tokyo Japan,Fujitsu Limited,AF-1855
+Okayama Japan,Okayama University,AF-1856
+Athens Greece,Agricultural University of Athens,AF-1857
+Gifu Japan,Gifu University,AF-1858
+Taiyuan China,Shanxi University,AF-1859
+Beijing China,Institute of Computing Technology,AF-1860
+Bethesda MD,National Center for Biotechnology Information,AF-1861
+Himeji Japan,Himeji College,AF-1862
+Helsinki Finland,Conexor Oy,AF-1863
+Udine Italy,International Center for Mechanical Sciences,AF-1864
+Tokyo Japan,Kogakuin University,AF-1865
+Linthicum MD,SRA Corporation,AF-1866
+Wemmel Belgium,Lernout  Hauspie,AF-1867
+Singapore,Defence Medical Research Institute,AF-1868
+Nagakute Aichi Japan,Toyota Central RD Labs,AF-1869
+New Castle UK,University of New Castle,AF-1870
+England,British Telecom Group,AF-1871
+Jacksonville FL,British Telecom Group BT Americas,AF-1872
+Bangalore India,Google Inc,AF-1873
+Hanover NH,Dartmouth College,AF-1874
+Florence Italy,Biblioteca Nazionale Centrale di Firenze,AF-1875
+Nagakute Japan,Tokyo Central RD Labs,AF-1876
+Santa Monica CA,Unisys Corporation,AF-1877
+Tokyo Japan,Cognitive Research Laboratory,AF-1878
+Ashburn VA,George Washington University,AF-1879
+Montreal QU,Ecole Polytechnique de Montreal,AF-1880
+Pittsburgh PA,Google Inc,AF-1881
+Vienna Austria,Medical University,AF-1882
+Soesterberg The Netherlands,TNO Defense,AF-1883
+Taipei Taiwan,Tung Nan Institute of Technology,AF-1884
+Min-Hsiung Taiwan,Chung Cheng University,AF-1885
+Changhua Taiwan,Dayeh University,AF-1886
+Saitama Japan,SORST Japan Science and Technology Corporation,AF-1887
+Nagasaki Japan,Nagasaki University,AF-1888
+Bucharest Romania,Academy of Economic Studies,AF-1889
+Turkey,Anadolu University,AF-1890
+Victoria BC,TCC Communications,AF-1891
+Boston MA,Brigham and Womens Hospital,AF-1892
+Newark NJ,New Jersey Institute of Technology,AF-1893
+Needham MA,CEHQ Inc,AF-1894
+Bangalore India,AOL India RD,AF-1895
+Tokyo Japan,Hottolink Inc,AF-1896
+Tokyo Japan,Tokyo University of Mercantile Marine,AF-1897
+Framingham MA,Versatile Information Systems Inc,AF-1898
+Kanagawa Japan,NTT Basic Research Laboratories,AF-1899
+Sevilla Spain,Grupo gdt,AF-1900
+Matsumoto Japan,Shinshu University,AF-1901
+Krishnakumar,V,AF-1902
+Paris France,ENSTTSI,AF-1903
+Lannion France,Telisma,AF-1904
+Amsterdam The Netherlands,Digital Equipment Corporation,AF-1905
+France,Janua Linguarum Foundation,AF-1906
+St. Martin d'Heres France,CETA,AF-1907
+Lleida Spain,University of Lleida,AF-1908
+San Jose CA,San Jose State University,AF-1909
+Grenoble France,Grenoble Institute of Technology,AF-1910
+Boston MA,Teragram Corp,AF-1911
+Pondicherry India,Pondicherry University,AF-1912
+Rennes France,European University of Brittany,AF-1913
+UK,Bath University,AF-1914
+Philadelphia PA,Institute for Scientific Information,AF-1915
+Eurospider Information Technology (EIT) AG,Eurospider Information Technology EIT AG,AF-1916
+Athens Georgia,University of Georgia,AF-1917
+Stuttgart Germany,DIPF,AF-1918
+Maastricht The Netherlands,Maastricht University,AF-1919
+Delft The Netherlands,Irion Technologies,AF-1920
+London UK,Scicon Ltd,AF-1921
+Hunan China,Hunan University,AF-1922
+Rome NY,Rome Laboratory,AF-1923
+Marburg Germany,University of Marburg,AF-1924
+Sapporo Japan,Hokuto System Co,AF-1925
+Spain,Catalan Institution for Research and Advanced Studies ICREA,AF-1926
+Kelowna BC,Ribbit Software Systems Inc,AF-1927
+Richard E.,Watson,AF-1928
+Boston MA,HoughtonMifflin Company,AF-1929
+Lima Peru,SIL InternationalVerano,AF-1930
+Preston UK,University of Central Lancashire,AF-1931
+Pittsburgh PA,MAYA Design Inc,AF-1932
+Alexandria VA,Institute for Defense Analyses,AF-1933
+Wassenaar The Netherlands,Netherlands Institute for Advanced Study,AF-1934
+Waltham MA,Lycos Inc,AF-1935
+Edwardsville IL,Southern Illinois UniversityEdwardsville,AF-1936
+Oakland CA,California Digital Library,AF-1937
+Inc.,Multimodal Technologies,AF-1938
+Kent OH,Kent State University,AF-1939
+GrapeCity Inc.,GrapeCity Inc,AF-1940
+Taiwan,Chaoyang University of Technology,AF-1941
+Lexington MA,deNovis Inc,AF-1942
+China,Information Center of PEOPLES DAILY,AF-1943
+China,Alibaba Group,AF-1944
+Beijing China,Ricoh Software Research Center Beijing Co,AF-1945
+St. Petersburg Russia,Petersburg Transport University,AF-1946
+Nelson New Zealand,DocRec Ltd,AF-1947
+Sharjah U.A.E.,University Sharjah,AF-1948
+Okayama Japan,Notre Dame Seishin University,AF-1949
+Osaka Japan,Kinki University,AF-1950
+Kanagawa Japan,Hitachi Ltd,AF-1951
+New York NY,City University of New YorkLehman College,AF-1952
+Kyunggi Korea,Kangnam University,AF-1953
+Jordan,Amman University,AF-1954
+Milan Italy,University of MilanBicocca,AF-1955
+Paris France,Curie Institute,AF-1956
+Austin TX,Larisa Zlatic Language Services,AF-1957
+Los Alamos NM,Signition Inc,AF-1958
+Arab Open University,Arab Open University,AF-1959
+Amman Jordan,Arab Open University,AF-1960
+Twente The Netherlands,Human Media Interaction Twente,AF-1961
+Swansea UK,Swansea University,AF-1962

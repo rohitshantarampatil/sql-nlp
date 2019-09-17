@@ -1,0 +1,672 @@
+Venue,Year,ConfID
+EACL,2003,C-0
+EACL,2006,C-1
+EACL,2009,C-2
+EACL,2012,C-3
+EACL,2014,C-4
+EACL,1983,C-5
+EACL,1985,C-6
+EACL,1987,C-7
+EACL,1989,C-8
+EACL,1991,C-9
+EACL,1993,C-10
+EACL,1995,C-11
+EACL,1999,C-12
+EACL,2004,C-13
+ACL,2000,C-14
+ACL,2001,C-15
+ACL,2002,C-16
+ACL,2003,C-17
+ACL,2004,C-18
+ACL,2005,C-19
+ACL,2006,C-20
+ACL,2007,C-21
+ACL,2008,C-22
+ACL,2009,C-23
+ACL,2010,C-24
+ACL,2011,C-25
+ACL,2012,C-26
+ACL,2013,C-27
+ACL,2014,C-28
+ACL,2015,C-29
+ACL,2016,C-30
+ACL,1979,C-31
+ACL,1980,C-32
+ACL,1981,C-33
+ACL,1982,C-34
+ACL,1983,C-35
+ACL,1984,C-36
+ACL,1985,C-37
+ACL,1986,C-38
+ACL,1987,C-39
+ACL,1988,C-40
+ACL,1989,C-41
+ACL,1990,C-42
+ACL,1991,C-43
+ACL,1992,C-44
+ACL,1993,C-45
+ACL,1994,C-46
+ACL,1995,C-47
+ACL,1996,C-48
+ACL,1997,C-49
+ACL,1998,C-50
+ACL,1999,C-51
+IJCNLP,2005,C-52
+IJCNLP,2008,C-53
+IJCNLP,2009,C-54
+COLING,2000,C-55
+COLING,2002,C-56
+COLING,2004,C-57
+COLING,2008,C-58
+COLING,2010,C-59
+COLING,2014,C-60
+COLING,1965,C-61
+COLING,1967,C-62
+COLING,1969,C-63
+COLING,1973,C-64
+COLING,1980,C-65
+COLING,1982,C-66
+COLING,1986,C-67
+COLING,1988,C-68
+COLING,1990,C-69
+COLING,1992,C-70
+COLING,1994,C-71
+COLING,1996,C-72
+COLING,1998,C-73
+COLING,2006,C-74
+COLING,1984,C-75
+EMNLP,2007,C-76
+EMNLP,2008,C-77
+EMNLP,2009,C-78
+EMNLP,2010,C-79
+EMNLP,2011,C-80
+EMNLP,2012,C-81
+EMNLP,2013,C-82
+EMNLP,2014,C-83
+EMNLP,2005,C-84
+EMNLP,2001,C-85
+EMNLP,2002,C-86
+EMNLP,2003,C-87
+EMNLP,2004,C-88
+EMNLP,2006,C-89
+EMNLP,1996,C-90
+EMNLP,1997,C-91
+HLT,2001,C-92
+HLT,2005,C-93
+HLT,1993,C-94
+HLT,1994,C-95
+HLT,2003,C-96
+HLT,2004,C-97
+HLT,2006,C-98
+HLT,2007,C-99
+HLT,2009,C-100
+HLT,2010,C-101
+HLT,2011,C-102
+NAACL,2000,C-103
+NAACL,2001,C-104
+NAACL,2003,C-105
+NAACL,2004,C-106
+NAACL,2006,C-107
+NAACL,2007,C-108
+NAACL,2009,C-109
+NAACL,2010,C-110
+NAACL,2012,C-111
+NAACL,2013,C-112
+LREC,2008,C-113
+CL,2000,C-114
+CL,2001,C-115
+CL,2002,C-116
+CL,2003,C-117
+CL,2004,C-118
+CL,2005,C-119
+CL,2006,C-120
+CL,2007,C-121
+CL,2008,C-122
+CL,2009,C-123
+CL,2010,C-124
+CL,2011,C-125
+CL,2012,C-126
+CL,2013,C-127
+CL,2014,C-128
+CL,1979,C-129
+CL,1984,C-130
+CL,1985,C-131
+CL,1986,C-132
+CL,1987,C-133
+CL,1988,C-134
+CL,1989,C-135
+CL,1990,C-136
+CL,1991,C-137
+CL,1992,C-138
+CL,1993,C-139
+CL,1994,C-140
+CL,1995,C-141
+CL,1996,C-142
+CL,1997,C-143
+CL,1998,C-144
+CL,1999,C-145
+SIGMORPHON,2006,C-146
+SIGMORPHON,2007,C-147
+TINLP,1975,C-148
+TINLP,1978,C-149
+TINLP,1987,C-150
+ANLP,2000,C-151
+ANLP,1983,C-152
+ANLP,1988,C-153
+ANLP,1992,C-154
+ANLP,1994,C-155
+ANLP,1997,C-156
+IWPT,2009,C-157
+VLC,1995,C-158
+SIGDIAL,2008,C-159
+SIGDIAL,2000,C-160
+SIGDIAL,2001,C-161
+SIGDIAL,2002,C-162
+SIGDIAL,2003,C-163
+SIGDIAL,2004,C-164
+SIGDIAL,2006,C-165
+SIGDIAL,2009,C-166
+SIGDIAL,2010,C-167
+SIGDIAL,2011,C-168
+SIGDIAL,2012,C-169
+SIGDIAL,2013,C-170
+SIGDIAL,2014,C-171
+CoNLL,2007,C-172
+CoNLL,2000,C-173
+CoNLL,2002,C-174
+CoNLL,2003,C-175
+CoNLL,2004,C-176
+CoNLL,2005,C-177
+CoNLL,2006,C-178
+CoNLL,2008,C-179
+CoNLL,2009,C-180
+CoNLL,2010,C-181
+CoNLL,2011,C-182
+CoNLL,2012,C-183
+CoNLL,2013,C-184
+CoNLL,2014,C-185
+INLG,2000,C-186
+INLG,2006,C-187
+INLG,2008,C-188
+INLG,2010,C-189
+INLG,2012,C-190
+INLG,2014,C-191
+INLG,1996,C-192
+MUC,1991,C-193
+MUC,1992,C-194
+MUC,1993,C-195
+MUC,1995,C-196
+MUC,1998,C-197
+ENLG,2005,C-198
+IWCS,2011,C-199
+CLP,2010,C-200
+AJCL,1980,C-201
+AJCL,1981,C-202
+AJCL,1982,C-203
+AJCL,1983,C-204
+STEP,2008,C-205
+ICCS,2009,C-206
+Proceedings of the 11th Meeting of the ACL Special Interest Group on Computational Morphology and Phonology,2010,C-207
+Software Engineering Testing and Quality Assurance for Natural Language Processing,2008,C-208
+ICPT,2007,C-209
+OntoLex,2005,C-210
+Computational Lexical Semantics Workshop,2004,C-211
+Workshop On Temporal And Spatial Information Processing,2001,C-212
+Workshop On Linguistically Interpreted Corpora,2004,C-213
+Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web),2009,C-214
+Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web),2010,C-215
+Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web),2012,C-216
+Workshop On Very Large Corpora: Academic And Industrial Perspectives,1993,C-217
+Workshop On Automatic Information Extraction And Building Of Lexical Semantic Resources For NLP Applications,1997,C-218
+Workshop On Very Large Corpora,1996,C-219
+Workshop On Very Large Corpora,1997,C-220
+Workshop On Very Large Corpora,1998,C-221
+Workshop:  Chinese Language Processing,2000,C-222
+Workshop On Computational Approaches To Semitic Languages,2002,C-223
+Workshop On Computational Approaches To Semitic Languages,2005,C-224
+Workshop On Computational Approaches To Semitic Languages,1998,C-225
+International Joint Workshop On Natural Language Processing In Biomedicine And Its Applications NLPBA BioNLP,2004,C-226
+Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions (SEW-2009),2009,C-227
+Workshop on Semantic Evaluations (SemEval),2010,C-228
+Workshop on Semantic Evaluations (SemEval),2012,C-229
+Workshop on Semantic Evaluations (SemEval),2007,C-230
+Workshop on Statistical Machine Translation,2006,C-231
+Workshop on Statistical Machine Translation,2007,C-232
+Workshop on Statistical Machine Translation,2008,C-233
+Workshop on Statistical Machine Translation,2009,C-234
+Workshop on Statistical Machine Translation,2010,C-235
+Workshop on Statistical Machine Translation,2011,C-236
+Workshop on Statistical Machine Translation,2012,C-237
+Workshop on Statistical Machine Translation,2013,C-238
+Workshop on Statistical Machine Translation,2014,C-239
+Workshop On Discourse Relations And Discourse Markers,1998,C-240
+Proceedings of the EACL 2009 Workshop on the Interaction between Linguistics and Computational Linguistics: Virtuous Vicious or Vacuous?,2009,C-241
+Workshop On ELearning For Computational Linguistics And Computational Linguistics For ELearning,2004,C-242
+Workshop On Speech And Natural Language,1989,C-243
+Workshop On Speech And Natural Language,1990,C-244
+Workshop On Speech And Natural Language,1991,C-245
+Workshop On Speech And Natural Language,1992,C-246
+Workshop On Natural Language Generation EWNLG,2001,C-247
+Workshop On Natural Language Generation EWNLG,1998,C-248
+Workshop On Linking Biological Literature Ontologies And Databases,2004,C-249
+Workshop On Processing Of Dependency-Based Grammars,1998,C-250
+Workshop On Parsing Technology,2005,C-251
+Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics,2008,C-252
+Workshop On Conversational Systems,2000,C-253
+Workshop On New Methods In Language Processing And Computational Natural Language Learning,1998,C-254
+Workshop On Recent Advances In Natural Language Processing And Information Retrieval,2000,C-255
+Workshop On Natural Language Generation,1990,C-256
+Workshop On Natural Language Generation,1994,C-257
+Workshop On Patent Corpus Processing,2003,C-258
+Workshop On Interactive Spoken Dialog Systems: Bringing Speech And NLP Together In Real Applications,1997,C-259
+Proceedings of the NAACL HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text,2010,C-260
+Named Entities Workshop (NEWS),2009,C-261
+Named Entities Workshop (NEWS),2012,C-262
+Workshop On Computationally Hard Problems And Joint Inference In Speech And Language Processing,2006,C-263
+Proceedings of the 7th Workshop on Asian Language Resources (ALR7),2009,C-264
+Workshop On Natural Language Processing In Biomedicine,2003,C-265
+Workshop On Embedded Machine Translation Systems,2000,C-266
+Workshop On Language Resources For Translation Work Research And Training,2004,C-267
+Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms and Methodology for Learning by Reading,2010,C-268
+Proceedings of the 6th Workshop on Asian Language Resources,2008,C-269
+Proceedings of the Fifth International Workshop on Inference in Computational Semantics,2006,C-270
+Workshop On Psychocomputational Models Of Human Language Acquisition,2005,C-271
+Proceedings of the Eighth Workshop on Asian Language Resouces,2010,C-272
+Workshop On TIPSTER Text Program,1993,C-273
+Workshop On TIPSTER Text Program,1996,C-274
+Workshop On TIPSTER Text Program,1998,C-275
+Workshop On A Roadmap For Computational Linguistics,2002,C-276
+Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics,2011,C-277
+Workshop On Sharing Tools And Resources,2001,C-278
+SIGHAN Workshop On Chinese Language Processing,2002,C-279
+SIGHAN Workshop On Chinese Language Processing,2003,C-280
+SIGHAN Workshop On Chinese Language Processing,2004,C-281
+SIGHAN Workshop On Chinese Language Processing,2006,C-282
+Workshop On Building And Using Parallel Texts,2005,C-283
+Workshop on Computational Linguistics and Writing,2010,C-284
+Workshop on Computational Linguistics and Writing,2012,C-285
+Proceedings of ACL SIGLEX Workshop on Software,2005,C-286
+Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics,2002,C-287
+Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics,2005,C-288
+Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics,2013,C-289
+Workshop On The Computational Treatment Of Nominals,1998,C-290
+Workshop on Textual Entailment and Paraphrasing,2007,C-291
+Workshop On Multilingual Linguistic Resources,2004,C-292
+Workshop on Bridging the Gap: Academic and Industrial Research in Dialog Technologies,2007,C-293
+Workshop On Lexical Semantics And Knowledge Representation,1991,C-294
+Workshop On Frontiers In Linguistically Annotated Corpora,2006,C-295
+Proceedings of the 2010 Named Entities Workshop,2010,C-296
+Workshop On Intelligent Scalable Text Summarization,1997,C-297
+Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer),2009,C-298
+Workshop On Computational Natural Language Learning CoNLL,2001,C-299
+Workshop On Computational Natural Language Learning CoNLL,1997,C-300
+Workshop On Computational Natural Language Learning CoNLL,1999,C-301
+Workshop On Natural Language Processing In The Biomedical Domain,2002,C-302
+Workshop:  Conference On Question Answering In Restricted Domains,2004,C-303
+Workshop On Building And Using Parallel Texts: Data Driven Machine Translation And Beyond,2003,C-304
+Workshop On Linguistic Distances,2006,C-305
+Workshop On The Lexicon And Figurative Language,2003,C-306
+Workshop On Tree Adjoining Grammar And Related Formalisms,2006,C-307
+Workshop On Word Senses And Multi-Linguality,2000,C-308
+CompuTerm International Workshop On Computational Terminology,2002,C-309
+CompuTerm International Workshop On Computational Terminology,2004,C-310
+CompuTerm International Workshop On Computational Terminology,2014,C-311
+Workshop On The Balancing Act: Combining Symbolic And Statistical Approaches To Language,1994,C-312
+Proceedings of the Fourth SIGHAN Workshop on Chinese Language Processing,2005,C-313
+Workshop On Computational Approaches To Arabic Script-Based Languages,2004,C-314
+Proceedings of the NAACL HLT 2010 Student Research Workshop,2010,C-315
+Workshop on Speech and Language Processing for Assistive Technologies,2010,C-316
+Workshop on Speech and Language Processing for Assistive Technologies,2011,C-317
+Workshop on Speech and Language Processing for Assistive Technologies,2012,C-318
+Workshop on Speech and Language Processing for Assistive Technologies,2014,C-319
+Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages,2008,C-320
+Workshop On Usage Of WordNet In Natural Language Processing Systems,1998,C-321
+Proceedings of the First workshop on Unsupervised Learning in NLP,2011,C-322
+Proceedings of the Second Workshop on NLP Challenges in the Information Explosion Era (NLPIX 2010),2010,C-323
+Workshop On RObust Methods In Analysis Of Natural Language Data ROMAND,2004,C-324
+Workshop On Recent Advances In Dependency Grammar,2004,C-325
+Workshop On Multilingual Question Answering MLQA,2006,C-326
+Workshop:  Conference On Reference Resolution And Its Applications,2004,C-327
+Workshop On Text Meaning,2003,C-328
+Workshop On Word Sense Disambiguation: Recent Successes And Future Directions,2002,C-329
+Workshop On Unsupervised Lexical Acquisition,2002,C-330
+Workshop On Automatic Alignment And Extraction Of Bilingual Domain Ontology For Medical Domain Web Search,2004,C-331
+Workshop On Intrinsic And Extrinsic Evaluation Measures For Machine Translation And/or Summarization,2005,C-332
+Workshop On Human Language Technology And Knowledge Management,2001,C-333
+Workshop On Finite State Methods In Natural Language Processing,2012,C-334
+Workshop On Finite State Methods In Natural Language Processing,1998,C-335
+Workshop On Coreference And Its Applications,1999,C-336
+Proceedings of the 2009 Workshop on Language Generation and Summarisation (UCNLG+Sum 2009),2009,C-337
+Workshop:  Biological translational and clinical language processing,2007,C-338
+Workshop On Asian Language Resources And International Standardization,2002,C-339
+Workshop On Speech-To-Speech Translation: Algorithms And Systems,2002,C-340
+Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing,2008,C-341
+Workshop On Content Visualization And Intermedia Representations,1998,C-342
+Workshop on Embodied Language Processing,2007,C-343
+Proceedings of the NAACL HLT Workshop on Extracting and Using Constructions in Computational Linguistics,2010,C-344
+Coling 2008: Proceedings of the 2nd workshop on Information Retrieval for Question Answering,2008,C-345
+Workshop On Incremental Parsing: Bringing Engineering And Cognition Together,2004,C-346
+Workshop On Reading Comprehension Tests As Evaluation For Computer-Based Language Understanding Systems,2000,C-347
+Proceedings of the 2009 Workshop on Grammar Engineering Across Frameworks (GEAF 2009),2009,C-348
+Proceedings of the Workshop on Software Engineering Testing and Quality Assurance for Natural Language Processing (SETQA-NLP 2009),2009,C-349
+SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text,2004,C-350
+Workshop On NLP And XML NLPXML Multi-Dimensional Markup,2006,C-351
+Workshop On From Research To Commercial Applications: Making NLP Work In Practice,1997,C-352
+Linguistic Annotation Workshop,2007,C-353
+Linguistic Annotation Workshop,2009,C-354
+Linguistic Annotation Workshop,2010,C-355
+Linguistic Annotation Workshop,2011,C-356
+Linguistic Annotation Workshop,2013,C-357
+Linguistic Annotation Workshop,2014,C-358
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2006,C-359
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2007,C-360
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2008,C-361
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2009,C-362
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2010,C-363
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2011,C-364
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2012,C-365
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2013,C-366
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing,2014,C-367
+Proceedings of the Fifth Workshop on Asian Language Resources (ALR-05) and First Symposium on Asian Language Resources Network (ALRN),2005,C-368
+Workshop On Psycho-Computational Models Of Human Language Acquisition,2004,C-369
+Workshop On Learning Word Meaning From Non-Linguistic Data,2003,C-370
+Proceedings of the Student Research Workshop at EACL 2009,2009,C-371
+Workshop On Reversible Grammar In Natural Language Processing,1991,C-372
+Proceedings of the BioNLP 2009 Workshop Companion Volume for Shared Task,2009,C-373
+Workshop On Paraphrasing,2003,C-374
+Workshop On Unsupervised Learning In Natural Language Processing,1999,C-375
+Workshop On Concept To Speech Generation Systems,1997,C-376
+Workshop On Morphological And Phonological Learning,2002,C-377
+Workshop On Breadth And Depth Of Semantic Lexicons,1996,C-378
+SIGLEX Workshop On Standardizing Lexical Resources,1999,C-379
+Proceedings of the Sixth SIGHAN Workshop on Chinese Language Processing,2008,C-380
+Workshop On NLP And XML NLPXML,2002,C-381
+Workshop On Operational Factors In Practical Robust Anaphora Resolution For Unrestricted Texts,1997,C-382
+Workshop On Comparing Corpora,2000,C-383
+Workshop On Towards Standards And Tools For Discourse Tagging,1999,C-384
+Workshop:  BioNLP Workshop On Linking Natural Language And Biology,2006,C-385
+Workshop On Making Sense Of Sense: Bringing Psycholinguistics And Computational Linguistics Together,2006,C-386
+Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon&rsquo;s Mechanical Turk,2010,C-387
+Proceedings of the Workshop on Unsupervised and Minimally Supervised Learning of Lexical Semantics,2009,C-388
+Proceedings of the Workshop on Language in Social Media (LSM 2011),2011,C-389
+Proceedings of the Workshop on Language in Social Media (LSM 2011),2012,C-390
+Workshop On New Text Wikis And Blogs And Other Dynamic Text Sources,2006,C-391
+Proceedings of the 2009 Workshop on Text and Citation Analysis for Scholarly Digital Libraries (NLPIR4DL),2009,C-392
+Proceedings of the NAACL HLT 2009 Workshop on Active Learning for Natural Language Processing,2009,C-393
+Workshop On Medical Speech Translation,2006,C-394
+Workshop On Strategic Computing - Natural Language,1986,C-395
+Proceedings of the NAACL HLT 2010 Second Workshop on Computational Approaches to Linguistic Creativity,2010,C-396
+Workshop On Tagging Text With Lexical Semantics: Why What And How?,1997,C-397
+Proceedings of the Workshop on Negation and Speculation in Natural Language Processing,2010,C-398
+Proceedings of the Workshop on Automatic Summarization for Different Genres Media and Languages,2011,C-399
+Workshop On Computational Environments For Grammar Development And Linguistic Engineering,1997,C-400
+Workshop on Cognitive Modeling and Computational Linguistics,2010,C-401
+Workshop on Cognitive Modeling and Computational Linguistics,2011,C-402
+Workshop on Cognitive Modeling and Computational Linguistics,2012,C-403
+Workshop on Cognitive Modeling and Computational Linguistics,2013,C-404
+Workshop on Cognitive Modeling and Computational Linguistics,2014,C-405
+Workshop On Information Retrieval With Asian Languages,2003,C-406
+Workshop On How Can Computational Linguistics Improve Information Retrieval?,2006,C-407
+Workshop On Automatic Summarization,2000,C-408
+Workshop On Automatic Summarization,2002,C-409
+Proceedings of BioNLP Shared Task 2011 Workshop,2011,C-410
+Workshop On Text Summarization Branches Out,2004,C-411
+Workshop On Enhancing And Using Electronic Dictionaries,2004,C-412
+Proceedings of SRSL 2009 the 2nd Workshop on Semantic Representation of Spoken Language,2009,C-413
+Workshop On Spoken Language Translation,1997,C-414
+Workshop On Empirical Modeling Of Semantic Equivalence And Entailment,2005,C-415
+Workshop On Adaptive Text Extraction And Mining ATEM,2006,C-416
+Proceedings of the Sixth International Workshop on Linguistically Interpreted Corpora (LINC-2005),2005,C-417
+Workshop on Computational Approaches to Semitic Languages: Common Issues and Resources,2007,C-418
+Proceedings of the ACL 2011 Workshop on Relational Models of Semantics,2011,C-419
+Workshop On Scalable Natural Language Understanding (ScaNaLU),2004,C-420
+Proceedings of the 2nd workshop on Cross Lingual Information Access (CLIA) Addressing the Information Need of Multilingual Societies,2008,C-421
+SIGPHON Workshop On The Computation Of Phonological Constraints,1998,C-422
+Proceedings of the UCNLG+Eval: Language Generation and Evaluation Workshop,2011,C-423
+Coling 2008: Proceedings of the workshop on Human Judgements in Computational Linguistics,2008,C-424
+Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language Processing,2010,C-425
+ACL-IJCNLP: Student Research Workshop papers,2009,C-426
+Workshop On Discourse Annotation,2004,C-427
+Workshop On Data-Driven Methods In Machine Translation,2001,C-428
+Workshop On Machine Translation In Asia,2002,C-429
+Workshop On Intentionality And Structure In Discource Relations,1993,C-430
+SIGSEM Workshop On Prepositions,2006,C-431
+Proceedings of the Third International Workshop on Paraphrasing (IWP2005),2005,C-432
+Proceedings of the IJCNLP-08 Workshop on Named Entity Recognition for South and South East Asian Languages,2008,C-433
+Workshop on Computational Approaches to Figurative Language,2007,C-434
+Proceedings of the EACL 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference,2009,C-435
+Workshop On Analyzing Conversations In Text And Speech,2006,C-436
+Proceedings of the Workshop on Parsing German,2008,C-437
+Workshop On Current Themes In Computational Phonology And Morphology,2004,C-438
+Workshop On SEMANET: Building And Using Semantic Networks,2002,C-439
+Coling 2008: Proceedings of the workshop Multi-source Multilingual Information Extraction and Summarization,2008,C-440
+Proceedings of the Workshop on Technologies and Corpora for Asia-Pacific Speech Translation (TCAST),2008,C-441
+Workshop On Computer Mediated Language Assessment And Evaluation In Natural Language Processing,1999,C-442
+Workshop on Cognitive Aspects of Computational Language Acquisition,2007,C-443
+Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing,2009,C-444
+Workshop On Computational Phonology,1994,C-445
+Workshop On Computational Phonology,1997,C-446
+Proceedings of the ACL 2010 Student Research Workshop,2010,C-447
+Proceedings of the NAACL HLT 2010 First Workshop on Computational Neurolinguistics,2010,C-448
+Workshop on Prepositions,2007,C-449
+Proceedings of the 6th Workshop on  Ontologies and Lexical Resources ,2010,C-450
+Workshop on Grammar-Based Approaches to Spoken Language Processing,2007,C-451
+Workshop On Applied Interlinguas: Practical Applications Of Interlingual Approaches To NLP,2000,C-452
+Workshop On Web As Corpus,2006,C-453
+Workshop On Web As Corpus,2014,C-454
+Proceedings of the 2010 Workshop on Companionable Dialogue Systems,2010,C-455
+Workshop on Deep Linguistic Processing,2007,C-456
+Proceedings of the ACL-08: HLT Workshop on Mobile Language Processing,2008,C-457
+Coling 2008: Proceedings of the workshop on Cross-Framework and Cross-Domain Parser Evaluation,2008,C-458
+Workshop On Pragmatics Of Question Answering,2004,C-459
+Proceedings of the 2003 EACL Workshop on Morphological Processing of Slavic Languages,2003,C-460
+Workshop On Grammar Engineering And Evaluation,2002,C-461
+Louhi,2010,C-462
+Louhi,2014,C-463
+Proceedings of the Workshop on Distributional Semantics and Compositionality,2011,C-464
+Workshop On Linguistic Annotation: Getting The Model Right,2003,C-465
+Proceedings of the TextInfer 2011 Workshop on Textual Entailment,2011,C-466
+Workshop On Analysis Of Geographic References,2003,C-467
+Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods metrics and resources reusable?,2003,C-468
+Proceedings of the Workshop on Geometrical Models of Natural Language Semantics,2009,C-469
+Workshop on Statistical Parsing of Morphologically-Rich Languages,2010,C-470
+Workshop on Statistical Parsing of Morphologically-Rich Languages,2013,C-471
+Workshop On Software Engineering And Architecture Of Language Technology Systems SEALTS,2003,C-472
+Workshop On Feature Engineering For Machine Learning In Natural Language Processing,2005,C-473
+Coling 2008: Proceedings of the workshop on Speech Processing for Safety Critical Translation and Pervasive Applications,2008,C-474
+Workshop On Multi-Word-Expressions In A Multilingual Context,2006,C-475
+Workshop On Syntactic And Semantic Complexity In Natural Language Processing Systems,2000,C-476
+Workshop On Text Summarization,2003,C-477
+Workshop On Multilingual Language Resources And Interoperability,2006,C-478
+Workshop On Text Meaning And Interpretation,2004,C-479
+Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media,2010,C-480
+Proceedings of the NAACL HLT 2010 Young Investigators Workshop on Computational Approaches to Languages of the Americas,2010,C-481
+Workshop On Spoken Language Understanding For Conversational Systems And Higher Level Linguistic Information For Speech Processing,2004,C-482
+Workshop On Building Educational Applications Using NLP,2005,C-483
+Workshop On Building Educational Applications Using NLP,2012,C-484
+Proceedings of the EACL 2009 Workshop on Computational Approaches to Semitic Languages,2009,C-485
+Workshop On Referring Phenomena In A Multimedia Context And Their Computational Treatment,1997,C-486
+Workshop On Evaluation Methodologies For Language And Dialogue Systems,2001,C-487
+Proceedings of the NAACL HLT 2010 Workshop on Semantic Search,2010,C-488
+Proceedings of the Workshop on Monolingual Text-To-Text Generation,2011,C-489
+Workshop On Cross-Language Knowledge Induction Workshop,2006,C-490
+Proceedings of the 2010 Workshop on NLP and Linguistics: Finding the Common Ground,2010,C-491
+Workshop On Multilingual And Mixed-Language Named Entity Recognition,2003,C-492
+Workshop On The Acquisition Of Lexical Knowledge From Text,1993,C-493
+Proceedings of the First Workshop on Algorithms and Resources for Modelling of Dialects and Language Varieties,2011,C-494
+Workshop On Annotating And Reasoning About Time And Events,2006,C-495
+Workshop On Frontiers In Corpus Annotation,2004,C-496
+Workshop On Linking Biological Literature Ontologies And Databases: Mining Biological Semantics,2005,C-497
+Proceedings of the First Workshop on Language Technologies for African Languages,2009,C-498
+HLT-NAACL Companion Volume: Student Research Workshop and Doctoral Consortium,2009,C-499
+Coling 2008: Proceedings of the workshop on Knowledge and Reasoning for Answering Questions,2008,C-500
+Proceedings of the NAACL HLT 2010 Workshop on Active Learning for Natural Language Processing,2010,C-501
+Workshop on Balto-Slavonic Natural Language Processing,2007,C-502
+Workshop on Balto-Slavonic Natural Language Processing,2013,C-503
+Workshop On Research Directions In Dialogue Processing,2003,C-504
+Workshop On The Relation Of Discourse/Dialogue Structure And Reference,1999,C-505
+Workshop On Multilingual Summarization And Question Answering,2002,C-506
+Workshop On Multilingual Summarization And Question Answering,2003,C-507
+Coling 2008: Proceedings of the workshop on Grammar Engineering Across Frameworks,2008,C-508
+Workshop On Partially Automated Techniques For Transcribing Naturally Occurring Continuous Speech,1998,C-509
+Workshop On Scalable Natural Language Understanding,2006,C-510
+Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing,2010,C-511
+Workshop On Task-Focused Summarization And Question Answering,2006,C-512
+SIGLEX Workshop On Deep Lexical Acquisition,2005,C-513
+Workshop On Computer And Internet Supported Education In Language And Speech Technology,1999,C-514
+Workshop On Building Educational Applications Using Natural Language Processing,2003,C-515
+WSSANLP,2010,C-516
+WSSANLP,2014,C-517
+Workshop On Interdisciplinary Approaches To Speech Indexing And Retrieval,2004,C-518
+Proceedings of the Third International Workshop on Cross Lingual Information Access: Addressing the Information Need of Multilingual Societies (CLIAWS3),2009,C-519
+Proceedings of the EACL 2009 Workshop on Cognitive Aspects of Computational Language Acquisition,2009,C-520
+Workshop On Frontiers In Corpus Annotations II: Pie In The Sky,2005,C-521
+Workshop On Learning Structured Information In Natural Language Applications,2006,C-522
+Workshop On Information Extraction Beyond The Document,2006,C-523
+Interactive Question Answering Workshop,2006,C-524
+Proceedings of the Workshop on Computational Approaches to Linguistic Creativity,2009,C-525
+Proceedings of the 2009 Workshop on Knowledge and Reasoning for Answering Questions (KRAQ 2009),2009,C-526
+Workshop On Open-Domain Question Answering,2001,C-527
+Workshop On Ontology Learning And Population: Bridging The Gap Between Text And Knowledge,2006,C-528
+Workshop On Natural Language Processing For Communication Aids,1997,C-529
+Workshop On Constraints And Language Processing,2006,C-530
+Proceedings of the 4th Workshop on Cross Lingual Information Access,2010,C-531
+Workshop On KRAQ Knowledge And Reasoning For Language Processing,2006,C-532
+Proceedings of the 2010 Workshop on GEometrical Models of Natural Language Semantics,2010,C-533
+Workshop On Sentiment And Subjectivity In Text,2006,C-534
+Workshop On ROMAND Robust Methods In Analysis Of Natural Language Data,2006,C-535
+Workshop On NLP And XML NLPXML RDF/RDFS And OWL In Language Technology,2004,C-536
+Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop,2010,C-537
+Proceedings of the Workshop on Integer Linear Programming for Natural Language Processing,2009,C-538
+2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora,2000,C-539
+2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora,1999,C-540
+Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology,2008,C-541
+Workshop on Detecting Structure in Scholarly Discourse,2012,C-542
+Workshop on Multilingual Modeling,2012,C-543
+Workshop on Extra-Propositional Aspects of Meaning in Computational Linguistics,2012,C-544
+Workshop on Speech and Multimodal Interaction in Assistive Environments,2012,C-545
+Joint Workshop on Statistical Parsing and Semantic Processing of Morphologically Rich Languages,2012,C-546
+Joint Workshop on Statistical Parsing and Semantic Processing of Morphologically Rich Languages,2014,C-547
+ACL-2012 Special Workshop on Rediscovering 50 Years of Discoveries,2012,C-548
+Workshop on Semantic Interpretation in an Actionable Context,2012,C-549
+Workshop: Will We Ever Really Replace the N-gram Model? On the Future of Language Modeling for HLT,2012,C-550
+Workshop on Evaluation Metrics and System Comparison for Automatic Summarization,2012,C-551
+Workshop on Computational Linguistics for Literature,2012,C-552
+Workshop on Computational Linguistics for Literature,2013,C-553
+Workshop on Computational Linguistics for Literature,2014,C-554
+Proceedings of the Twelfth Meeting of the Special Interest Group on Computational Morphology and Phonology,2012,C-555
+Workshop on Predicting and Improving Text Readability for target reader populations,2012,C-556
+Workshop on Predicting and Improving Text Readability for target reader populations,2013,C-557
+Workshop on Predicting and Improving Text Readability for target reader populations,2014,C-558
+Workshop on the Induction of Linguistic Structure,2012,C-559
+Workshop on Future directions and needs in the Spoken Dialog Community: Tools and Data (SDCTD 2012),2012,C-560
+"JEP-TALN-RECITAL 2012, Workshop ILADI 2012: Interactions LangagiA""res pour personnes AgA(c)es Dans les habitats Intelligents (ILADI 2012: Language Interaction for Elderly in Smart Homes)",2012,C-561
+"JEP-TALN-RECITAL 2012, Workshop TALAf 2012: Traitement Automatique des Langues Africaines (TALAf 2012: African Language Processing)",2012,C-562
+"JEP-TALN-RECITAL 2012, Workshop DEGELS 2012: DA(c)fi GEste Langue des Signes (DEGELS 2012: Gestures and Sign Language Challenge)",2012,C-563
+"JEP-TALN-RECITAL 2012, Workshop DEFT 2012: DAfi Fouille de Textes (DEFT 2012 Workshop: Text Mining Challenge)",2012,C-564
+Workshop on Computational Models of Language Acquisition and Loss,2012,C-565
+Workshop on Applications of Tree Automata Techniques in Natural Language Processing,2012,C-566
+Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP,2012,C-567
+Workshop on Semantic Analysis in Social Media,2012,C-568
+Workshop on Innovative Hybrid Approaches to the Processing of Textual Data,2012,C-569
+Workshop on Computational Approaches to Deception Detection,2012,C-570
+Joint Workshop of LINGVIS & UNCLH,2012,C-571
+Joint Workshop on Exploiting Synergies between Information Retrieval and Machine Translation (ESIRMT) and Hybrid Approaches to Machine Translation (HyTra),2012,C-572
+TACL,2013,C-573
+TACL,2014,C-574
+TACL,2015,C-575
+*SEM,2015,C-576
+*SEM,2013,C-577
+*SEM,2014,C-578
+BioNLP ,2013,C-579
+BioNLP ,2014,C-580
+BioNLP ,2009,C-581
+BioNLP ,2010,C-582
+BioNLP ,2011,C-583
+BioNLP ,2012,C-584
+ENLG,2009,C-585
+ENLG,2013,C-586
+BUCC,2009,C-587
+BUCC,2011,C-588
+BUCC,2013,C-589
+LaTeCH,2007,C-590
+LaTeCH,2009,C-591
+LaTeCH,2011,C-592
+LaTeCH,2012,C-593
+LaTeCH,2013,C-594
+LaTeCH,2014,C-595
+HyTra,2013,C-596
+HyTra,2014,C-597
+MoL,2013,C-598
+MultiLing,2013,C-599
+CVSC,2013,C-600
+CVSC,2014,C-601
+DiscoMT,2013,C-602
+BEA,2008,C-603
+BEA,2009,C-604
+BEA,2010,C-605
+BEA,2011,C-606
+BEA,2013,C-607
+BEA,2014,C-608
+SSST,2007,C-609
+SSST,2008,C-610
+SSST,2009,C-611
+SSST,2010,C-612
+SSST,2011,C-613
+SSST,2012,C-614
+SSST,2013,C-615
+SSST,2014,C-616
+metaphor in NLP,2013,C-617
+metaphor in NLP,2014,C-618
+MWE,2003,C-619
+MWE,2004,C-620
+MWE,2006,C-621
+MWE,2007,C-622
+MWE,2009,C-623
+MWE,2010,C-624
+MWE,2011,C-625
+MWE,2013,C-626
+MWE,2014,C-627
+LASM,2013,C-628
+LASM,2014,C-629
+"Events: Definition, Detection, Coreference, and Representation",2013,C-630
+"Events: Definition, Detection, Coreference, and Representation",2014,C-631
+WVL,2013,C-632
+NLP4ITA,2013,C-633
+WASSA,2011,C-634
+WASSA,2012,C-635
+WASSA,2013,C-636
+WASSA,2014,C-637
+Dialogue in Motion,2014,C-638
+HaCat,2014,C-639
+CogACLL,2014,C-640
+CAtoCL,2014,C-641
+TTNLS,2014,C-642
+Workshop on Argumentation Mining,2014,C-643
+ComputEL,2014,C-644
+SP,2014,C-645
+LTCSS,2014,C-646
+Joint Workshop on Social Dynamics and Personal Attributes in Social Media,2014,C-647
+SIGMORPHON and SIGFSM,2014,C-648
+Frame Semantics in NLP: A Workshop in Honor of Chuck Fillmore (1929-2014),2014,C-649
+"Workshop on Interactive Language Learning, Visualization, and Interfaces",2014,C-650
+Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality,2014,C-651
+AHA!-Workshop on Information Discovery in Text,2014,C-652
+CLTW,2014,C-653
+CogALex,2008,C-654
+CogALex,2010,C-655
+CogALex,2014,C-656
+INLG and SIGDIAL 2014 Joint Session,2014,C-657
+OIAF4HLT,2014,C-658
+VarDial,2014,C-659
+VL,2014,C-660
+ATS-MA,2014,C-661
+ComAComA,2014,C-662
+LG-LP,2014,C-663
+SocialNLP,2014,C-664
+SADAATL,2014,C-665
+SWAIE,2014,C-666
+ANLP,2014,C-667
+Workshop on Computational Approaches to Code Switching,2014,C-668
+Workshop on Analysis of Large Scale Social Interaction in MOOCs,2014,C-669
+LT4CloseLang,2014,C-670
