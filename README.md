@@ -1,4 +1,5 @@
 # natural-to-sql
+Check and rephrasing of questions required <br>
 Prakash -> 502 Entries <br>
 Rohit -> 640 Entries ( Some with GROUP BY and HAVING ) <br>
 Shaurya -> 320 Entries <br>
