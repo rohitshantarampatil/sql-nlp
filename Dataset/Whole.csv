@@ -1,0 +1,75 @@
+Question [Natural],SQL
+List all the papers,SELECT PaperID FROM PaperID_AuthID
+List all the authors,SELECT DISTINCT AuthID FROM PaperID_AuthID
+List all the papers which are written by author of authorID $AuthID$.,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = '$AuthID$'
+What are the papers written by $AuthID$?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = '$AuthID$'
+How many papers are written by $AuthID$?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = '$AuthID$'
+List all the authors who contributed to paper $PaperID$,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= '$PaperID$' 
+How many authors contributed to paper $PaperID$,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= '$PaperID$' 
+List all the authors for $PaperID$,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= '$PaperID$' 
+What is the number of Authors of $PaperID$,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= '$PaperID$' 
+List all the papers with FieldID $FieldID$,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = '$FieldID$' 
+What are the papers associated with FieldID $FieldID$ ?,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = '$FieldID$' 
+Count all the papers associated with FieldID $FieldID$.,SELECT COUNT(PaperID) FROM PaperID_FieldID WHERE FieldID = '$FieldID$' 
+List all the Field IDs.,"SELECT DISTINCT FieldID FROM PaperID_FieldID """
+List all the Field IDs associated with paperID $PaperID$.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = '$PaperID$'
+What are the Fields associated with paperID $PaperID$?,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = '$PaperID$'
+Count the numberFields associated with paperID $PaperID$,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = '$PaperID$'
+List all the summaries of all the papers ,SELECT Summary from PaperID_Summary 
+what is the summary of paper with paperID $PaperID$ ?,SELECT Summary from PaperID_Summary WHERE PaperID = '$PaperID$' 
+Print summary of paper $PaperID$,SELECT Summary from PaperID_Summary WHERE PaperID = '$PaperID$' 
+List titles of all the papers,SELECT Title FROM PaperID_Title 
+List titles of all the papers with corresponding paperID,"SELECT PaperID,Title FROM PaperID_Title "
+What is title of the paper with PaperID $PaperID$?,SELECT Title FROM PaperID_Title WHERE PaperID = '$PaperID$'
+What is Paper ID of the paper with title $Title$?,SELECT PaperID FROM PaperID_Title WHERE Title = '$Title $'
+List all the Paper IDs of the paper with title starting with $Title$^?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE '$Title$^%'
+List all the affliates located in $Place$,SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%$Place$%'
+How many affliates are located in $Place$,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%$Place$%
+List all the affliates that contain $Affiliate$-,"SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%$Affiliate$-%'"
+Count all the affliates that contain $Affiliate$-,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%$Affiliate$-%'
+What is the name of affiliate with $AffiliationID$ and where it is located,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == '$AffiliationID$'"
+Where is affiliate $Affiliate$ loacted?,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE '$Affiliate$
+List all authids with $AffiliationID$,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == '$AffiliationID$'
+Count all authids with $AffiliationID$,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == '$AffiliationID$'
+List the number of authors affiliated with each affiliate which have more than $X$ authors.,"SELECT Count(*),AffiliationID FROM AuthID_AffiliationID GROUP BY AffiliationID HAVING Count(*) > $X$ ORDER BY Count(*) DESC"
+List the number of authors affiliated with each affiliate.,"SELECT Count(*),AffiliationID FROM AuthID_AffiliationID GROUP BY AffiliationID ORDER BY Count(*)"
+Give the affiliationid of $AuthID$  ,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == '$AuthID$'"
+Give list of authorids in field with $FieldID$,SELECT AuthID FROM AuthID_FieldID WHERE FieldID == '$FieldID$'
+Give number of authorids in field with $FieldID$,SELECT Count(AuthID) FROM AuthID_FieldID WHERE FieldID == '$FieldID$'
+List fields with the number of authors who work in it in ascending order.,"SELECT FieldID, Count(AuthID) FROM AuthID_FieldID GROUP BY FieldID ORDER BY Count(AuthID) ASC"
+List fields having greater than $Z$ authors in ascending order.,"SELECT FieldID, Count(AuthID) FROM AuthID_FieldID GROUP BY FieldID HAVING Count(AuthID) > $Z$ ORDER BY Count(AuthID) ASC "
+List authorids which work in more than $W$ fields in ascending order.,"SELECT Count(FieldID), AuthID FROM AuthID_FieldID GROUP BY AuthID HAVING Count(FieldID)>$W$ ORDER BY Count(FieldID) ASC"
+What is the Name of the Author with ID $AuthID$ ?,SELECT Name FROM AuthID_Name WHERE AuthID='$AuthID$';
+Name the author whose ID is $AuthID$,SELECT Name FROM AuthID_Name WHERE AuthID='$AuthID$';
+What is the ID of the Author whose name is $Name$ ?,SELECT AuthID FROM AuthID_Name WHERE Name='$Name$';
+List the Authors whose name begin with $Name$^ ?,SELECT AuthID FROM AuthID_Name WHERE Name='$Name$^';
+What are the IDs of the Authors whose name begin with $Name$^ ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE '$Name$^%';
+How many author have name which begins with $Name$^ ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '$Name$^%';
+How many author have name which contains with $Name$^ ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%$Name$&%';
+How many number of papers have been published in the conference $ConfID$?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='$ConfID$' ;
+List all the Conference ID with more than $X$ Papers,"SELECT COUNT(*),ConfID FROM ConfID_PaperID GROUP BY ConfID HAVING COUNT(*)>$X$;"
+What is the Conference ID of the conference in which paper of the id $PaperID$ was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='$PaperID$';
+List the paper ID of the all the paper which in the conference with ID $ConfID$,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='$ConfID';
+How many number of papers have been published with the ID that starts with $PaperID$^?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE '$PaperID$^%' ;
+How many number of conference have been conducted in the field $FieldID$?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='$FieldID$' ;
+List all the conference which has beeen conducted in the field with ID $FieldID$,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='$FieldID$' ;
+List all the Field ID with more than $Y$ conferences,"SELECT COUNT(*),FieldID FROM ConfID_FieldID GROUP BY FieldID HAVING COUNT(*)>$Y$;"
+What is the Field ID in which the conference with ID $ConfID$ is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='$ConfID$' ;
+How many number of conference have ID that starts with $ConfID$^?,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE '$ConfID$^%' ;
+List all the venues where the papers are presented,SELECT DISTINCT Venue FROM ConfID_Venue_Year;
+How many total conferences have been held at $Venue$?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=$Venue$;
+How many total conferences are held in the year $Year$?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=$Year$;
+What is the venue for the conference with the ID $ConfID$?,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=$ConfID$;
+How many conferences held before $Year$?,SELECT COUNT(*) ConfID_Venue_Year WHERE Year<$Year$;
+How many conferences held after $Year$?,SELECT COUNT(*) ConfID_Venue_Year WHERE Year>$Year$;
+Which conference was held at $Venue$ and in $Year$?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=$Venue$ AND Year=$Year$;
+List the years in the order of the years with highest to lowest conferences.,"SELECT Year,COUNT(ConfID) FROM ConfID_Venue_Year GROUP BY Year ORDER BY COUNT(ConfID) DESC;"
+List all the field IDs.,SELECT FieldID FROM FieldID_Topic;
+List all the topics.,SELECT Topic FROM FieldID_Topic;
+What is the field ID for the topic $Topic$?,SELECT FieldID FROM FieldID_Topic WHERE Topic=$Topic$;
+Name the topic corresponding to the Field ID $FieldID$.,SELECT Topic FROM FieldID_Topic WHERE FieldID=$FieldID$;
+How many topics are there?,SELECT DISTINCT COUNT(Topic) FROM FieldID_Topic;
+How many total papers are published?,SELECT DISTINCT COUNT(PaperID) FROM KeywordID_PaperID;
+How many unique keyword IDs are present?,SELECT COUNT(DISTINCT KeywordID) FROM KeywordID_PaperID;
+Which papers have the keyword ID as $KeywordID$?,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=$KeywordID$;
+List the keyword IDs with count from highest to lowest.,"SELECT KeywordID,COUNT(KeywordID) FROM KeywordID_PaperID GROUP BY KeywordID ORDER BY COUNT(KeywordID) DESC;"
