@@ -1,0 +1,336 @@
+0,1,2
+443,what is the summary of paper with paperID W06-3121 ?,SELECT Summary from PaperID_Summary WHERE PaperID = 'W06-3121' 
+575,What is Paper ID of the paper with title Learning Transliteration Lexicons From The Web?,SELECT PaperID FROM PaperID_Title WHERE Title = 'Learning Transliteration Lexicons From The Web'
+572,What is Paper ID of the paper with title Improved Iterative Correction for Distant Spelling Errors?,SELECT PaperID FROM PaperID_Title WHERE Title = 'Improved Iterative Correction for Distant Spelling Errors'
+539,What is title of the paper with PaperID C80-1039?,SELECT Title FROM PaperID_Title WHERE PaperID = 'C80-1039'
+1698,Which conference was held at ATS-MA and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=ATS-MA AND Year=Year;
+136,How many papers are written by A-12341?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-12341'
+1326,List the paper ID of the all the paper which in the conference with ID C-68,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-68
+71,What are the papers written by A-7511?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-7511'
+347,List all the Field IDs associated with paperID E91-1043.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'E91-1043'
+290,What is the number of Authors of C10-1082,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'C10-1082' 
+1625,How many conferences held before 2016?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<2016;
+553,What is title of the paper with PaperID W11-1411?,SELECT Title FROM PaperID_Title WHERE PaperID = 'W11-1411'
+804,Where is affiliate Vivisimo loacted?,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'Vivisimo
+211,How many authors contributed to paper W97-0314,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W97-0314' 
+918,Give the affiliationid of A-15061  ,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-15061'"
+1201,How many author have name which contains with Mc ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Mc%';
+1310,What is the Conference ID of the conference in which paper of the id W09-1214 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W09-1214';
+186,How many authors contributed to paper W03-2809,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W03-2809' 
+49,What are the papers written by A-17743?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17743'
+1542,How many total conferences have been held at Workshop On Information Extraction Beyond The Document?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Workshop On Information Extraction Beyond The Document;
+571,What is Paper ID of the paper with title Learning Linear Precedence Rules?,SELECT PaperID FROM PaperID_Title WHERE Title = 'Learning Linear Precedence Rules'
+1248,How many number of papers have been published in the conference C-628?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-628' ;
+996,What is the Name of the Author with ID A-2651 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-2651';
+1323,List the paper ID of the all the paper which in the conference with ID C-576,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-576
+169,List all the authors who contributed to paper W00-1402,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W00-1402' 
+1724,Which papers have the keyword ID as K-2178?,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-2178;
+100,How many papers are written by A-11557?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-11557'
+241,List all the authors for P82-1005,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P82-1005' 
+1049,Name the author whose ID is A-16141,SELECT Name FROM AuthID_Name WHERE AuthID='A-16141';
+1610,What is the venue for the conference with the ID C-239?,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-239;
+204,How many authors contributed to paper W08-0311,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W08-0311' 
+1263,How many number of papers have been published in the conference C-597?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-597' ;
+1515,How many total conferences have been held at Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing;
+1379,How many number of papers have been published with the ID that starts with D14-?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D14-%' ;
+682,How many affliates are located in Hanoi Vietnam,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Hanoi Vietnam%
+1296,What is the Conference ID of the conference in which paper of the id W06-3813 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W06-3813';
+276,What is the number of Authors of H05-1082,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'H05-1082' 
+1187,How many author have name which begins with Han ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Han%';
+23,List all the papers which are written by author of authorID A-17068.,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17068'
+1594,What is the venue for the conference with the ID C-453?,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-453;
+616,List all the Paper IDs of the paper with title starting with A Software Environment For Developing Nat?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'A Software Environment For Developing Nat%'
+1382,How many number of papers have been published with the ID that starts with A?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'A%' ;
+511,Print summary of paper N04-1022,SELECT Summary from PaperID_Summary WHERE PaperID = 'N04-1022' 
+336,List all the Field IDs associated with paperID W08-1123.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W08-1123'
+1362,List the paper ID of the all the paper which in the conference with ID C-180,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-180
+416,Count the numberFields associated with paperID C10-1116,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'C10-1116'
+1533,How many total conferences have been held at CAtoCL?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=CAtoCL;
+419,Count the numberFields associated with paperID D09-1129,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'D09-1129'
+1183,"How many author have name which begins with Schmauks, ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Schmauks,%';"
+1451,What is the Field ID in which the conference with ID C-119 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-119' ;
+934,Give the affiliationid of A-5372  ,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-5372'"
+458,what is the summary of paper with paperID D10-1062 ?,SELECT Summary from PaperID_Summary WHERE PaperID = 'D10-1062' 
+1202,How many author have name which contains with Lonn ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Lonn%';
+776,What is the name of affiliate with AF-1784 and where it is located,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1784'"
+321,List all the Field IDs associated with paperID C82-1025.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C82-1025'
+700,How many affliates are located in Grenoble France,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Grenoble France%
+65,What are the papers written by A-290?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-290'
+626,List all the Paper IDs of the paper with title starting with T?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'T%'
+29,List all the papers which are written by author of authorID A-9564.,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-9564'
+549,What is title of the paper with PaperID E09-2006?,SELECT Title FROM PaperID_Title WHERE PaperID = 'E09-2006'
+1195,"How many author have name which begins with Vauzeilles, Jacqueli ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Vauzeilles, Jacqueli%';"
+1631,How many conferences held before 2002?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<2002;
+1412,List all the conference which has beeen conducted in the field with ID F-1,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-1' ;
+1375,How many number of papers have been published with the ID that starts with W14?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W14%' ;
+1066,"What is the ID of the Author whose name is Harris, Larry R ?","SELECT AuthID FROM AuthID_Name WHERE Name='Harris, Larry R';"
+30,List all the papers which are written by author of authorID A-11004.,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-11004'
+1225,How many author have name which contains with Nag ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Nag%';
+1090,List the Authors whose name begin with Centelles ?,SELECT AuthID FROM AuthID_Name WHERE Name='Centelles';
+791,What is the name of affiliate with AF-507 and where it is located,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-507'"
+1165,How many author have name which begins with My ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'My%';
+431,Count the numberFields associated with paperID N10-1146,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'N10-1146'
+1560,How many total conferences are held in the year 1997?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=1997;
+531,What is title of the paper with PaperID H89-2046?,SELECT Title FROM PaperID_Title WHERE PaperID = 'H89-2046'
+337,List all the Field IDs associated with paperID L08-1052.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'L08-1052'
+349,List all the Field IDs associated with paperID W04-2117.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W04-2117'
+601,What is Paper ID of the paper with title Learning IE Rules For A Set Of Related Concepts?,SELECT PaperID FROM PaperID_Title WHERE Title = 'Learning IE Rules For A Set Of Related Concepts'
+1678,Which conference was held at Proceedings of the Workshop on Parsing German and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the Workshop on Parsing German AND Year=Year;
+418,Count the numberFields associated with paperID P04-2004,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P04-2004'
+1258,How many number of papers have been published in the conference C-487?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-487' ;
+1267,How many number of papers have been published in the conference C-498?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-498' ;
+519,Print summary of paper D14-1121,SELECT Summary from PaperID_Summary WHERE PaperID = 'D14-1121' 
+116,How many papers are written by A-3650?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-3650'
+1200,"How many author have name which contains with Roseacuten, Vict ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Roseacuten, Vict%';"
+1117,List the Authors whose name begin with So ?,SELECT AuthID FROM AuthID_Name WHERE Name='So';
+825,Where is affiliate University of Neuchatel loacted?,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'University of Neuchatel
+1320,What is the Conference ID of the conference in which paper of the id W14-3108 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W14-3108';
+32,List all the papers which are written by author of authorID A-16211.,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-16211'
+1046,Name the author whose ID is A-655,SELECT Name FROM AuthID_Name WHERE AuthID='A-655';
+1370,How many number of papers have been published with the ID that starts with W9?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W9%' ;
+1551,How many total conferences are held in the year 1969?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=1969;
+1357,List the paper ID of the all the paper which in the conference with ID C-493,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-493
+580,What is Paper ID of the paper with title An Unsupervised Learning Method For Associative Relationships Between Verb Phrases?,SELECT PaperID FROM PaperID_Title WHERE Title = 'An Unsupervised Learning Method For Associative Relationships Between Verb Phrases'
+1733,Which papers have the keyword ID as K-984?,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-984;
+371,What are the Fields associated with paperID C82-1064?,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C82-1064'
+1744,Which papers have the keyword ID as K-4171?,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-4171;
+252,List all the authors for N09-1035,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-1035' 
+245,List all the authors for N09-2018,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-2018' 
+1111,"List the Authors whose name begin with Izumida, ?","SELECT AuthID FROM AuthID_Name WHERE Name='Izumida,';"
+1463,How many number of conference have ID that starts with C-?,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-%' ;
+801,Where is affiliate University of Tsukuba loacted?,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'University of Tsukuba
+876,Count all authids with AF-258,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-258'
+1391,How many number of papers have been published with the ID that starts with D14-1?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D14-1%' ;
+1297,What is the Conference ID of the conference in which paper of the id D09-1048 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='D09-1048';
+59,What are the papers written by A-15162?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-15162'
+631,List all the Paper IDs of the paper with title starting with Sublanguag?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Sublanguag%'
+70,What are the papers written by A-5769?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-5769'
+221,List all the authors for P12-3007,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P12-3007' 
+1337,List the paper ID of the all the paper which in the conference with ID C-392,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-392
+946,Give list of authorids in field with F-1,SELECT AuthID FROM AuthID_FieldID WHERE FieldID == 'F-1'
+612,List all the Paper IDs of the paper with title starting with Multi-Relational Latent Semantic ?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Multi-Relational Latent Semantic %'
+1717,Name the topic corresponding to the Field ID F-2.,SELECT Topic FROM FieldID_Topic WHERE FieldID=F-2;
+1371,How many number of papers have been published with the ID that starts with H05-1?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'H05-1%' ;
+796,What is the name of affiliate with AF-76 and where it is located,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-76'"
+1240,How many number of papers have been published in the conference C-66?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-66' ;
+1243,How many number of papers have been published in the conference C-442?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-442' ;
+476,what is the summary of paper with paperID P07-1071 ?,SELECT Summary from PaperID_Summary WHERE PaperID = 'P07-1071' 
+1078,"What is the ID of the Author whose name is Herviou, Marie Luce ?","SELECT AuthID FROM AuthID_Name WHERE Name='Herviou, Marie Luce';"
+1307,What is the Conference ID of the conference in which paper of the id P14-1066 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P14-1066';
+1133,What are the IDs of the Authors whose name begin with Ka ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Ka%';
+724,List all the affliates that contain Open,"SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Open%'"
+79,What are the papers written by A-12511?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-12511'
+1156,What are the IDs of the Authors whose name begin with Ish ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Ish%';
+455,what is the summary of paper with paperID W97-0310 ?,SELECT Summary from PaperID_Summary WHERE PaperID = 'W97-0310' 
+826,Where is affiliate GE Aerospace loacted?,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'GE Aerospace
+1215,"How many author have name which contains with Kovaleva, A ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Kovaleva, A%';"
+1695,Which conference was held at Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop AND Year=Year;
+1634,How many conferences held before 2013?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<2013;
+1700,Which conference was held at Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology AND Year=Year;
+959,List fields having greater than 1961 authors in ascending order.,"SELECT FieldID, Count(AuthID) FROM AuthID_FieldID GROUP BY FieldID HAVING Count(AuthID) > 1961 ORDER BY Count(AuthID) ASC "
+642,List all the Paper IDs of the paper with title starting with Crawling microblogging services to gather language-classified URLs?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Crawling microblogging services to gather language-classified URLs%'
+467,what is the summary of paper with paperID W14-4316 ?,SELECT Summary from PaperID_Summary WHERE PaperID = 'W14-4316' 
+1012,Name the author whose ID is A-16125,SELECT Name FROM AuthID_Name WHERE AuthID='A-16125';
+174,List all the authors who contributed to paper W11-1215,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W11-1215' 
+1249,How many number of papers have been published in the conference C-49?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-49' ;
+299,List all the papers with FieldID F-13,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-13' 
+425,Count the numberFields associated with paperID W01-1016,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W01-1016'
+839,List all authids with AF-604,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-604'
+764,Count all the affliates that contain Uiduk,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Uiduk%'
+125,How many papers are written by A-1591?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-1591'
+540,What is title of the paper with PaperID C82-1039?,SELECT Title FROM PaperID_Title WHERE PaperID = 'C82-1039'
+260,What is the number of Authors of P14-2009,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P14-2009' 
+655,List all the affliates located in The Syriac Institute,SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%The Syriac Institute%'
+1745,Which papers have the keyword ID as K-5430?,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-5430;
+421,Count the numberFields associated with paperID P80-1040,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P80-1040'
+1186,How many author have name which begins with Wan ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Wan%';
+189,How many authors contributed to paper T87-1016,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'T87-1016' 
+974,What is the Name of the Author with ID A-301 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-301';
+1681,Which conference was held at Workshop On Coreference And Its Applications and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Coreference And Its Applications AND Year=Year;
+1011,Name the author whose ID is A-14892,SELECT Name FROM AuthID_Name WHERE AuthID='A-14892';
+498,Print summary of paper P03-2030,SELECT Summary from PaperID_Summary WHERE PaperID = 'P03-2030' 
+272,What is the number of Authors of W08-0707,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W08-0707' 
+163,List all the authors who contributed to paper W99-0201,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W99-0201' 
+1107,"List the Authors whose name begin with GarciaSerrano,  ?","SELECT AuthID FROM AuthID_Name WHERE Name='GarciaSerrano, ';"
+1257,How many number of papers have been published in the conference C-168?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-168' ;
+742,Count all the affliates that contain Technology,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Technology%'
+430,Count the numberFields associated with paperID W08-1307,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W08-1307'
+1523,How many total conferences have been held at Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing;
+1754,Which papers have the keyword ID as K-756?,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-756;
+848,List all authids with AF-673,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-673'
+74,What are the papers written by A-1845?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-1845'
+110,How many papers are written by A-6140?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-6140'
+271,What is the number of Authors of P98-1042,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P98-1042' 
+491,Print summary of paper W08-1136,SELECT Summary from PaperID_Summary WHERE PaperID = 'W08-1136' 
+355,List all the Field IDs associated with paperID J94-1003.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'J94-1003'
+238,List all the authors for C82-1035,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C82-1035' 
+898,Give the affiliationid of A-4452  ,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-4452'"
+972,What is the Name of the Author with ID A-14583 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-14583';
+1557,How many total conferences are held in the year 2003?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=2003;
+1692,Which conference was held at Proceedings of the ACL 2011 Workshop on Relational Models of Semantics and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the ACL 2011 Workshop on Relational Models of Semantics AND Year=Year;
+51,What are the papers written by A-866?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-866'
+1334,List the paper ID of the all the paper which in the conference with ID C-127,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-127
+77,What are the papers written by A-17379?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17379'
+213,How many authors contributed to paper P09-1058,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P09-1058' 
+1002,What is the Name of the Author with ID A-12398 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-12398';
+427,Count the numberFields associated with paperID P93-1023,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P93-1023'
+1415,List all the conference which has beeen conducted in the field with ID F-3,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-3' ;
+532,What is title of the paper with PaperID M92-1032?,SELECT Title FROM PaperID_Title WHERE PaperID = 'M92-1032'
+523,What is title of the paper with PaperID W98-0509?,SELECT Title FROM PaperID_Title WHERE PaperID = 'W98-0509'
+124,How many papers are written by A-13725?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-13725'
+248,List all the authors for W98-1402,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W98-1402' 
+306,What are the papers associated with FieldID F-7 ?,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-7' 
+1204,"How many author have name which contains with Keogh,  ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Keogh, %';"
+1673,Which conference was held at Workshop On Reversible Grammar In Natural Language Processing and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Reversible Grammar In Natural Language Processing AND Year=Year;
+1144,What are the IDs of the Authors whose name begin with Gli ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Gli%';
+399,Count the numberFields associated with paperID P84-1057,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P84-1057'
+908,Give the affiliationid of A-15047  ,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-15047'"
+344,List all the Field IDs associated with paperID W04-1402.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W04-1402'
+648,List all the Paper IDs of the paper with title starting with Exploiting Background Knowledge for Relation Extract?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Exploiting Background Knowledge for Relation Extract%'
+1317,What is the Conference ID of the conference in which paper of the id W12-1616 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W12-1616';
+1411,List all the conference which has beeen conducted in the field with ID F-13,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-13' ;
+1675,Which conference was held at Workshop On KRAQ Knowledge And Reasoning For Language Processing and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On KRAQ Knowledge And Reasoning For Language Processing AND Year=Year;
+874,Count all authids with AF-1897,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1897'
+356,List all the Field IDs associated with paperID P11-3021.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P11-3021'
+379,What are the Fields associated with paperID S14-2064?,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'S14-2064'
+68,What are the papers written by A-11734?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-11734'
+1268,How many number of papers have been published in the conference C-356?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-356' ;
+240,List all the authors for W03-1116,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W03-1116' 
+142,List all the authors who contributed to paper W12-2906,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W12-2906' 
+1275,How many number of papers have been published in the conference C-431?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-431' ;
+1211,"How many author have name which contains with Ono, Takah ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Ono, Takah%';"
+543,What is title of the paper with PaperID C94-2129?,SELECT Title FROM PaperID_Title WHERE PaperID = 'C94-2129'
+1029,Name the author whose ID is A-12848,SELECT Name FROM AuthID_Name WHERE AuthID='A-12848';
+581,What is Paper ID of the paper with title An Algorithm for Unsupervised Transliteration Mining with an Application to Word Alignment?,SELECT PaperID FROM PaperID_Title WHERE Title = 'An Algorithm for Unsupervised Transliteration Mining with an Application to Word Alignment'
+537,What is title of the paper with PaperID C90-2049?,SELECT Title FROM PaperID_Title WHERE PaperID = 'C90-2049'
+698,How many affliates are located in St. Andrews UK,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%St. Andrews UK%
+697,How many affliates are located in Hempstead NY,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Hempstead NY%
+403,Count the numberFields associated with paperID N15-2017,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'N15-2017'
+1669,Which conference was held at Workshop On Psychocomputational Models Of Human Language Acquisition and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Psychocomputational Models Of Human Language Acquisition AND Year=Year;
+853,List all authids with AF-922,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-922'
+1353,List the paper ID of the all the paper which in the conference with ID C-141,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-141
+684,How many affliates are located in Durham UK,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Durham UK%
+185,How many authors contributed to paper P06-2024,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P06-2024' 
+1155,What are the IDs of the Authors whose name begin with Marcel ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Marcel%';
+484,Print summary of paper C10-1045,SELECT Summary from PaperID_Summary WHERE PaperID = 'C10-1045' 
+1628,How many conferences held before 1965?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<1965;
+883,Count all authids with AF-698,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-698'
+1036,Name the author whose ID is A-10519,SELECT Name FROM AuthID_Name WHERE AuthID='A-10519';
+1469,How many number of conference have ID that starts with C-2?,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-2%' ;
+1097,"List the Authors whose name begin with Ben Gur, Ass ?","SELECT AuthID FROM AuthID_Name WHERE Name='Ben Gur, Ass';"
+1199,"How many author have name which contains with Sartorio, France ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Sartorio, France%';"
+1302,What is the Conference ID of the conference in which paper of the id P00-1043 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P00-1043';
+432,Count the numberFields associated with paperID W06-2714,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W06-2714'
+1708,What is the field ID for the topic Multilingual NLP?,SELECT FieldID FROM FieldID_Topic WHERE Topic=Multilingual NLP;
+778,What is the name of affiliate with AF-1227 and where it is located,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1227'"
+1606,What is the venue for the conference with the ID C-462?,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-462;
+625,List all the Paper IDs of the paper with title starting with Aligning More Words With High Precision Fo?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Aligning More Words With High Precision Fo%'
+329,List all the Field IDs associated with paperID P97-1019.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P97-1019'
+1017,Name the author whose ID is A-18013,SELECT Name FROM AuthID_Name WHERE AuthID='A-18013';
+800,Where is affiliate Naresuan University loacted?,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'Naresuan University
+958,List fields having greater than 1529 authors in ascending order.,"SELECT FieldID, Count(AuthID) FROM AuthID_FieldID GROUP BY FieldID HAVING Count(AuthID) > 1529 ORDER BY Count(AuthID) ASC "
+1116,"List the Authors whose name begin with Sinclair, Da ?","SELECT AuthID FROM AuthID_Name WHERE Name='Sinclair, Da';"
+1448,What is the Field ID in which the conference with ID C-438 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-438' ;
+444,what is the summary of paper with paperID C90-3086 ?,SELECT Summary from PaperID_Summary WHERE PaperID = 'C90-3086' 
+594,What is Paper ID of the paper with title Modeling Argument Strength in Student Essays?,SELECT PaperID FROM PaperID_Title WHERE Title = 'Modeling Argument Strength in Student Essays'
+1024,Name the author whose ID is A-11415,SELECT Name FROM AuthID_Name WHERE AuthID='A-11415';
+490,Print summary of paper P09-1107,SELECT Summary from PaperID_Summary WHERE PaperID = 'P09-1107' 
+1295,What is the Conference ID of the conference in which paper of the id W06-1644 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W06-1644';
+1157,"What are the IDs of the Authors whose name begin with Moncecchi, Gui ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Moncecchi, Gui%';"
+388,What are the Fields associated with paperID P03-1044?,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P03-1044'
+438,Count the numberFields associated with paperID W98-1217,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W98-1217'
+1514,How many total conferences have been held at Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media;
+719,List all the affliates that contain Systems,"SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Systems%'"
+595,What is Paper ID of the paper with title Beyond Projectivity: Multilingual Evaluation of Constraints and Measures on Non-Projective Structures?,SELECT PaperID FROM PaperID_Title WHERE Title = 'Beyond Projectivity: Multilingual Evaluation of Constraints and Measures on Non-Projective Structures'
+262,What is the number of Authors of D14-1178,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'D14-1178' 
+1106,"List the Authors whose name begin with Trandabat, Diana ?","SELECT AuthID FROM AuthID_Name WHERE Name='Trandabat, Diana';"
+587,What is Paper ID of the paper with title WYSIWYM - Building User Interfaces With Natural Language Feedback?,SELECT PaperID FROM PaperID_Title WHERE Title = 'WYSIWYM - Building User Interfaces With Natural Language Feedback'
+1601,What is the venue for the conference with the ID C-129?,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-129;
+171,List all the authors who contributed to paper N09-1013,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-1013' 
+1160,"What are the IDs of the Authors whose name begin with Glasgow, Ki ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Glasgow, Ki%';"
+298,List all the papers with FieldID F-2,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-2' 
+675,List all the affliates located in Southampton UK,SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Southampton UK%'
+44,List all the papers which are written by author of authorID A-18241.,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-18241'
+565,What is Paper ID of the paper with title Neural Network Based Bilingual Language Model Growing for Statistical Machine Translation?,SELECT PaperID FROM PaperID_Title WHERE Title = 'Neural Network Based Bilingual Language Model Growing for Statistical Machine Translation'
+926,Give the affiliationid of A-10091  ,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-10091'"
+1287,What is the Conference ID of the conference in which paper of the id N15-1108 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='N15-1108';
+1556,How many total conferences are held in the year 2007?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=2007;
+751,Count all the affliates that contain Laboratories,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Laboratories%'
+793,What is the name of affiliate with AF-1718 and where it is located,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1718'"
+940,Give list of authorids in field with F-5,SELECT AuthID FROM AuthID_FieldID WHERE FieldID == 'F-5'
+1444,What is the Field ID in which the conference with ID C-132 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-132' ;
+434,Count the numberFields associated with paperID S14-2105,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'S14-2105'
+1604,What is the venue for the conference with the ID C-408?,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-408;
+176,List all the authors who contributed to paper A00-2036,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'A00-2036' 
+707,How many affliates are located in Taejon Korea,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Taejon Korea%
+953,Give number of authorids in field with F-10,SELECT Count(AuthID) FROM AuthID_FieldID WHERE FieldID == 'F-10'
+589,What is Paper ID of the paper with title Ein Programm Zur Automatischen Synthese Englischer Satze?,SELECT PaperID FROM PaperID_Title WHERE Title = 'Ein Programm Zur Automatischen Synthese Englischer Satze'
+1013,Name the author whose ID is A-10416,SELECT Name FROM AuthID_Name WHERE AuthID='A-10416';
+1070,"What is the ID of the Author whose name is SegalhaLevi, Erel ?","SELECT AuthID FROM AuthID_Name WHERE Name='SegalhaLevi, Erel';"
+199,How many authors contributed to paper P13-1096,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P13-1096' 
+15,List all the papers which are written by author of authorID A-15154.,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-15154'
+1672,Which conference was held at Workshop On Conversational Systems and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Conversational Systems AND Year=Year;
+604,What is Paper ID of the paper with title A Graphical User Interface for Feature-Based Opinion Mining?,SELECT PaperID FROM PaperID_Title WHERE Title = 'A Graphical User Interface for Feature-Based Opinion Mining'
+806,Where is affiliate University of Umea loacted?,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'University of Umea
+1626,How many conferences held before 1973?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<1973;
+835,List all authids with AF-1123,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1123'
+357,List all the Field IDs associated with paperID C65-1006.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C65-1006'
+1537,How many total conferences have been held at Workshop On The Acquisition Of Lexical Knowledge From Text?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Workshop On The Acquisition Of Lexical Knowledge From Text;
+301,List all the papers with FieldID F-9,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-9' 
+200,How many authors contributed to paper P06-2028,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P06-2028' 
+636,List all the Paper IDs of the paper with title starting with How to Produce Unseen Teddy Bears: Improved Morphological Processing of Compounds in S?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'How to Produce Unseen Teddy Bears: Improved Morphological Processing of Compounds in S%'
+1075,"What is the ID of the Author whose name is Chinosi, Michele ?","SELECT AuthID FROM AuthID_Name WHERE Name='Chinosi, Michele';"
+410,Count the numberFields associated with paperID W10-1608,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W10-1608'
+1660,Which conference was held at Proceedings of the NAACL HLT 2010 Workshop on Semantic Search and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL HLT 2010 Workshop on Semantic Search AND Year=Year;
+674,List all the affliates located in Edwardsville IL,SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Edwardsville IL%'
+1182,How many author have name which begins with Van der  ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Van der %';
+1080,"What is the ID of the Author whose name is Wilson, Phil ?","SELECT AuthID FROM AuthID_Name WHERE Name='Wilson, Phil';"
+1282,What is the Conference ID of the conference in which paper of the id W13-3610 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W13-3610';
+56,What are the papers written by A-16009?,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-16009'
+711,How many affliates are located in Sakai Japan,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Sakai Japan%
+43,List all the papers which are written by author of authorID A-12887.,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-12887'
+101,How many papers are written by A-15582?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-15582'
+275,What is the number of Authors of C10-2171,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'C10-2171' 
+1190,How many author have name which begins with Rula ?,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Rula%';
+102,How many papers are written by A-11153?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-11153'
+1377,How many number of papers have been published with the ID that starts with D11-1?,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D11-1%' ;
+108,How many papers are written by A-10274?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-10274'
+1450,What is the Field ID in which the conference with ID C-358 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-358' ;
+495,Print summary of paper W03-1804,SELECT Summary from PaperID_Summary WHERE PaperID = 'W03-1804' 
+988,What is the Name of the Author with ID A-5063 ?,SELECT Name FROM AuthID_Name WHERE AuthID='A-5063';
+1545,How many total conferences have been held at Workshop on Statistical Machine Translation?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Workshop on Statistical Machine Translation;
+1126,What are the IDs of the Authors whose name begin with So ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'So%';
+376,What are the Fields associated with paperID P98-2233?,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P98-2233'
+1239,How many number of papers have been published in the conference C-161?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-161' ;
+880,Count all authids with AF-796,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-796'
+1020,Name the author whose ID is A-17016,SELECT Name FROM AuthID_Name WHERE AuthID='A-17016';
+129,How many papers are written by A-17086?,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-17086'
+372,What are the Fields associated with paperID E09-1034?,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'E09-1034'
+922,Give the affiliationid of A-9580  ,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-9580'"
+1136,What are the IDs of the Authors whose name begin with Che ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Che%';
+857,List all authids with AF-1267,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1267'
+387,What are the Fields associated with paperID D08-1043?,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'D08-1043'
+1694,Which conference was held at Workshop On Text Meaning And Interpretation and in Year?,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Text Meaning And Interpretation AND Year=Year;
+1404,How many number of conference have been conducted in the field F-2?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-2' ;
+1358,List the paper ID of the all the paper which in the conference with ID C-452,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-452
+535,What is title of the paper with PaperID W10-4236?,SELECT Title FROM PaperID_Title WHERE PaperID = 'W10-4236'
+469,what is the summary of paper with paperID W09-3926 ?,SELECT Summary from PaperID_Summary WHERE PaperID = 'W09-3926' 
+437,Count the numberFields associated with paperID X96-1021,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'X96-1021'
+1135,"What are the IDs of the Authors whose name begin with Lee, ?","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Lee,%';"
+618,List all the Paper IDs of the paper with title starting with Hierarchical Clustering Of Words And Application To NL?,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Hierarchical Clustering Of Words And Application To NL%'
+1129,What are the IDs of the Authors whose name begin with Tian ?,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Tian%';
+1621,How many conferences held before 2011?,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<2011;
+1227,"How many author have name which contains with Mouret, P ?","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Mouret, P%';"
+1409,How many number of conference have been conducted in the field F-5?,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-5' ;
+786,What is the name of affiliate with AF-776 and where it is located,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-776'"
+487,Print summary of paper P15-1035,SELECT Summary from PaperID_Summary WHERE PaperID = 'P15-1035' 
+358,List all the Field IDs associated with paperID P15-2017.,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P15-2017'
+1735,Which papers have the keyword ID as K-3287?,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-3287;
+227,List all the authors for C92-4195,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C92-4195' 
+232,List all the authors for C08-1127,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C08-1127' 
+734,List all the affliates that contain Institute,"SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Institute%'"
+1452,What is the Field ID in which the conference with ID C-466 is conducted?,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-466' ;
+1259,How many number of papers have been published in the conference C-547?,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-547' ;
+164,List all the authors who contributed to paper P04-3015,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P04-3015' 
+518,Print summary of paper P93-1034,SELECT Summary from PaperID_Summary WHERE PaperID = 'P93-1034' 
+1286,What is the Conference ID of the conference in which paper of the id P04-1026 was published?,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P04-1026';
