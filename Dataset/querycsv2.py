@@ -267,45 +267,20 @@ def qcsv_script(infilenames, outfilename, file_db, keep_db, scriptfile):
 def print_help():
 	print "querycsv %s %s -- Executes SQL on a delimited text file." % (_version, _vdate)
 	print __help_msg
+def convert(string):
+	dic=['AffiliationID_Place_Affiliation','AuthID_AffiliationID', 'AuthID_FieldID', 'AuthID_Name', 'FieldID_Topic']
+	for i in range(5):
+		string=string.replace("^"+str(i),dic[i])
+	return string
 
 if __name__=='__main__':
 	optlist, arglist = getopt.getopt(sys.argv[1:], "i:u:o:f:khs")
-	if len(arglist) == 0 or '-h' in [ o[0] for o in optlist ]:
-		print_help()
-		sys.exit(0)
-	sqlcmd = " ".join(arglist)
-	outfile = None
-	if '-o' in [ o[0] for o in optlist ]:
-		optvals = [ o[1] for o in optlist if o[0]=='-o' ]
-		if len(optvals) > 0:
-			outfile = optvals[0]
-	usefile = None
-	if '-u' in [ o[0] for o in optlist ]:
-		optvals = [ o[1] for o in optlist if o[0]=='-u' ]
-		if len(optvals) > 0:
-			usefile = optvals[0]
-	execscript = '-s' in [ o[0] for o in optlist ]
-	if usefile:
-		if execscript:
-			qsqlite_script( sqlcmd, usefile, outfile )
-			# 'sqlcmd' should actually be the script file name.
-		else:
-			qsqlite( sqlcmd, usefile, outfile )
-	else:
-		file_db = None
-		if '-f' in [ o[0] for o in optlist ]:
-			optvals = [ o[1] for o in optlist if o[0]=='-f' ]
-			if len(optvals) > 0:
-				file_db = optvals[0]
-		keep_db = '-k' in [ o[0] for o in optlist ]
-		csvfiles = []
-		if '-i' in [ o[0] for o in optlist ]:
-			csvfiles = [ o[1] for o in optlist if o[0]=='-i' ]
-		if len(csvfiles) > 0:
-			if execscript:
-				qcsv_script(csvfiles, outfile, file_db, keep_db, sqlcmd)
-			else:
-				qcsv(csvfiles, outfile, file_db, keep_db, sqlcmd)
-		else:
-			print_help()
-			sys.exit(1)
+	dic=['AffiliationID_Place_Affiliation','AuthID_AffiliationID', 'AuthID_FieldID', 'AuthID_Name', 'FieldID_Topic']
+	for i,j in enumerate(dic):
+		print(i,j)
+	csvfiles=['AffiliationID_Place_Affiliation.csv', 'AuthID_AffiliationID.csv', 'AuthID_FieldID.csv', 'AuthID_Name.csv', 'FieldID_Topic.csv']
+	sqlcmd_temp = raw_input("Enter SQL :")
+	sqlcmd = convert(sqlcmd_temp)
+	keep_db=False
+	qcsv(csvfiles, None, None, keep_db, sqlcmd)
+	print sqlcmd
