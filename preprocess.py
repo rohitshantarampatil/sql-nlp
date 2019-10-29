@@ -1,5 +1,10 @@
 import pandas as pd
 import numpy as np
+from bert_serving.client import BertClient
+
+columnNames=["AffiliationID","Place","Affiliation","AuthID","FieldID","Paper","Authors","Conference","Name","Affiliate"
+             "ConfID","PaperID","Venue","Year","Topic","KeywordID","Summary","Title"]
+columnNames.extend([i.lower() for i in columnNames])
 def makeRawDataset(s):
     data=pd.read_csv(s)
     sub="WHERE"
@@ -36,3 +41,29 @@ def makeRawDataset(s):
     # print(y)
     return y
 # print(makeRawDataset("NLP_Dataset.csv"))
+def removePunc(X):
+    stop_word=set(string.punctuation)
+    X_without=[]
+    for i in X:
+        temp=i.split()
+        X_without.append([j for j in temp if j not in stop_word])
+    return X_without
+def fuzzy(X_without):
+    X_correct=[]
+    for i in range(len(X_without)):
+        temp_s=[]
+        for j in range(len(X_without[i])):
+            if process.extractOne(X_without[i][j],columnNames)[1]<75 and '$' not in X_without[i][j]:
+                temp_s.append(X_without[i][j])
+        if(len(temp_s)):
+            temp_s=" ".join(i for i in temp_s)
+            if(temp_s[-1] in string.punctuation):
+                X_correct.append(temp_s[:-1])
+            else:
+                X_correct.append(temp_s)
+        else:
+            X_correct.append("None")
+    return X_correct
+def encode(X_correct):
+    bc = BertClient()
+    X_enc=bc.encode(list(X_correct))
