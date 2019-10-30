@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 from bert_serving.client import BertClient
+import string
+from fuzzywuzzy import process
 
 columnNames=["AffiliationID","Place","Affiliation","AuthID","FieldID","Paper","Authors","Conference","Name","Affiliate"
              "ConfID","PaperID","Venue","Year","Topic","KeywordID","Summary","Title"]
@@ -66,4 +68,8 @@ def fuzzy(X_without):
     return X_correct
 def encode(X_correct):
     bc = BertClient()
-    X_enc=bc.encode(list(X_correct))
+    if(type(X_correct)==type([])):
+        X_enc=bc.encode(X_correct)
+    else:
+        X_enc=bc.encode(list(X_correct))
+    return X_enc

@@ -1,15 +1,19 @@
+import os
+os.environ['KMP_DUPLICATE_LIB_OK']='True'
+
 import tensorflow as tf
 import pandas as pd
 import numpy as np
 from preprocess import makeRawDataset,removePunc,fuzzy,encode
-from fuzzywuzzy import process
 from sklearn.model_selection import train_test_split
 import nltk
 import string
 from nltk.corpus import stopwords
 from sklearn.ensemble import RandomForestClassifier
-from xgboost import XGBClassifier
+from xgboost import XGBClassifier,Booster,DMatrix
 from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import classification_report
+
 def train(file):
     y_data=makeRawDataset(file) #provides with raw data
     X=pd.read_csv(file).Question
@@ -21,7 +25,8 @@ def train(file):
     codes=encoder.fit_transform(labels)
     codeMap={labels[i]:codes[i] for i in range(len(labels))}
     inverseMap={codes[i]:labels[i] for i in range(len(labels))}
-    np.save("inverseMap.npy",inverseMap)
+    maps={"codeMap":codeMap,"inverseMap":inverseMap}
+    np.save("Map.npy",maps)
     y=[]
     for i in y_data:
         y.append(codeMap[i])
@@ -30,6 +35,7 @@ def train(file):
     model.fit(X_train,y_train)
     model.save_model("WhereCond.model")
     y_hat=model.predict(X_test)
+    print(y_hat[:10])
     y_pred=[]
     for i in y_hat:
         y_pred.append(inverseMap[i])
@@ -39,9 +45,12 @@ def train(file):
     sk_report = classification_report(digits=6,y_true=y_test,y_pred=y_hat)
     print(sk_report)
 def test(x,modelFile):
-    model=load_model(modelFile)
-    x_enc=encode(x)
-    y_enc=model.predict(x_enc)
-    inverseMap=np.load("inverseMap.npy").item()
-    y=inverseMap(y_enc)
-    print(y)
+    model = Booster() #init model
+    model.load_model(modelFile) # load data
+    maps=np.load("Map.npy",allow_pickle=True)
+    x_enc=encode([x])
+    y_enc=model.predict(DMatrix(x_enc))
+    y_pred=np.argmax(y_enc)
+    inverseMap=maps.item().get("inverseMap")
+    y_hat=inverseMap[y_pred]
+    print(y_hat)
