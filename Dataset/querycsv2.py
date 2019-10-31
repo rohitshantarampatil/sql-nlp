@@ -181,6 +181,7 @@ def qsqldb( sqldb, sql_cmd, outfilename=None  ):
 			csvout.writerow(list(row))
 		outfile.close()
 	else:
+		print "Hello"
 		print pp(curs)
 
 def qsqlite( sql_cmd, sqlfilename=None, outfilename=None ):

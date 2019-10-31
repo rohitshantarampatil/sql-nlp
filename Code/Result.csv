@@ -1,0 +1,336 @@
+,Sql,Comp
+438,SELECT Summary from PaperID_Summary WHERE PaperID = 'W06-3121' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'W06-3121' 
+570,SELECT PaperID FROM PaperID_Title WHERE Title = 'Machine Translation Systems And Computer Dictionaries In The Information Service: Ways Of Their Development And Operation',SELECT PaperID FROM PaperID_Title WHERE Title = 'Learning Transliteration Lexicons From The Web'
+567,SELECT PaperID FROM PaperID_Title WHERE Title = 'Structured Ramp Loss Minimization for Machine Translation',SELECT PaperID FROM PaperID_Title WHERE Title = 'Improved Iterative Correction for Distant Spelling Errors'
+534,SELECT Title FROM PaperID_Title WHERE PaperID = 'C80-1039',SELECT Title FROM PaperID_Title WHERE PaperID = 'C80-1039'
+1617,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=ATS-MA AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=ATS-MA AND Year=Year;
+135,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-12341',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-12341'
+1302,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-68,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-68
+70,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-7511',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-7511'
+342,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'E91-1043',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'E91-1043'
+289,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'C10-1082' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'C10-1082' 
+1552,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year>2016;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<2016;
+548,SELECT Title FROM PaperID_Title WHERE PaperID = 'W11-1411',SELECT Title FROM PaperID_Title WHERE PaperID = 'W11-1411'
+785,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'Vivisimo,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'Vivisimo
+210,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W97-0314' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W97-0314' 
+899,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-15061'","SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-15061'"
+1178,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Sun%';,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Mc%';
+1286,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W09-1214';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W09-1214';
+185,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W03-2809' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W03-2809' 
+49,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17743',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17743'
+1475,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Workshop On TIPSTER Text Program;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Workshop On Information Extraction Beyond The Document;
+566,SELECT PaperID FROM PaperID_Title WHERE Title = 'Prediction of Maximal Projection for Semantic Role Labeling',SELECT PaperID FROM PaperID_Title WHERE Title = 'Learning Linear Precedence Rules'
+1225,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-628' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-628' ;
+973,SELECT Name FROM AuthID_Name WHERE AuthID='A-2651';,SELECT Name FROM AuthID_Name WHERE AuthID='A-2651';
+1299,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-576,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-576
+168,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W00-1402' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W00-1402' 
+1640,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-2178;,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-2178;
+99,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-11557',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-11557'
+240,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P82-1005' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P82-1005' 
+1026,SELECT Name FROM AuthID_Name WHERE AuthID='A-16141';,SELECT Name FROM AuthID_Name WHERE AuthID='A-16141';
+1538,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-239;,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-239;
+203,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W08-0311' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W08-0311' 
+1240,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-597' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-597' ;
+1449,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL NAACL Workshop on Extracting and Using Constructions in Computational Linguistics;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing;
+1355,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D14%' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D14-%' ;
+677,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Nagasaki Japan%,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Hanoi Vietnam%
+1272,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W06-3813';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W06-3813';
+275,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'H05-1082' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'H05-1082' 
+1164,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Ku%';,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Han%';
+23,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17068',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17068'
+1523,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-453;,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-453;
+611,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'A Hedgehop over a%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'A Software Environment For Developing Nat%'
+1358,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-5%' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'A%' ;
+506,SELECT Summary from PaperID_Summary WHERE PaperID = 'N04-1022' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'N04-1022' 
+331,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W08-1123',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W08-1123'
+1338,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-180,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-180
+411,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'C10-1116',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'C10-1116'
+1466,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=CAtoCL;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=CAtoCL;
+414,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'D09-1129',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'D09-1129'
+1160,"SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Wubben,%';","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Schmauks,%';"
+1422,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-119' ;,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-119' ;
+915,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-5372'","SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-5372'"
+453,SELECT Summary from PaperID_Summary WHERE PaperID = 'D10-1062' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'D10-1062' 
+1179,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Leib%';,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Lonn%';
+757,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1784'","SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1784'"
+316,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C82-1025',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C82-1025'
+694,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Louveciennes France%,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Grenoble France%
+65,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-290',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-290'
+621,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Re%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'T%'
+29,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-9564',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-9564'
+544,SELECT Title FROM PaperID_Title WHERE PaperID = 'E09-2006',SELECT Title FROM PaperID_Title WHERE PaperID = 'E09-2006'
+1172,"SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Jacquemin, %';","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Vauzeilles, Jacqueli%';"
+1556,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year>2002;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<2002;
+1384,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-1' ;,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-1' ;
+1351,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W11%' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W14%' ;
+1043,"SELECT AuthID FROM AuthID_Name WHERE Name='McCarthy, Joseph';","SELECT AuthID FROM AuthID_Name WHERE Name='Harris, Larry R';"
+30,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-11004',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-11004'
+1202,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Yega%';,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Nag%';
+1067,SELECT AuthID FROM AuthID_Name WHERE Name='Mitte';,SELECT AuthID FROM AuthID_Name WHERE Name='Centelles';
+772,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-507'","SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-507'"
+1142,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Moon%';,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'My%';
+426,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'N10-1146',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'N10-1146'
+1491,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=1996;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=1997;
+526,SELECT Title FROM PaperID_Title WHERE PaperID = 'H89-2046',SELECT Title FROM PaperID_Title WHERE PaperID = 'H89-2046'
+332,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'L08-1052',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'L08-1052'
+344,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W04-2117',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W04-2117'
+596,SELECT PaperID FROM PaperID_Title WHERE Title = 'A Differential LSI Method For Document Classification',SELECT PaperID FROM PaperID_Title WHERE Title = 'Learning IE Rules For A Set Of Related Concepts'
+1598,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the Parsing 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the Workshop on Parsing German AND Year=Year;
+413,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P04-2004',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P04-2004'
+1235,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-487' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-487' ;
+1244,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-498' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-498' ;
+514,SELECT Summary from PaperID_Summary WHERE PaperID = 'D14-1121' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'D14-1121' 
+115,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-3650',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-3650'
+1177,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Audhk%';,"SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Roseacuten, Vict%';"
+1094,SELECT AuthID FROM AuthID_Name WHERE Name='Gr';,SELECT AuthID FROM AuthID_Name WHERE Name='So';
+806,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'University of Chicago,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'University of Neuchatel
+1296,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W14-3108';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W14-3108';
+32,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-16211',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-16211'
+1023,SELECT Name FROM AuthID_Name WHERE AuthID='A-655';,SELECT Name FROM AuthID_Name WHERE AuthID='A-655';
+1346,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W0%' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W9%' ;
+1483,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=1965;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=1969;
+1333,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-493,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-493
+575,SELECT PaperID FROM PaperID_Title WHERE Title = 'Unsupervised Learning Of Morphology Without Morphemes',SELECT PaperID FROM PaperID_Title WHERE Title = 'An Unsupervised Learning Method For Associative Relationships Between Verb Phrases'
+1649,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-984;,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-984;
+366,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C82-1064',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C82-1064'
+1660,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-4171;,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-4171;
+251,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-1035' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-1035' 
+244,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-2018' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-2018' 
+1088,SELECT AuthID FROM AuthID_Name WHERE Name='Yasuha';,"SELECT AuthID FROM AuthID_Name WHERE Name='Izumida,';"
+1433,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C%' ;,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-%' ;
+782,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'Beijing Normal University,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'University of Tsukuba
+857,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-258',SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-258'
+1365,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D13-1%' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D14-1%' ;
+1273,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='D09-1048';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='D09-1048';
+59,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-15162',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-15162'
+626,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Distrib%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Sublanguag%'
+69,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-5769',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-5769'
+220,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P12-3007' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P12-3007' 
+1313,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-392,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-392
+926,SELECT AuthID FROM AuthID_FieldID WHERE FieldID == 'F-1',SELECT AuthID FROM AuthID_FieldID WHERE FieldID == 'F-1'
+607,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Using Clustering to Improve Retrieval Evaluation without Re%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Multi-Relational Latent Semantic %'
+1634,SELECT Topic FROM FieldID_Topic WHERE FieldID=F-2;,SELECT Topic FROM FieldID_Topic WHERE FieldID=F-2;
+1347,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'W07-1%' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'H05-1%' ;
+777,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-76'","SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-76'"
+1217,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-66' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-66' ;
+1220,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-442' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-442' ;
+471,SELECT Summary from PaperID_Summary WHERE PaperID = 'P07-1071' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'P07-1071' 
+1055,"SELECT AuthID FROM AuthID_Name WHERE Name='Blanchon, Herv';","SELECT AuthID FROM AuthID_Name WHERE Name='Herviou, Marie Luce';"
+1283,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P14-1066';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P14-1066';
+1110,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Carl%';,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Ka%';
+715,"SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Computer%'","SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Open%'"
+78,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-12511',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-12511'
+1133,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'B%';,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Ish%';
+450,SELECT Summary from PaperID_Summary WHERE PaperID = 'W97-0310' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'W97-0310' 
+807,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'IBM Corp,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'GE Aerospace
+1192,"SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Bajec, M%';","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Kovaleva, A%';"
+1614,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL NAACL 2010 Second Workshop on Computational Approaches to Linguistic Creativity;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop AND Year=Year;
+1559,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year>2014;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<2013;
+1619,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the ACL 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology AND Year=Year;
+937,"SELECT FieldID, Count(AuthID) FROM AuthID_FieldID GROUP BY FieldID HAVING Count(AuthID) > 1591 ORDER BY Count(AuthID) ASC ","SELECT FieldID, Count(AuthID) FROM AuthID_FieldID GROUP BY FieldID HAVING Count(AuthID) > 1961 ORDER BY Count(AuthID) ASC "
+637,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'User-Friendly Text Pre%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Crawling microblogging services to gather language-classified URLs%'
+462,SELECT Summary from PaperID_Summary WHERE PaperID = 'W14-4316' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'W14-4316' 
+989,SELECT Name FROM AuthID_Name WHERE AuthID='A-16125';,SELECT Name FROM AuthID_Name WHERE AuthID='A-16125';
+173,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W11-1215' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W11-1215' 
+1226,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-49' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-49' ;
+298,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-13' ,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-13' 
+420,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W01-1016',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W01-1016'
+820,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-604',SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-604'
+745,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Academy%',SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Uiduk%'
+124,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-1591',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-1591'
+535,SELECT Title FROM PaperID_Title WHERE PaperID = 'C82-1039',SELECT Title FROM PaperID_Title WHERE PaperID = 'C82-1039'
+259,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P14-2009' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P14-2009' 
+650,SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Athens GA%',SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%The Syriac Institute%'
+1661,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-5430;,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-5430;
+416,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P80-1040',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P80-1040'
+1163,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Michel%';,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Wan%';
+188,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'T87-1016' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'T87-1016' 
+952,SELECT Name FROM AuthID_Name WHERE AuthID='A-301';,SELECT Name FROM AuthID_Name WHERE AuthID='A-301';
+1601,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Applications AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Coreference And Its Applications AND Year=Year;
+988,SELECT Name FROM AuthID_Name WHERE AuthID='A-14892';,SELECT Name FROM AuthID_Name WHERE AuthID='A-14892';
+493,SELECT Summary from PaperID_Summary WHERE PaperID = 'P03-2030' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'P03-2030' 
+271,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W08-0707' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'W08-0707' 
+162,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W99-0201' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W99-0201' 
+1084,"SELECT AuthID FROM AuthID_Name WHERE Name='Cooper, ';","SELECT AuthID FROM AuthID_Name WHERE Name='GarciaSerrano, ';"
+1234,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-168' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-168' ;
+727,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Naval%',SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Technology%'
+425,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W08-1307',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W08-1307'
+1456,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of SRSL 2009 the 2nd Workshop on Semantic Representation of Spoken Language;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing;
+1670,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-756;,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-756;
+829,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-673',SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-673'
+73,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-1845',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-1845'
+109,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-6140',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-6140'
+270,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P98-1042' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P98-1042' 
+486,SELECT Summary from PaperID_Summary WHERE PaperID = 'W08-1136' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'W08-1136' 
+350,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'J94-1003',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'J94-1003'
+237,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C82-1035' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C82-1035' 
+879,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-4452'","SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-4452'"
+950,SELECT Name FROM AuthID_Name WHERE AuthID='A-14583';,SELECT Name FROM AuthID_Name WHERE AuthID='A-14583';
+1488,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=2005;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=2003;
+1611,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the ACL 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the ACL 2011 Workshop on Relational Models of Semantics AND Year=Year;
+51,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-866',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-866'
+1310,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-127,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-127
+76,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17379',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-17379'
+212,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P09-1058' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P09-1058' 
+979,SELECT Name FROM AuthID_Name WHERE AuthID='A-12398';,SELECT Name FROM AuthID_Name WHERE AuthID='A-12398';
+422,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P93-1023',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P93-1023'
+1387,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-3' ;,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-3' ;
+527,SELECT Title FROM PaperID_Title WHERE PaperID = 'M92-1032',SELECT Title FROM PaperID_Title WHERE PaperID = 'M92-1032'
+518,SELECT Title FROM PaperID_Title WHERE PaperID = 'W98-0509',SELECT Title FROM PaperID_Title WHERE PaperID = 'W98-0509'
+123,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-13725',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-13725'
+247,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W98-1402' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W98-1402' 
+303,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-7' ,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-7' 
+1181,"SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Holz, %';","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Keogh, %';"
+1593,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Learning Word Meaning From Non-Linguistic Data AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Reversible Grammar In Natural Language Processing AND Year=Year;
+1121,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Ca%';,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Gli%';
+394,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P84-1057',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'P84-1057'
+889,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-15047'","SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-15047'"
+339,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W04-1402',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'W04-1402'
+643,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Modeling Child Divergenc%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Exploiting Background Knowledge for Relation Extract%'
+1293,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W12-1616';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W12-1616';
+1383,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-13' ;,SELECT ConfID FROM ConfID_FieldID WHERE FieldID='F-13' ;
+1595,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Constraints And Language Processing AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On KRAQ Knowledge And Reasoning For Language Processing AND Year=Year;
+855,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1897',SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1897'
+351,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P11-3021',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P11-3021'
+374,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'S14-2064',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'S14-2064'
+67,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-11734',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-11734'
+1245,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-356' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-356' ;
+239,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W03-1116' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W03-1116' 
+141,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W12-2906' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'W12-2906' 
+1252,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-431' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-431' ;
+1188,"SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%He, Jin%';","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Ono, Takah%';"
+538,SELECT Title FROM PaperID_Title WHERE PaperID = 'C94-2129',SELECT Title FROM PaperID_Title WHERE PaperID = 'C94-2129'
+1006,SELECT Name FROM AuthID_Name WHERE AuthID='A-12848';,SELECT Name FROM AuthID_Name WHERE AuthID='A-12848';
+576,SELECT PaperID FROM PaperID_Title WHERE Title = 'Structured Ramp Loss Minimization for Machine Translation',SELECT PaperID FROM PaperID_Title WHERE Title = 'An Algorithm for Unsupervised Transliteration Mining with an Application to Word Alignment'
+532,SELECT Title FROM PaperID_Title WHERE PaperID = 'C90-2049',SELECT Title FROM PaperID_Title WHERE PaperID = 'C90-2049'
+693,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Nagasaki Japan%,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%St. Andrews UK%
+692,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Waxhaw NC%,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Hempstead NY%
+398,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'N15-2017',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'N15-2017'
+1589,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Learning Word Meaning From Non-Linguistic Data AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Psychocomputational Models Of Human Language Acquisition AND Year=Year;
+834,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-922',SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-922'
+1329,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-141,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-141
+679,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Trelaze France%,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Durham UK%
+184,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P06-2024' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P06-2024' 
+1132,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Carl%';,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Marcel%';
+479,SELECT Summary from PaperID_Summary WHERE PaperID = 'C10-1045' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'C10-1045' 
+1555,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year>1975;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<1965;
+864,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-698',SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-698'
+1013,SELECT Name FROM AuthID_Name WHERE AuthID='A-10519';,SELECT Name FROM AuthID_Name WHERE AuthID='A-10519';
+1436,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-5%' ;,SELECT COUNT(*) FROM ConfID_FieldID WHERE ConfID LIKE 'C-2%' ;
+1074,"SELECT AuthID FROM AuthID_Name WHERE Name='Gunes, Omer Far';","SELECT AuthID FROM AuthID_Name WHERE Name='Ben Gur, Ass';"
+1176,"SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Bajec, M%';","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Sartorio, France%';"
+1278,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P00-1043';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P00-1043';
+427,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W06-2714',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W06-2714'
+1627,SELECT FieldID FROM FieldID_Topic WHERE Topic=Lexical Acquisition;,SELECT FieldID FROM FieldID_Topic WHERE Topic=Multilingual NLP;
+759,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1227'","SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1227'"
+1535,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-462;,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-462;
+620,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Aligning Sentences I%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Aligning More Words With High Precision Fo%'
+324,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P97-1019',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P97-1019'
+994,SELECT Name FROM AuthID_Name WHERE AuthID='A-18013';,SELECT Name FROM AuthID_Name WHERE AuthID='A-18013';
+781,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'Beijing Normal University,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'Naresuan University
+936,"SELECT FieldID, Count(AuthID) FROM AuthID_FieldID GROUP BY FieldID HAVING Count(AuthID) > 1591 ORDER BY Count(AuthID) ASC ","SELECT FieldID, Count(AuthID) FROM AuthID_FieldID GROUP BY FieldID HAVING Count(AuthID) > 1529 ORDER BY Count(AuthID) ASC "
+1093,"SELECT AuthID FROM AuthID_Name WHERE Name='Pike, Chr';","SELECT AuthID FROM AuthID_Name WHERE Name='Sinclair, Da';"
+1419,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-438' ;,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-438' ;
+439,SELECT Summary from PaperID_Summary WHERE PaperID = 'C90-3086' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'C90-3086' 
+589,SELECT PaperID FROM PaperID_Title WHERE Title = 'Prediction of Maximal Projection for Semantic Role Labeling',SELECT PaperID FROM PaperID_Title WHERE Title = 'Modeling Argument Strength in Student Essays'
+1001,SELECT Name FROM AuthID_Name WHERE AuthID='A-11415';,SELECT Name FROM AuthID_Name WHERE AuthID='A-11415';
+485,SELECT Summary from PaperID_Summary WHERE PaperID = 'P09-1107' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'P09-1107' 
+1271,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W06-1644';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W06-1644';
+1134,"SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Picanco, Ge%';","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Moncecchi, Gui%';"
+383,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P03-1044',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P03-1044'
+433,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W98-1217',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W98-1217'
+1448,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL NAACL 2010 Second Workshop on Computational Approaches to Linguistic Creativity;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media;
+710,"SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Computer%'","SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Systems%'"
+590,SELECT PaperID FROM PaperID_Title WHERE Title = 'The Formal Consequences Of Using Variables In CCG Categories',SELECT PaperID FROM PaperID_Title WHERE Title = 'Beyond Projectivity: Multilingual Evaluation of Constraints and Measures on Non-Projective Structures'
+261,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'D14-1178' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'D14-1178' 
+1083,"SELECT AuthID FROM AuthID_Name WHERE Name='Tron, Viktoacu';","SELECT AuthID FROM AuthID_Name WHERE Name='Trandabat, Diana';"
+582,SELECT PaperID FROM PaperID_Title WHERE Title = 'INAOE_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity',SELECT PaperID FROM PaperID_Title WHERE Title = 'WYSIWYM - Building User Interfaces With Natural Language Feedback'
+1530,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-129;,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-129;
+170,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-1013' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'N09-1013' 
+1137,"SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Kubala, %';","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Glasgow, Ki%';"
+297,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-2' ,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-2' 
+670,SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Aberdeenshire UK%',SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Southampton UK%'
+44,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-18241',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-18241'
+560,SELECT PaperID FROM PaperID_Title WHERE Title = 'Two Ways to Use a Noisy Parallel News Corpus for Improving Statistical Machine Translation',SELECT PaperID FROM PaperID_Title WHERE Title = 'Neural Network Based Bilingual Language Model Growing for Statistical Machine Translation'
+907,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-10091'","SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-10091'"
+1263,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='N15-1108';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='N15-1108';
+1487,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=2008;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year=2007;
+736,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Naval%',SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Laboratories%'
+774,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1718'","SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-1718'"
+921,SELECT AuthID FROM AuthID_FieldID WHERE FieldID == 'F-5',SELECT AuthID FROM AuthID_FieldID WHERE FieldID == 'F-5'
+1415,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-132' ;,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-132' ;
+429,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'S14-2105',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'S14-2105'
+1533,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-408;,SELECT Venue FROM ConfID_Venue_Year WHERE ConfID=C-408;
+175,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'A00-2036' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'A00-2036' 
+701,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Trelaze France%,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Taejon Korea%
+931,SELECT Count(AuthID) FROM AuthID_FieldID WHERE FieldID == 'F-10',SELECT Count(AuthID) FROM AuthID_FieldID WHERE FieldID == 'F-10'
+584,SELECT PaperID FROM PaperID_Title WHERE Title = 'Intentional Context In Situated Natural Language Learning',SELECT PaperID FROM PaperID_Title WHERE Title = 'Ein Programm Zur Automatischen Synthese Englischer Satze'
+990,SELECT Name FROM AuthID_Name WHERE AuthID='A-10416';,SELECT Name FROM AuthID_Name WHERE AuthID='A-10416';
+1047,"SELECT AuthID FROM AuthID_Name WHERE Name='MadorHaim, Sela';","SELECT AuthID FROM AuthID_Name WHERE Name='SegalhaLevi, Erel';"
+198,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P13-1096' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P13-1096' 
+15,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-15154',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-15154'
+1592,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Constraints And Language Processing AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Conversational Systems AND Year=Year;
+599,SELECT PaperID FROM PaperID_Title WHERE Title = 'Efficient Transformation-Based A',SELECT PaperID FROM PaperID_Title WHERE Title = 'A Graphical User Interface for Feature-Based Opinion Mining'
+787,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'University of Chicago,SELECT Place From AffiliationID_Place_Affiliation WHERE Affiliate LIKE 'University of Umea
+1553,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year>1973;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<1973;
+816,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1123',SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1123'
+352,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C65-1006',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'C65-1006'
+1470,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=SIGLEX Workshop On Deep Lexical Acquisition;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Workshop On The Acquisition Of Lexical Knowledge From Text;
+300,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-9' ,SELECT PaperID FROM PaperID_FieldID WHERE FieldID = 'F-9' 
+199,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P06-2028' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'P06-2028' 
+631,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Modeling Child Divergenc%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'How to Produce Unseen Teddy Bears: Improved Morphological Processing of Compounds in S%'
+1052,"SELECT AuthID FROM AuthID_Name WHERE Name='McCarthy, Joseph';","SELECT AuthID FROM AuthID_Name WHERE Name='Chinosi, Michele';"
+405,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W10-1608',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'W10-1608'
+1582,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL NAACL 2010 Second Workshop on Computational Approaches to Linguistic Creativity;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Proceedings of the NAACL HLT 2010 Workshop on Semantic Search AND Year=Year;
+669,SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Seattle WA%',SELECT Affiliate FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Edwardsville IL%'
+1159,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Van Der%';,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Van der %';
+1057,"SELECT AuthID FROM AuthID_Name WHERE Name='McCarthy, Joseph';","SELECT AuthID FROM AuthID_Name WHERE Name='Wilson, Phil';"
+1258,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W13-3610';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='W13-3610';
+56,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-16009',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-16009'
+704,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Trelaze France%,SELECT Count(Affiliate) FROM AffiliationID_Place_Affiliation WHERE Place LIKE '%Sakai Japan%
+43,SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-12887',SELECT PaperID FROM PaperID_AuthID WHERE AuthID = 'A-12887'
+100,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-15582',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-15582'
+274,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'C10-2171' ,SELECT COUNT(AuthID) FROM PaperID_AuthID WHERE PaperID= 'C10-2171' 
+1167,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Ku%';,SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE 'Rula%';
+101,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-11153',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-11153'
+1353,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D13-1%' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE PaperID LIKE 'D11-1%' ;
+107,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-10274',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-10274'
+1421,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-358' ;,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-358' ;
+490,SELECT Summary from PaperID_Summary WHERE PaperID = 'W03-1804' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'W03-1804' 
+965,SELECT Name FROM AuthID_Name WHERE AuthID='A-5063';,SELECT Name FROM AuthID_Name WHERE AuthID='A-5063';
+1477,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Workshop on Computational Approaches to Code Switching;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Venue=Workshop on Statistical Machine Translation;
+1103,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Tr%';,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'So%';
+371,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P98-2233',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P98-2233'
+1216,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-161' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-161' ;
+861,SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-796',SELECT Count(AuthID) FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-796'
+997,SELECT Name FROM AuthID_Name WHERE AuthID='A-17016';,SELECT Name FROM AuthID_Name WHERE AuthID='A-17016';
+128,SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-17086',SELECT COUNT(PaperID) FROM PaperID_AuthID WHERE AuthID = 'A-17086'
+367,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'E09-1034',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'E09-1034'
+903,"SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-9580'","SELECT AuthID,AffiliationID FROM AuthID_AffiliationID WHERE AuthID == 'A-9580'"
+1113,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Ro%';,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Che%';
+838,SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1267',SELECT AuthID FROM AuthID_AffiliationID WHERE AffiliationID == 'AF-1267'
+382,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'D08-1043',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'D08-1043'
+1613,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Analyzing Conversations In Text And Speech AND Year=Year;,SELECT ConfID FROM ConfID_Venue_Year WHERE Venue=Workshop On Text Meaning And Interpretation AND Year=Year;
+1378,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-2' ;,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-2' ;
+1334,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-452,SELECT PaperID FROM ConfID_PaperID WHERE ConfID='C-452
+530,SELECT Title FROM PaperID_Title WHERE PaperID = 'W10-4236',SELECT Title FROM PaperID_Title WHERE PaperID = 'W10-4236'
+464,SELECT Summary from PaperID_Summary WHERE PaperID = 'W09-3926' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'W09-3926' 
+432,SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'X96-1021',SELECT COUNT(FieldID) FROM PaperID_FieldID WHERE PaperID = 'X96-1021'
+1112,"SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Kubala, %';","SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Lee,%';"
+613,SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Using Clustering to Improve Retrieval Evaluation without Re%',SELECT PaperID FROM PaperID_Title WHERE Title LIKE 'Hierarchical Clustering Of Words And Application To NL%'
+1106,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Tr%';,SELECT AuthID FROM AuthID_Name WHERE Name LIKE 'Tian%';
+1548,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year>2010;,SELECT COUNT(*) FROM ConfID_Venue_Year WHERE Year<2011;
+1204,"SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Jacquemin, %';","SELECT COUNT(*) FROM AuthID_Name WHERE Name LIKE '%Mouret, P%';"
+1381,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-5' ;,SELECT COUNT(*) FROM ConfID_FieldID WHERE FieldID='F-5' ;
+767,"SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-776'","SELECT Affiliate,Place FROM AffiliationID_Place_Affiliation WHERE AffiliationID == 'AF-776'"
+482,SELECT Summary from PaperID_Summary WHERE PaperID = 'P15-1035' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'P15-1035' 
+353,SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P15-2017',SELECT FieldID FROM PaperID_FieldID WHERE PaperID = 'P15-2017'
+1651,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-3287;,SELECT PaperID FROM KeywordID_PaperID WHERE KeywordID=K-3287;
+226,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C92-4195' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C92-4195' 
+231,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C08-1127' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'C08-1127' 
+722,"SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Scientific%'","SELECT Place,Affiliate,AffiliationID FROM AffiliationID_Place_Affiliation WHERE Affiliate LIKE '%Institute%'"
+1423,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-466' ;,SELECT FieldID FROM ConfID_FieldID WHERE ConfID='C-466' ;
+1236,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-547' ;,SELECT COUNT(*) FROM ConfID_PaperID WHERE ConfID='C-547' ;
+163,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P04-3015' ,SELECT AuthID FROM PaperID_AuthID WHERE PaperID= 'P04-3015' 
+513,SELECT Summary from PaperID_Summary WHERE PaperID = 'P93-1034' ,SELECT Summary from PaperID_Summary WHERE PaperID = 'P93-1034' 
+1262,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P04-1026';,SELECT ConfID FROM ConfID_PaperID WHERE PaperID='P04-1026';
