@@ -126,7 +126,7 @@ def min_path_column(graph,start,end):
 
 
 def make_join_query(path):
-    print(path)
+    # print(path)
     string = "FROM "
     first_table = main_dict[path[0]][0]
     last_table = main_dict[path[-1]][0]

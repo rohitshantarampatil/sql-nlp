@@ -26,4 +26,4 @@ def give_column(sen_without_ne):#column_names=['Place','Affiliate','AffiliationI
         # else:
         #     print('error')
     return list(set(a))
-# print(give_column("How many papers were published in the year at  Proceedings of the Eighth Workshop on Asian Language Resouces How many papers were published in the year at  Proceedings of the Eighth Workshop on Asian Language Resouces "))
+print(give_column("How many papers were published in the year at  Proceedings of the Eighth Workshop on Asian Language Resouces How many papers were published in the year at  Proceedings of the Eighth Workshop on Asian Language Resouces "))
