@@ -27,7 +27,7 @@
     "            maping[val]=list(set(data[val]).intersection(set(maping[val])))\n",
     "        else:\n",
     "            maping[val]=list(set(data[val]))\n",
-    "    maping['NUM']=[str(i) for i in range(1000)]\n",
+    "    maping['NUM']=[str(i) for i in range(3000)]\n",
     "\n",
     "def NER(natural):\n",
     "    token=re.split('[,.?\\'\\'\\\" ]', natural)\n",
@@ -49,18 +49,6 @@
    "display_name": "Python 3",
    "language": "python",
    "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.7.4"
   }
  },
  "nbformat": 4,
