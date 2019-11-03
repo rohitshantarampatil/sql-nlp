@@ -1,8 +1,10 @@
 import pandas as pd
 import spacy
+import difflib
 from spacy import displacy
 from difflib import get_close_matches
-
+df=pd.read_csv("Augmented.csv")
+l=df.values.tolist()
 def give_column(sen_without_ne):#column_names=['Place','Affiliate','AffiliationID','AuthID','FieldID','Name','ConfID','PaperID','Venue','Year','Topic','KeywordID','Summary','Title']
     column_names=['Place','Affiliate','AffiliationID','AuthID','FieldID','Name','ConfID','PaperID','Venue','Year','Topic','KeywordID','Summary','Title']
     lower_column_names=[]
@@ -15,15 +17,14 @@ def give_column(sen_without_ne):#column_names=['Place','Affiliate','AffiliationI
     a=[]
     x=[]
     for i in l:
-        x=get_close_matches(i.lower(), lower_column_names,n=1,cutoff=0.5)
+        x=get_close_matches(i.lower(), lower_column_names,n=1,cutoff=0.55)
         if not x==[]:
             for j in range(len(lower_column_names)):
                 if lower_column_names[j]==x[0]:
-                    a.append(column_names[j])
+                    a.append([column_names[j],difflib.SequenceMatcher(None, i, lower_column_names[j]).ratio()])
                     break
                 else:
                     continue
         # else:
         #     print('error')
-    return list(set(a))
-print(give_column("How many papers were published in the year at  Proceedings of the Eighth Workshop on Asian Language Resouces How many papers were published in the year at  Proceedings of the Eighth Workshop on Asian Language Resouces "))
+    return sorted(a,key=lambda x:x[1],reverse=1)
