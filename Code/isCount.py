@@ -6,8 +6,8 @@
 
 def isCount(sentence):
     import nltk
-    nltk.download('stopwords')
-    nltk.download('punkt')
+    # nltk.download('stopwords')
+    # nltk.download('punkt')
     from nltk.corpus import stopwords
     from nltk.tokenize import RegexpTokenizer  
     import pandas as pd
@@ -20,7 +20,7 @@ def isCount(sentence):
     import operator
     stop_words = set(stopwords.words('english'))
     
-    data = pd.read_csv("final.csv")
+    data = pd.read_csv("/Users/prakash/Desktop/natural-to-sql/Final_Processed/Augmented_Non_Complex.csv")
     # print(data.columns)
     natural= data.Natural.tolist()
     sql = data.SQL.tolist()
@@ -69,5 +69,5 @@ def isCount(sentence):
 # In[115]:
 
 
-print(isCount("How many papers of author myman"))
+# print(isCount("How many papers of author myman"))
 

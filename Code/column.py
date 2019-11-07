@@ -3,7 +3,7 @@ import spacy
 import difflib
 from spacy import displacy
 from difflib import get_close_matches
-df=pd.read_csv("Augmented.csv")
+df=pd.read_csv("/Users/prakash/Desktop/natural-to-sql/Final_Processed/Augmented_Non_Complex.csv")
 l=df.values.tolist()
 def give_column(sen_without_ne):#column_names=['Place','Affiliate','AffiliationID','AuthID','FieldID','Name','ConfID','PaperID','Venue','Year','Topic','KeywordID','Summary','Title']
     column_names=['Place','Affiliate','AffiliationID','AuthID','FieldID','Name','ConfID','PaperID','Venue','Year','Topic','KeywordID','Summary','Title']
@@ -27,4 +27,4 @@ def give_column(sen_without_ne):#column_names=['Place','Affiliate','AffiliationI
                     continue
         # else:
         #     print('error')
-    return sorted(a,key=lambda x:x[1],reverse=1)
+    return [ele[0] for ele in sorted(a,key=lambda x:x[1],reverse=1)]
