@@ -276,12 +276,14 @@ def convert(string):
 
 if __name__=='__main__':
 	optlist, arglist = getopt.getopt(sys.argv[1:], "i:u:o:f:khs")
-	dic=['AffiliationID_Place_Affiliation','AuthID_AffiliationID', 'AuthID_FieldID', 'AuthID_Name', 'FieldID_Topic']
-	for i,j in enumerate(dic):
-		print(i,j)
-	csvfiles=['AffiliationID_Place_Affiliation.csv', 'AuthID_AffiliationID.csv', 'AuthID_FieldID.csv', 'AuthID_Name.csv', 'FieldID_Topic.csv']
+	# dic=['AffiliationID_Place_Affiliation','AuthID_AffiliationID', 'AuthID_FieldID', 'AuthID_Name', 'FieldID_Topic']
+	# for i,j in enumerate(dic):
+	# 	print(i,j)
+	csvfiles=["AffiliationID_Place_Affiliation.csv","AuthID_AffiliationID.csv","AuthID_FieldID.csv","AuthID_Name.csv"
+     ,"ConfID_FieldID.csv","ConfID_PaperID.csv","ConfID_Venue_Year.csv","FieldID_Topic.csv","KeywordID_PaperID.csv"
+     ,"PaperID_AuthID.csv","PaperID_FieldID.csv","PaperID_Summary.csv","PaperID_Title.csv"]
 	sqlcmd_temp = raw_input("Enter SQL :")
-	sqlcmd = convert(sqlcmd_temp)
+	sqlcmd = sqlcmd_temp
 	keep_db=False
 	qcsv(csvfiles, None, None, keep_db, sqlcmd)
 	print sqlcmd
