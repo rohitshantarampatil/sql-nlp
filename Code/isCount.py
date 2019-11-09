@@ -20,7 +20,7 @@ def isCount(sentence):
     import operator
     stop_words = set(stopwords.words('english'))
     
-    data = pd.read_csv("/Users/prakash/Desktop/natural-to-sql/Final_Processed/Augmented_Non_Complex.csv")
+    data = pd.read_csv("Augmented_Non_Complex.csv")
     # print(data.columns)
     natural= data.Natural.tolist()
     sql = data.SQL.tolist()

@@ -18,7 +18,7 @@ arr=["AffiliationID_Place_Affiliation.csv","AuthID_AffiliationID.csv","AuthID_Fi
 maping={}
 table={}
 for i in range(13):
-    data=pd.read_csv("/Users/prakash/Desktop/natural-to-sql/Dataset/"+arr[i])
+    data=pd.read_csv(arr[i])
     table[arr[i]]=data.columns
     for val in data.columns:
         if(val in maping):
@@ -39,7 +39,7 @@ def NER(natural):
 #             print(ele)
             for key in maping:
                 for value in maping[key]:
-                    if(ele==value):
+                    if(ele==str(value)):
                         tempo=tempo[:start].strip()+" "+tempo[end+1:].strip()
                         colname_identity.append([key,ele])
 #     print(tempo)
@@ -48,7 +48,7 @@ def NER(natural):
     for ele in token:
         for key in maping:
             for value in maping[key]:
-                if(ele==value):
+                if(ele==str(value)):
                     colname_identity.append([key,ele])
                     token.remove(ele)
     processed_natural=" ".join(token)
