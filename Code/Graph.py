@@ -26,8 +26,11 @@ dict_encoding = {"AffiliationID_Place_Affiliation":0,
 main_dict = defaultdict(list)
 for i in dict_encoding:
     main_dict[dict_encoding[i]].append(i)#First Element is Table Name
-    main_dict[dict_encoding[i]]+= i.split("_")#rest of the elements are columns
-print(main_dict)
+    main_dict[dict_encoding[i]]+= i.split("_")
+    if 'Affiliation' in main_dict[dict_encoding[i]]:
+         main_dict[dict_encoding[i]][main_dict[dict_encoding[i]].index('Affiliation')] = 'Affiliate'        
+    #rest of the elements are columns
+#print(main_dict)
 
 
 # In[4]:
@@ -183,6 +186,6 @@ def from_query(start,end):
 # In[17]:
 
 
-query,first_table,last_table = from_query("Title","Year")
-print("Query = ", query," \n first_table = ",first_table, " \n last_table = ",last_table)
+# query,first_table,last_table = from_query("Title","Year")
+# print("Query = ", query," \n first_table = ",first_table, " \n last_table = ",last_table)
 
